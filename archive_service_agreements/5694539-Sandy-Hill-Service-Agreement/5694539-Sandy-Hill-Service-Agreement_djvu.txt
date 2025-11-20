@@ -1,0 +1,5454 @@
+MULTI-SECTOR SERVICE ACCOUNTABILITY AGREEMENT 
+April 1,2018 to March 31, 2019 
+
+
+SERVICE ACCOUNTABILITY AGREEMENT 
+with 
+
+Sandy Hill Community Health Centre 
+Effective Date: April 1,2018 
+Index to Agreement 
+
+
+ARTICLE 1.0 
+ARTICLE 2.0 
+ARTICLE 3.0 
+ARTICLE 4.0 
+ARTICLE 5.0 
+ARTICLE 6.0 
+ARTICLE 7.0 
+ARTICLE 8.0 
+ARTICLE 9.0 
+ARTICLE 10.0 
+ARTICLE 11.0 
+ARTICLE 12.0 
+ARTICLE 13.0 
+ARTICLE 14.0 
+ARTICLE 15.0 
+
+
+- DEFINITIONS & INTERPRETATION 
+
+- TERM AND NATURE OF THIS AGREEMENT 
+
+- PROVISION OF SERVICES 
+
+- FUNDING 
+
+- REPAYMENT AND RECOVERY OF FUNDING 
+
+- PLANNING & INTEGRATION 
+
+- PERFORMANCE 
+
+- REPORTING, ACCOUNTING AND REVIEW 
+
+- ACKNOWLEDGEMENT OF LHIN SUPPORT 
+
+- REPRESENTATIONS, WARRANTIES AND COVENANTS 
+
+- LIMITATION OF LIABILITY, INDEMNITY & INSURANCE 
+
+- TERMINATION OF AGREEMENT 
+
+- NOTICE 
+
+- ADDITIONAL PROVISIONS 
+
+- ENTIRE AGREEMENT 
+
+
+Schedules 
+
+A - Detailed Description of Services 
+
+B - Service Plan 
+
+C - Reports 
+
+D - Directives, Guidelines, Policies & Standards 
+
+E - Performance 
+
+F - Project Funding Agreement Template 
+
+G - Declaration of Compliance 
+
+
+
+
+
+THE AGREEMENT effective as of the 1®‘ day of April, 2018 
+
+
+BETWEEN: 
+
+CHAMPLAIN LOCAL HEALTH INTEGRATION NETWORK (the “LHIN”) 
+
+- and - 
+
+Sandy Hill Community Health Centre (the “HSP”) 
+
+
+Background: 
+
+This service accountability agreement, entered into pursuant to the Local Health System 
+Integration Act, 2006 (“LHSIA”), reflects and supports the commitment of the LHIN and the 
+HSP to, separately, jointly, and in cooperation with other stakeholders, work diligently and 
+collaboratively toward the achievement of the purpose of LHSIA, namely “to provide for an 
+integrated health system to improve the health of Ontarians through better access to high 
+quality health services, co-ordinated health care in local health systems and across the 
+province and effective and efficient management of the health system at the local level by local 
+health integration networks”. 
+
+The HSP and the LHIN, being committed to a health care system as envisioned by LHSIA and 
+the Patient’s First: Action Plan for Health Care (“Patients First”), intend to cooperate to 
+advance the purpose and objects of LHSIA and the further development of a patient-centered, 
+integrated, accountable, transparent, and evidence-based health system contemplated by 
+LHSIA and Patients First. They will do so by such actions as: supporting the development and 
+implementation of sub-regions and Health Links to facilitate regional integrated health care 
+service delivery; breaking down silos that inhibit the seamless transition of patients within the 
+health care system; striving for the highest quality and continuous improvement in the delivery 
+of health services and in all aspects of the health system, including by identifying and 
+addressing the root causes of health inequities, and by improving access to primary care, 
+mental health and addiction services and wait times for specialists; and otherwise striving for 
+the highest quality and continuous improvement in the delivery of health services and in all 
+aspects of the health system. 
+
+The HSP and the LHIN are committed to working together, and with others, to achieve evolving 
+provincial priorities described: in mandate letters from the Minister of Health and Long-Term 
+Care to the LHIN, from time to time; in the provincial strategic plan for the health system; and, 
+in the LHIN’s Integrated Health Services Plan. 
+
+In this context, the HSP and the LHIN agree that the LHIN will provide funding to the HSP on 
+the terms and conditions set out in this Agreement to enable the provision of services to the 
+local health system by the HSP. 
+
+In consideration of their respective agreements set out below, the LHIN and the HSP covenant 
+and agree as follows: 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 2 of 33 
+
+
+
+ARTICLE 1.0- DEFINITIONS & INTERPRETATION 
+
+
+1.1 Definitions. In this Agreement the following terms will have the following meanings: 
+
+“Accountability Agreement” means the accountability agreement, as that term is 
+defined in LHSIA, in place between the LHIN and the MOHLTC during a Funding Year, 
+currently referred to as the Ministry-LHIN Accountability Agreement; 
+
+
+“Active Offer” means the clear and proactive offer of service in French to individuals, 
+from the first point of contact, without placing the responsibility of requesting services in 
+French on the individual; 
+
+“Agreement” means this agreement and includes the Schedules, as amended from 
+time to time; 
+
+“Annual Balanced Budget” means that, in each Funding Year of the term of this 
+Agreement, the total revenues of the HSP are greater than or equal to the total 
+expenses, from all sources, of the HSP; 
+
+“Applicable Law” means all federal, provincial or municipal laws, regulations, common 
+law, any orders, rules or by-laws that are applicable to the HSP, the Services, this 
+Agreement and the parties’ obligations under this Agreement during the term of this 
+Agreement; 
+
+“Applicable Policy” means any rules, policies, directives, standards of practice or 
+Program Parameters issued or adopted by the LHIN, the MOHLTC or other ministries 
+or agencies of the province of Ontario that are applicable to the HSP, the Services, this 
+Agreement and the parties’ obligations under this Agreement during the term of this 
+Agreement. Without limiting the generality of the foregoing. Applicable Policy includes 
+the other documents identified in Schedule D; 
+
+“Board” means: 
+
+(1) in respect of an HSP that does not have a Long-Term Care Home Service 
+Accountability Agreement with the LHIN and is: 
+
+(a) a corporation, the board of directors; 
+
+(b) a First Nation, the band council; and 
+
+(c) a municipality, the municipal council; 
+and, 
+
+(2) in respect of an HSP that has a Long-Term Care Home Service Accountability 
+Agreement with the LHIN and is: 
+
+(a) a corporation, the board of directors; 
+
+(b) a First Nation, the band council; 
+
+(c) a municipality, the committee of management; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 3 of 33 
+
+
+
+(d) a board of management established by one or more municipalities or by one 
+or more First Nations’ band councils, the members of the board of 
+management; 
+
+“BPSAA” means the Broader Public Sector Accountability Act, 2010 and regulations 
+made under it, as it and they may be amended from time to time; 
+
+“Budget” means the budget approved by the LHIN and appended to this Agreement in 
+Schedule B; 
+
+“CEO” means the individual accountable to the Board for the provision of the Services 
+in accordance with the terms of this Agreement; 
+
+“Chair” means, if the HSP is: 
+
+(a) a corporation, the Chair of the Board; 
+
+(b) a First Nation, the Chief; and 
+
+(c) a municipality, the Mayor, 
+
+or such other person properly authorized by the Board or under Applicable Law; 
+
+“Compliance Declaration” means a compliance declaration substantially in the form 
+set out in Schedule G; 
+
+“Confidential Information” means information that is: (1) marked or otherwise 
+identified as confidential by the disclosing party at the time the information is provided 
+to the receiving party; and (2) eligible for exclusion from disclosure at a public board 
+meeting in accordance with section 9 of LHSIA. Confidential Information does not 
+include information that: (a) was known to the receiving party prior to receiving the 
+information from the disclosing party; (b) has become publicly known through no 
+wrongful act of the receiving party; or (c) is required to be disclosed by law, provided 
+that the receiving party provides Notice in a timely manner of such requirement to the 
+disclosing party, consults with the disclosing party on the proposed form and nature of 
+the disclosure, and ensures that any disclosure is made in strict accordance with 
+Applicable Law; 
+
+“Conflict of Interest” in respect of an HSP, includes any situation or circumstance 
+where: in relation to the performance of its obligations under this Agreement: 
+
+(a) the HSP; 
+
+(b) a member of the HSP’s Board; or 
+
+(c) any person employed by the HSP who has the capacity to influence the 
+HSP’s decision, 
+
+has other commitments, relationships or financial interests that: 
+
+(a) could or could be seen to interfere with the HSP’s objective, unbiased and 
+impartial exercise of its judgement; or 
+
+(b) could or could be seen to compromise, impair or be incompatible with the 
+effective performance of its obligations under this Agreement; 
+
+“Controlling Shareholder” of a corporation means a shareholder who or which holds 
+(or another person who or which holds for the benefit of such shareholder), other than 
+by way of security only, voting securities of such corporation carrying more than 50% of 
+the votes for the election of directors, provided that the votes carried by such securities 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 4 of 33 
+
+
+
+are sufficient, if exercised, to elect a majority of the board of directors of such 
+corporation; 
+
+“Days” means calendar days; 
+
+“Digital Health” has the meaning ascribed to it in the Accountability Agreement and 
+means the coordinated and integrated use of electronic systems, information and 
+communication technologies to facilitate the collection, exchange and management of 
+personal health information in order to improve the quality, access, productivity and 
+sustainability of the healthcare system; 
+
+Designated means designated as a public service agency under the FLSA; 
+
+“Effective Date” means April 1,2018; 
+
+“Explanatory Indicator” means a measure of the HSP’s performance for which no 
+Performance Target is set. Technical specifications of specific Explanatory Indicators 
+can be found in the “MSAA Indicator Technical Specifications document”. 
+
+“FIPPA” means the Freedom of Information and Protection of Privacy Act {Ontano) 
+and the regulations made it as it and they may be amended from time to time; 
+
+
+“FLSA” means the French Language Services Act and the regulations made under the 
+French Language Services Act, as it and they may be amended from time to time; 
+
+
+“Funding” means the amounts of money provided by the LHIN to the HSP in each 
+Funding Year of this Agreement; 
+
+“Funding Year” means in the case of the first Funding Year, the period commencing 
+on the Effective Date and ending on the following March 31, and in the case of Funding 
+Years subsequent to the first Funding Year, the period commencing on the date that is 
+April 1 following the end of the previous Funding Year and ending on the following 
+March 31; 
+
+“HSP’s Personnel and Volunteers” means the controlling shareholders (if any), 
+directors, officers, employees, agents, volunteers and other representatives of the HSP. 
+In addition to the foregoing, HSP’s Personnel and Volunteers shall include the 
+contractors and subcontractors and their respective shareholders, directors, officers, 
+employees, agents, volunteers or other representatives; 
+
+
+“Identified” means identified by the LHIN or the Ministry to provide French language 
+services; 
+
+“Indemnified Parties” means the LHIN and its officers, employees, directors, 
+independent contractors, subcontractors, agents, successors and assigns and her 
+Majesty the Queen in Right of Ontario and her Ministers, appointees and employees. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 5 of 33 
+
+
+
+independent contractors, subcontractors, agents and assigns. Indemnified parties also 
+includes any person participating on behalf of the LHIN in a Review; 
+
+“Interest Income” means interest earned on the Funding; 
+
+“LHIN Cluster” has the meaning ascribed to it in the Accountability Agreement and is 
+a grouping of LHINs for the purpose of advancing Digital Health initiatives through 
+regional coordination aligned with the MOHLTC’s provincial priorities. 
+
+
+“LHSIA” means the Local Health System Integration Act, 2006, and the regulations 
+made under it, as it and they may be amended from time to time; 
+
+“Mandate Letter” has the meaning ascribed to it in the Memorandum of Understanding 
+between MOHLTC and the LHIN, and means a letter from the Minister to the LHIN 
+establishing priorities in accordance with the Premier’s mandate letter to the Minister. 
+
+
+“MOHLTC” means the Minister or the Ministry of Health and Long-Term Care, as the 
+context requires; 
+
+“MSAA Indicator Technical Specifications document” means, as the context 
+requires, either or both of the document entitled “Multi-Sector Service Accountability 
+Agreement 2014-19: Indicator Technical Specifications October 20, 2017” and the 
+document entitled “2016-17 Multi-Sector Service Accountability Agreements (MSAA) 
+Target and Corridor Setting Guideline” as they may be amended or replaced from time 
+to time; 
+
+“Notice” means any notice or other communication required to be provided pursuant to 
+this Agreement or LHSIA; 
+
+“Performance Agreement” means an agreement between an HSP and its CEO that 
+requires the CEO to perform in a manner that enables the HSP to achieve the terms of 
+this Agreement and any additional performance improvement targets set out in the 
+HSP’s annual quality improvement plan under the Excellent Care for All Act, 2010; 
+
+“Performance Corridor” means the acceptable range of results around a Performance 
+Target. 
+
+“Performance Factor” means any matter that could or will significantly affect a party’s 
+ability to fulfill its obligations under this Agreement; 
+
+“Performance indicator” means a measure of HSP performance for which a 
+Performance Target is set; technical specifications of specific Performance Indicators 
+can be found in the MSAA Indicator Technical Specifications document; 
+
+“Performance Standard” means the acceptable range of performance for a 
+Performance Indicator or a Service Volume that results when a Performance Corridor is 
+applied to a Performance Target. 
+
+“Performance Target” means the level of performance expected of the HSP in respect 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 6 of 33 
+
+
+
+of a Performance Indicator or a Service Volume. 
+
+
+“person or entity” includes any individual and any corporation, partnership, firm, joint 
+venture or other single or collective form of organization under which business may be 
+conducted; 
+
+
+“Planning Submission” or “CAPS” or “Community Accountability Planning 
+Submission” means the HSP Board approved planning document submitted by the 
+HSP to the LHIN. The form, content and scheduling of the Planning Submission will be 
+identified by the LHIN; 
+
+“Program Parameter” means, in respect of a program, the provincial standards (such 
+as operational, financial or service standards and policies, operating manuals and 
+program eligibility), directives, guidelines and expectations and requirements for that 
+program; 
+
+“Project Funding Agreement” means an agreement in the form of Schedule F that 
+incorporates the terms of this Agreement and enables the LHIN to provide one-time or 
+short term funding for a specific project or service that is not already described in 
+Schedule A; 
+
+“Reports” means the reports described in Schedule C as well as any other reports or 
+information required to be provided under LHSIA or this Agreement; 
+
+“Review” means a financial or operational audit, investigation, inspection or other form 
+of review requested or required by the LHIN under the terms of LHSIA or this 
+Agreement, but does not include the annual audit of the HSP’s financial statements; 
+
+“Scheduie” means any one of, and “Schedules” mean any two or more, as the context 
+requires, of the schedules appended to this Agreement including the following: 
+
+Scheduie A: Description of Services 
+
+Scheduie B: Service Plan 
+
+Scheduie C: Reports 
+
+Scheduie D: Directives, Guidelines and Policies 
+Scheduie E: Performance 
+Scheduie F: Project Funding Agreement Template 
+Scheduie G: Declaration of Compliance 
+
+“Service Pian” means the Operating Plan and Budget appended as Schedule B; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 7 of 33 
+
+
+
+“Services” means the care, programs, goods and other services described in Schedule 
+A and in any Project Funding Agreement executed pursuant to this Agreement. 
+“Services” includes the type, volume, frequency and availability of the care, programs, 
+goods and other services; 
+
+“Service Voiume” means a measure of Services for which a Performance Target is 
+set; 
+
+“Transition Pian” means a transition plan, acceptable to the LHIN that indicates how 
+the needs of the HSP’s clients will be met following the termination of this Agreement 
+and how the transition of the clients to new service providers will be effected in a timely 
+manner; and 
+
+“2014-18 MSAA” means the Multi-Sector Service Accountability Agreement April 1, 
+2014 to March 31,2018. 
+
+1 .2 Interpretation. Words in the singular include the plural and vice-versa. Words in one 
+gender include all genders. The words “including” and “includes” are not intended to be 
+limiting and shall mean “including without limitation” or “includes without limitation”, as 
+the case may be. The headings do not form part of this Agreement. They are for 
+convenience of reference only and will not affect the interpretation of this Agreement. 
+Terms used in the Schedules shall have the meanings set out in this Agreement unless 
+separately and specifically defined in a Schedule in which case the definition in the 
+Schedule shall govern for the purposes of that Schedule. 
+
+
+1.3 MSAA Indicator Technical Specification Document. This Agreement shall be 
+
+interpreted with reference to the MSAA Indicator Technical Specifications Document. 
+
+
+ARTICLE 2.0- TERM AND NATURE OF THIS AGREEMENT 
+
+
+2.1 Term. The term of this Agreement will commence on the Effective Date and will expire 
+on March 31,2019 unless terminated earlier or extended pursuant to its terms. 
+
+
+2.2 A Service Accountability Agreement. This Agreement is a service accountability 
+agreement for the purposes of section 20(1) of LHSIA. 
+
+ARTICLE 3.0- PROVISION OF SERVICES 
+
+
+3.1 Provision of Services. 
+
+(a) The HSP will provide the Services in accordance with, and otherwise comply 
+with: 
+
+(1) the terms of this Agreement, including the Service Plan; 
+
+(2) Applicable Law; and 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 8 of 33 
+
+
+
+(3) Applicable Policy. 
+
+
+(b) When providing the Services, the HSP will meet the Performance Standards 
+and conditions identified in Schedule E. 
+
+(c) Unless otherwise provided in this Agreement, the HSP will not reduce, stop, 
+start, expand, cease to provide or transfer the provision of the Services or 
+change its Service Plan except with Notice to the LHIN, and if required by 
+Applicable Law or Applicable Policy, the prior written consent of the LHIN. 
+
+(d) The HSP will not restrict or refuse the provision of Services to an individual, 
+directly or indirectly, based on the geographic area in which the person resides 
+in Ontario. 
+
+3.2 Subcontracting for the Provision of Services. 
+
+(a) The parties acknowledge that, subject to the provisions of LHSIA, the HSP may 
+subcontract the provision of some or all of the Services. For the purposes of 
+this Agreement, actions taken or not taken by the subcontractor, and Services 
+provided by the subcontractor, will be deemed actions taken or not taken by the 
+HSP, and Services provided by the HSP. 
+
+(b) When entering into a subcontract the HSP agrees that the terms of the 
+subcontract will enable the HSP to meet its obligations under this Agreement. 
+Without limiting the foregoing, the HSP will include a provision that permits the 
+LHIN or its authorized representatives, to audit the subcontractor in respect of 
+the subcontract if the LHIN or its authorized representatives determines that 
+such an audit would be necessary to confirm that the HSP has complied with 
+the terms of this Agreement. 
+
+(c) Nothing contained in this Agreement or a subcontract will create a contractual 
+relationship between any subcontractor or its directors, officers, employees, 
+agents, partners, affiliates or volunteers and the LHIN. 
+
+3.3 Conflict of Interest. The HSP will use the Funding, provide the Services and 
+otherwise fulfil its obligations under this Agreement, without an actual, potential or 
+perceived Conflict of Interest. The HSP will disclose to the LHIN without delay any 
+situation that a reasonable person would interpret as an actual, potential or perceived 
+Conflict of Interest and comply with any requirements prescribed by the LHIN to resolve 
+any Conflict of Interest. 
+
+
+3.4 Digital Health. The HSP agrees to: 
+
+(a) assist the LHIN to implement provincial e-health priorities for 2017-18 and 
+thereafter in accordance with the Accountability Agreement, as may be 
+amended or replaced from time to time; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 9 of 33 
+
+
+
+(b) comply with any technical and information management standards, including 
+those related to data, architecture, technology, privacy and security set for 
+health service providers by MOHLTC or the LHIN within the timeframes set by 
+MOHLTC or the LHIN as the case may be; 
+
+(c) implement and use the approved provincial Digital Health solutions identified in 
+the LHIN Digital Health plan; 
+
+(d) implement technology solutions that are compatible or interoperable with the 
+provincial blueprint and with the LHIN Cluster Digital Health plan; and 
+
+(e) include in its annual Planning Submissions, plans for achieving Digital Health 
+priority initiatives. 
+
+3.5 French Language Services. 
+
+3.5.1 The LHIN will provide the MOHLTC “Guide to Requirements and Obligations of LHIN 
+French Language Services” to the HSP and the HSP will fulfill its roles, responsibilities and 
+other obligations set out therein. 
+
+3.5.2 If Not Identified or Designated. If the HSP has not been Designated or Identified it will: 
+
+(a) develop and implement a plan to address the needs of the local 
+Francophone community, including the provision of information on 
+services available in French; 
+
+(b) work towards applying the principles of Active Offer in the provision of 
+services; 
+
+(c) provide a report to the LHIN that outlines how the HSP addresses the 
+needs of its local Francophone community; and, 
+
+(d) collect and submit to the LHIN as requested by the LHIN from time to 
+time, French language service data. 
+
+3.5.3 If Identified. If the HSP is Identified it will: 
+
+(a) work towards applying the principles of Active Offer in the provision of 
+services; 
+
+(b) provide services to the public in French in accordance with its existing 
+French language services capacity; 
+
+(c) develop, and provide to the LHIN upon request from time to time, a plan to 
+become Designated by the date agreed to by the HSP and the LHIN; 
+
+(d) continuously work towards improving its capacity to provide services in 
+French and toward becoming Designated within the time frame agreed to 
+by the parties; 
+
+(e) provide a report to the LHIN that outlines progress in its capacity to provide 
+services in French and toward becoming Designated; 
+
+(f) annually, provide a report to the LHIN that outlines how it addresses the 
+needs of its local Francophone community; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 10 of 33 
+
+
+
+(g) collect and submit to the LHIN, as requested by the LHIN from time to time, French 
+language services data. 
+
+3.5.4 If Designated. If the HSP is Designated it will: 
+
+(a) apply the principles of Active Offer in the provision of services; 
+
+(b) continue to provide services to the public in French in accordance with the 
+provisions of the FLSA ; 
+
+(c) maintain its French language services capacity; 
+
+(d) submit a French language implementation report to the LHIN on the date 
+specified by the LHIN, and thereafter, on each anniversary of that date, or 
+on such other dates as the LHIN may, by notice, require; 
+
+(e) collect and submit to the LHIN as requested by the LHIN from time to time, 
+French language services data. 
+
+
+3.6 Minister’s Mandate Letter language. The LHIN will receive a Mandate Letter from 
+the Minister annually. Each Mandate Letter articulates areas of focus for the LHIN, and 
+the Minister’s expectation that the LHIN and health service providers it funds will 
+collaborate to advance these areas of focus. To assist the HSP in its collaborative 
+efforts with the LHIN, the LHIN will share each relevant Mandate Letter with the HSP. 
+The LHIN may also add local obligations to Schedule E as appropriate to further 
+advance any priorities set put in a Mandate Letter. 
+
+3.7 Policies, Guidelines, Directives and Standards. Either the LHIN or the MOHLTC will 
+give the HSP Notice of any amendments to the manuals, guidelines or policies 
+identified in Schedule D. Amendments will be effective in accordance with the terms of 
+the amendment. By signing a copy of this Agreement the HSP acknowledges that it has 
+a copy of the documents identified in Schedule D. 
+
+
+ARTICLE 4.0- FUNDING 
+
+
+4.1 Funding. Subject to the terms of this Agreement, and in accordance with the applicable 
+
+provisions of the Accountability Agreement, the LHIN: 
+
+(a) will provide the funds identified in Schedule B to the HSP for the purpose of 
+providing or ensuring the provision of the Services; 
+
+(b) and 
+
+(c) will deposit the funds in regular instalments, once or twice monthly, over the 
+term of this Agreement, into an account designated by the HSP provided that 
+the account resides at a Canadian financial institution and is in the name of the 
+HSP. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 11 of 33 
+
+
+
+4.2 Limitation on Payment of Funding. Despite section 4.1, the LHIN: 
+
+
+(a) will not provide any funds to the HSP until this Agreement is fully executed; 
+
+(b) may pro-rate the funds identified in Schedule B to the date on which this 
+Agreement is signed, if that date is after April 1; 
+
+(c) will not provide any funds to the HSP until the HSP meets the insurance 
+requirements described in section 11.4; 
+
+(d) will not be required to continue to provide funds in the event the HSP breaches 
+any of its obligations under this Agreement, until the breach is remedied to the 
+LHIN’s satisfaction; and 
+
+(e) upon notice to the HSP, may adjust the amount of funds it provides to the HSP 
+in any Funding Year based upon the LHIN’s assessment of the information 
+contained in the Reports. 
+
+4.3 Appropriation. Funding under this Agreement is conditional upon an appropriation of 
+moneys by the Legislature of Ontario to the MOHLTC and funding of the LHIN by the 
+MOHLTC pursuant to LHSIA. If the LHIN does not receive its anticipated funding the 
+LHIN will not be obligated to make the payments required by this Agreement. 
+
+
+4.4 Additional Funding. 
+
+(a) Unless the LHIN has agreed to do so in writing, the LHIN is not required to 
+provide additional funds to the HSP for providing additional Services or for 
+exceeding the requirements of Schedule E. 
+
+(b) The HSP may request additional funding by submitting a proposal to amend its 
+Service Plan. The HSP will abide by all decisions of the LHIN with respect to a 
+proposal to amend the Service Plan and will make whatever changes are 
+requested or approved by the LHIN. The Service Plan will be amended to 
+include any approved additional funding. 
+
+(c) Funding Increases. Before the LHIN can make an allocation of additional funds 
+to the HSP, the parties will: (1) agree on the amount of the increase; (2) agree 
+on any terms and conditions that will apply to the increase; and (3) execute an 
+amendment to this Agreement that reflects the agreement reached. 
+
+4.5 Conditions of Funding. 
+
+(a) The HSP will: 
+
+(1) fulfill all obligations in this Agreement; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 12 of 33 
+
+
+
+(2) use the Funding only for the purpose of providing the Services in 
+accordance with Applicable Law, Applicable Policy and the terms of this 
+Agreement; 
+
+(3) spend the Funding only in accordance with the Service Plan; and 
+
+(4) plan for and achieve an Annual Balanced Budget. 
+
+(b) The LHIN may add such additional terms or conditions on the use of the 
+Funding which it considers appropriate for the proper expenditure and 
+management of the Funding. 
+
+(c) All Funding is subject to all Applicable Law and Applicable Policy, including 
+Health System Funding Reform, as it may evolve or be replaced over the term 
+of this Agreement 
+
+4.6 Interest. 
+
+(a) If the LHIN provides the Funding to the HSP prior to the HSP’s immediate need 
+for the Funding, the HSP shall place the Funding in an interest bearing account 
+in the name of the HSP at a Canadian financial institution. 
+
+(b) Interest Income must be used, within the fiscal year in which it is received, to 
+provide the Services. 
+
+(c) Interest Income will be reported to the LHIN and is subject to year-end 
+reconciliation. In the event that some or all of the Interest Income is not used to 
+provide the Services, 
+
+(1) the LHIN may deduct the amount equal to the unused Interest Income 
+from any further Funding instalments under this or any other agreement 
+with the HSP; and/or 
+
+(2) the LHIN may require the HSP to pay an amount equal to the unused 
+Interest Income to the Ministry of Finance. 
+
+4.7 Rebates, Credits and Refunds. The HSP: 
+
+(a) acknowledges that rebates, credits and refunds it anticipates receiving from the 
+use of the Funding have been incorporated in its Budget; 
+
+(b) agrees that it will advise the LHIN if it receives any unanticipated rebates, 
+credits and refunds from the use of the Funding, or from the use of funding 
+received from either the LHIN or the MOHLTC in years prior to this Agreement 
+that was not recorded in the year of the related expenditure; 
+
+(c) agrees that all rebates, credits and refunds referred to in (b) will be considered 
+Funding in the year that the rebates are received, regardless of the year to 
+which the rebate relates. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 13 of 33 
+
+
+
+4.8 Procurement of Goods and Services. 
+
+
+(a) If the HSP is subject to the procurement provisions of the BPSAA, the HSP will 
+abide by all directives and guidelines issued by the Management Board of 
+Cabinet that are applicable to the HSP pursuant to the BPSAA. 
+
+(b) If the HSP is not subject to the procurement provisions of the BPSAA, the HSP 
+will have a procurement policy in place that requires the acquisition of supplies, 
+equipment or services valued at over $25,000 through a competitive process 
+that ensures the best value for funds expended. If the HSP acquires supplies, 
+equipment or services with the Funding it will do so through a process that is 
+consistent with this policy. 
+
+4.9 Disposition. The HSP will not, without the LHIN’s prior written consent, sell, lease or 
+otherwise dispose of any assets purchased with Funding, the cost of which exceeded 
+$25,000 at the time of purchase. 
+
+
+ARTiCLE 5.0- REPAYMENT AND RECOVERY OF FUNDING 
+
+
+5.1 Repayment and Recovery. 
+
+(a) At the End of a Funding Year. If, in any Funding Year, the HSP has not spent 
+all of the Funding the LHIN will require the repayment of the unspent Funding. 
+
+(b) On Termination or Expiration of this Agreement. Upon termination or expiry 
+of this Agreement, the LHIN will require the repayment of any Funding 
+remaining in the possession or under the control of the HSP and the payment of 
+an amount equal to any Funding the HSP used for purposes not permitted by 
+this Agreement. 
+
+(c) On Reconciliation and Settlement. If the year-end reconciliation and 
+settlement process demonstrates that the HSP received Funding in excess of its 
+confirmed funds, the LHIN will require the repayment of the excess Funding. 
+
+(d) As a Result of Performance Management or System Planning. If Services 
+are adjusted, as a result of the performance management or system planning 
+processes, the LHIN may adjust the Funding to be paid under Schedule B, 
+require the repayment of excess Funding and/or adjust the amount of any future 
+funding installments accordingly. 
+
+(e) In the Event of Forecasted Surpluses. If the HSP is forecasting a surplus, the 
+LHIN may adjust the amount of Funding to be paid under Schedule B, require 
+the repayment of excess Funding and/or adjust the amount of any future 
+funding installments accordingly. 
+
+(f) On the Request of the LHIN. The HSP will, at the request of the LHIN, repay 
+the whole or any part of the Funding, or an amount equal thereto if the HSP: 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 14 of 33 
+
+
+
+(1) has provided false information to the LHIN knowing it to be false; 
+
+(2) breaches a term or condition of this Agreement and does not, within 30 
+Days after receiving Notice from the LHIN take reasonable steps to 
+remedy the breach; or 
+
+(3) breaches any Applicable Law that directly relates to the provision of, or 
+ensuring the provision of, the Services. 
+
+(g) Subsections 5.1 (c) and (d) do not apply to Funding already expended properly 
+in accordance with this Agreement. The LHIN will, at its sole discretion, and 
+without liability or penalty, determine whether the Funding has been expended 
+properly in accordance with this Agreement. 
+
+5.2 Provision for the Recovery of Funding. The HSP will make reasonable and prudent 
+provision for the recovery by the LHIN of any Funding for which the conditions of 
+Funding set out in section 4.5 are not met and will hold this Funding in accordance with 
+the provisions of section 4.6 until such time as reconciliation and settlement has 
+occurred with the LHIN. Interest earned on Funding will be reported and recovered in 
+accordance with section 4.6. 
+
+
+5.3 Settlement and Recovery of Funding for Prior Years. 
+
+(a) The HSP acknowledges that settlement and recovery of Funding can occur up 
+to seven years after the provision of Funding. 
+
+(b) Recognizing the transition of responsibilities from the MOHLTC to the LHIN, the 
+HSP agrees that if the parties are directed in writing to do so by the MOHLTC, 
+the LHIN will settle and recover funding provided by the MOHLTC to the HSP 
+prior to the transition of the Funding for the Services to the LHIN, provided that 
+such settlement and recovery occurs within seven years of the provision of the 
+funding by the MOHLTC. All such settlements and recoveries will be subject to 
+the terms applicable to the original provision of funding. 
+
+5.4 Debt Due. 
+
+(a) If the LHIN requires the re-payment by the HSP of any Funding, the amount 
+required will be deemed to be a debt owing to the Crown by the HSP. The LHIN 
+may adjust future funding instalments to recover the amounts owed or may, at 
+its discretion direct the HSP to pay the amount owing to the Crown and the HSP 
+shall comply immediately with any such direction. 
+
+(b) All amounts repayable to the Crown will be paid by cheque payable to the 
+“Ontario Minister of Finance” and mailed or delivered to the LHIN at the address 
+provided in section 13.1. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 15 of 33 
+
+
+
+5.5 Interest Rate. The LHIN may charge the HSP interest on any amount owing by the 
+HSP at the then current interest rate charged by the Province of Ontario on accounts 
+receivable. 
+
+
+ARTICLE 6.0- PLANNING & INTEGRATION 
+
+
+6.1 Planning for Future Years. 
+
+(a) Advance Notice. The LHIN will give at least sixty Days’ Notice to the HSP of 
+the date by which a CAPS must be submitted to the LHIN. 
+
+(b) Multi-Year Planning. The CAPS will be in a form acceptable to the LHIN and 
+may be required to incorporate (1) prudent multi-year financial forecasts; (2) 
+plans for the achievement of performance targets; and (3) realistic risk 
+management strategies. It will be aligned with the LHIN’s then current 
+Integrated Health Service Plan and will reflect local LHIN priorities and 
+initiatives. If the LHIN has provided multi-year planning targets for the HSP, the 
+CAPS will reflect the planning targets. 
+
+(c) Multi-year Planning Targets. Schedule B may reflect an allocation for the first 
+Funding Year of this Agreement as well as planning targets for up to two 
+additional years, consistent with the term of this Agreement. In such an event, 
+
+(1) the HSP acknowledges that if it is provided with planning targets, these 
+targets are: (A) targets only, (B) provided solely for the purposes of 
+planning, (C) are subject to confirmation, and (D) may be changed at the 
+discretion of the LHIN in consultation with the HSP. The HSP will 
+proactively manage the risks associated with multi-year planning and the 
+potential changes to the planning targets; and 
+
+(2) the LHIN agrees that it will communicate any changes to the planning 
+targets as soon as reasonably possible. 
+
+(d) Service Accountability Agreements. The HSP acknowledges that if the LHIN 
+and the HSP enter into negotiations for a subsequent service accountability 
+agreement, subsequent funding may be interrupted if the next service 
+accountability agreement is not executed on or before the expiration date of this 
+Agreement. 
+
+6.2 Community Engagement & Integration Activities. 
+
+(a) Community Engagement. The HSP will engage the community of diverse 
+
+persons and entities in the area where it provides health services when setting 
+priorities for the delivery of health services and when developing plans for 
+submission to the LHIN including but not limited to CAPS and integration 
+proposals. As part of its community engagement activities, the HSPs will have 
+in place and utilize effective mechanisms for engaging families, caregivers. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 16 of 33 
+
+
+
+clients, residents, patients and other individuals who use the services of the 
+HSP, to help inform the HSP plans, including the HSP’s contribution to the 
+establishment and implementation by the LHIN of geographic sub-regions in its 
+local health system. 
+
+(b) Integration. The HSP will, separately and in conjunction with the LHIN and other 
+health service providers, identify opportunities to integrate the services of the 
+local health system to provide appropriate, co-coordinated, effective and 
+efficient services. 
+
+(c) Reporting. The HSP will report on its community engagement and integration 
+activities, using any templates provided by the LHIN, as requested by the LHIN 
+and in any event, in its year-end report to the LHIN. 
+
+6.3 Planning and Integration Activity Pre-proposals 
+
+(a) General. A pre-proposal process has been developed to: (1) reduce the costs 
+incurred by an HSP when proposing operational or service changes; (2) assist 
+the HSP to carry out its statutory obligations; and (3) enable an effective and 
+efficient response by the LHIN. Subject to specific direction from the LHIN, this 
+pre-proposal process will be used in the following instances: 
+
+(1) the HSP is considering an integration or an integration of services, as 
+defined in LHSIA between the HSP and another person or entity; 
+
+(2) the HSP is proposing to reduce, stop, start, expand or transfer the 
+location of services, which for certainty includes: the transfer of Services 
+from the HSP to another person or entity whether within or outside of the 
+LHIN; and the relocation or transfer of services from one of the HSP’s 
+sites to another of the HSP’s sites whether within or outside of the LHIN; 
+
+(3) to identify opportunities to integrate the services of the local health 
+system, other than those identified in (1) or (2) above; or 
+
+(4) if requested by the LHIN. 
+
+(b) LHIN Evaluation of the Pre-proposal. Use of the pre-proposal process is not 
+formal Notice of a proposed integration under section 27 of LHSIA. LHIN 
+consent to develop the project concept outlined in a pre-proposal does not 
+constitute approval to proceed with the project. Nor does LHIN consent to 
+develop a project concept presume the issuance of a favourable decision, 
+should such a decision be required by sections 25 or 27 of LHSIA. Following 
+the LHIN’s review and evaluation, the HSP may be invited to submit a detailed 
+proposal and a business plan for further analysis. Guidelines for the 
+development of a detailed proposal and business case will be provided by the 
+LHIN. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 17 of 33 
+
+
+
+6.4 Proposing Integration Activities in the Planning Submission. No integration 
+activity described in section 6.3 may be proposed in a CAPS unless the LHIN has 
+consented, in writing, to its inclusion pursuant to the process set out in section 6.3(b). 
+
+
+6.5 Definitions. In this section 6.0, the terms “integrate”, “integration” and “services” have 
+the same meanings attributed to them in section 2(1) and section 23 respectively of 
+LHSIA, as it and they may be amended from time to time. 
+
+
+ARTICLE 7.0- PERFORMANCE 
+
+
+7.1 Performance. The parties will strive to achieve on-going performance improvement. 
+
+They will address performance improvement in a proactive, collaborative and 
+
+responsive manner. 
+
+7.2 Performance Factors. 
+
+(a) Each party will notify the other party of the existence of a Performance Factor, 
+as soon as reasonably possible after the party becomes aware of the 
+Performance Factor. The Notice will: 
+
+(1) describe the Performance Factor and its actual or anticipated impact; 
+
+(2) include a description of any action the party is undertaking, or plans to 
+undertake, to remedy or mitigate the Performance Factor; 
+
+(3) indicate whether the party is requesting a meeting to discuss the 
+Performance Factor; and 
+
+(4) address any other issue or matter the party wishes to raise with the 
+other party. 
+
+(b) The recipient party will provide a written acknowledgment of receipt of the 
+Notice within seven Days of the date on which the Notice was received (“Date of 
+the Notice”). 
+
+(c) Where a meeting has been requested under paragraph 7.2(a)(3), the parties 
+agree to meet and discuss the Performance Factors within fourteen Days of the 
+Date of the Notice, in accordance with the provisions of section 7.3. 
+
+7.3 Performance Meetings During a meeting on performance, the parties will: 
+
+(a) discuss the causes of a Performance Factor; 
+
+(b) discuss the impact of a Performance Factor on the local health system and the 
+risk resulting from non-performance; and 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 18 of 33 
+
+
+
+(c) determine the steps to be taken to remedy or mitigate the impact of the 
+Performance Factor (the “Performance Improvement Process”). 
+
+7.4 The Performance Improvement Process. 
+
+(a) The Performance Improvement Process will focus on the risks of non¬ 
+performance and problem-solving. It may include one or more of the following 
+actions: 
+
+(1) a requirement that the HSP develop and implement an improvement 
+plan that is acceptable to the LHIN; 
+
+(2) the conduct of a Review; 
+
+(3) a revision and amendment of the HSP’s obligations; and/or 
+
+(4) an in-year, or year-end, adjustment to the Funding, 
+
+among other possible means of responding to the Performance Factor or 
+improving performance. 
+
+(b) Any performance improvement process begun under a prior service 
+accountability agreement that was not completed under the prior agreement will 
+continue under this Agreement. Any performance improvement required by a 
+LHIN under a prior service accountability agreement will be deemed to be a 
+requirement of this Agreement until fulfilled or waived by the LHIN. 
+
+
+ARTICLE 8.0- REPORTING, ACCOUNTING AND REVIEW 
+
+
+8.1 Reporting. 
+
+(a) Generally. The LHIN’s ability to enable its local health system to provide 
+appropriate, co-ordinated, effective and efficient health services, as 
+contemplated by LHSIA, is heavily dependent on the timely collection and 
+analysis of accurate information. The HSP acknowledges that the timely 
+provision of accurate information related to the HSP, and its performance of its 
+obligations under this Agreement, is under the HSP’s control. 
+
+(b) Specific Obligations. The HSP: 
+
+(1) will provide to the LHIN, or to such other entity as the LHIN may direct, in 
+the form and within the time specified by the LHIN, the Reports, other 
+than personal health information as defined in LHSIA, that (1) the LHIN 
+requires for the purposes of exercising its powers and duties under this 
+Agreement, the Accountability Agreement, LHSIA or for the purposes 
+that are prescribed under any Applicable Law; 
+
+(2) will fulfil the specific reporting requirements set out in Schedule C; 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 19 of 33 
+
+
+
+(3) will ensure that every Report is complete, accurate, signed on behalf of 
+the HSP by an authorized signing officer where required and provided in 
+a timely manner and in a form satisfactory to the LHIN; and 
+
+(4) agrees that every Report submitted to the LHIN by or on behalf of the 
+HSP, will be deemed to have been authorized by the HSP for 
+submission. 
+
+For certainty, nothing in this section 8.1 or in this Agreement restricts or 
+otherwise limits the LHIN’s right to access or to require access to personal 
+health information as defined in LHSIA, in accordance with Applicable Law for 
+purposes of carrying out the LHIN’s statutory objects to achieve the purposes of 
+LHSIA, including to provide certain services, supplies and equipment in 
+accordance with section 5(m.1) of LHSIA and to manage placement of persons 
+in accordance with section 5(m.2). 
+
+(c) French Language Services. If the HSP is required to provide services to the 
+public in French under the provisions of the French Language Services Act, the 
+HSP will be required to submit a French language services report to the LHIN. 
+
+If the HSP is not required to provide services to the public in French under the 
+provisions of the French Language Service Act, it will be required to provide a 
+report to the LHIN that outlines how the HSP addresses the needs of its local 
+Francophone community. 
+
+(d) Declaration of Compliance. Within 90 days of the HSP’s fiscal year-end, the 
+Board will issue a Compliance Declaration declaring that the HSP has complied 
+with the terms of this Agreement. The form of the declaration is set out in 
+Schedule G and may be amended by the LHIN from time to time through the 
+term of this Agreement. 
+
+(e) Financial Reductions. Notwithstanding any other provision of this Agreement, 
+and at the discretion of the LHIN, the HSP may be subject to a financial 
+reduction in any of the following circumstances: 
+
+(1) its CAPS is received after the due date; 
+
+(2) its CAPS is incomplete; 
+
+(3) the quarterly performance reports are not provided when due; or 
+
+(4) financial or clinical data requirements are late, incomplete or inaccurate, 
+
+where the errors or delay were not as a result of LHIN actions or inaction or the 
+actions or inactions of persons acting on behalf of the LHIN. If assessed, the 
+financial reduction will be as follows: 
+
+(1) if received within 7 days after the due date, incomplete or inaccurate, the 
+financial penalty will be the greater of (1) a reduction of 0.02 percent 
+(0.02%) of the Funding; or (2) two hundred and fifty dollars ($250.00); 
+and 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 20 of 33 
+
+
+
+(2) for every full or partial week of non-compliance thereafter, the rate will 
+be one half of the initial reduction. 
+
+
+8.2 Reviews. 
+
+(a) During the term of this Agreement and for seven years after the term of this 
+Agreement, the HSP agrees that the LHIN or its authorized representatives may 
+conduct a Review of the HSP to confirm the HSP’s fulfillment of its obligations 
+under this Agreement. For these purposes the LHIN or its authorized 
+representatives may, upon twenty-four hours’ Notice to the HSP and during 
+normal business hours enter the HSP’s premises to: 
+
+(1) inspect and copy any financial records, invoices and other finance- 
+related documents, other than personal health information as defined in 
+LHSIA, in the possession or under the control of the HSP which relate to 
+the Funding or otherwise to the Services; and 
+
+(2) inspect and copy non-financial records, other than personal health 
+information as defined in LHSIA, in the possession or under the control 
+of the HSP which relate to the Funding, the Services or otherwise to the 
+performance of the HSP under this Agreement. 
+
+(b) The cost of any Review will be borne by the HSP if the Review: (1) was made 
+necessary because the HSP did not comply with a requirement under LHSIA or 
+this Agreement; or (2) indicates that the HSP has not fulfilled its obligations 
+under this Agreement, including its obligations under Applicable Law and 
+Applicable Policy. 
+
+(c) To assist in respect of the rights set out in (a) above, the HSP shall disclose any 
+information requested by the LHIN or its authorized representatives, and shall 
+do so in a form requested by the LHIN or its authorized representatives. 
+
+(d) The HSP may not commence a proceeding for damages or otherwise against 
+any person with respect to any act done or omitted to be done, any conclusion 
+reached or report submitted that is done in good faith in respect of a Review. 
+
+(e) HSP’s obligations under this section 8.2 will survive any termination or 
+expiration of this Agreement. 
+
+8.3 Document Retention and Record Maintenance. The HSP will 
+
+(a) retain all records (as that term is defined in FIPPA) related to the HSP’s 
+performance of its obligations under this Agreement for seven years after the 
+termination or expiration of the term of this Agreement. The HSP’s obligations 
+under this section will survive any termination or expiry of this Agreement; 
+
+(b) keep all financial records, invoices and other finance-related documents relating 
+to the Funding or otherwise to the Services in a manner consistent with either 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 21 of 33 
+
+
+
+generally accepted accounting principles or international financial reporting 
+standards as advised by the HSP’s auditor; and 
+
+(c) keep all non-financial documents and records relating to the Funding or 
+otherwise to the Services in a manner consistent with all Applicable Law. 
+
+8.4 Disclosure of Information. 
+
+(a) FIPPA. The HSP acknowledges that the LHIN is bound by FIPPA and that any 
+information provided to the LHIN in connection with this Agreement may be 
+subject to disclosure in accordance with FIPPA. 
+
+(b) Confidential Information. The parties will treat Confidential Information as 
+confidential and will not disclose Confidential Information except with the 
+consent of the disclosing party or as permitted or required under FIPPA or the 
+Personal Health Information Protection Act, 2004, LHSIA, court order, subpoena 
+or other Applicable Law. Notwithstanding the foregoing, the LHIN may disclose 
+information that it collects under this Agreement in accordance with LHSIA. 
+
+8.5 Transparency. The HSP will post a copy of this Agreement and each Compliance 
+Declaration submitted to the LHIN during the term of this Agreement in a conspicuous 
+and easily accessible public place at its sites of operations to which this Agreement 
+applies and on its public website, if the HSP operates a public website. 
+
+
+8.6 Auditor General. For greater certainty the LHIN’s rights under this article are in 
+
+addition to any rights provided to the Auditor General under the Auditor General Act 
+(Ontario). 
+
+
+ARTICLE 9.0- ACKNOWLEDGEMENT OF LHIN SUPPORT 
+
+
+9.1 Publication. For the purposes of this Article 9, the term “publication” means any 
+material on or concerning the Services that the HSP makes available to the public, 
+regardless of whether the material is provided electronically or in hard copy. Examples 
+include a web-site, an advertisement, a brochure, promotional documents and a report. 
+Materials that are prepared by the HSP in order to fulfil its reporting obligations under 
+this Agreement are not included in the term “publication”. 
+
+
+9.2 Acknowledgment of Funding Support. 
+
+(a) The HSP agrees all publications will include 
+
+(1) an acknowledgment of the Funding provided by the LHIN and the 
+Government of Ontario. Prior to including an acknowledgement in any 
+publication, the HSP will obtain the LHIN’s approval of the form of 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 22 of 33 
+
+
+
+acknowledgement. The LHIN may, at its discretion, decide that an 
+acknowledgement is not necessary; and 
+
+(2) a statement indicating that the views expressed in the publication are the 
+views of the HSP and do not necessarily reflect those of the LHIN or the 
+Government of Ontario. 
+
+(b) The HSP shall not use any insignia or logo of Her Majesty the Queen in right of 
+Ontario, including those of the LHIN, unless it has received the prior written 
+permission of the LHIN to do so. 
+
+
+ARTICLE 10.0 - REPRESENTATIONS, WARRANTIES AND COVENANTS 
+
+
+10.1 General. The HSP represents, warrants and covenants that: 
+
+(a) it is, and will continue for the term of this Agreement to be, a validly existing 
+legal entity with full power to fulfill its obligations under this Agreement; 
+
+(b) it has the experience and expertise necessary to carry out the Services; 
+
+(c) it holds all permits, licences, consents, intellectual property rights and 
+authorities necessary to perform its obligations under this Agreement; 
+
+(d) all information (including information relating to any eligibility requirements for 
+Funding) that the HSP provided to the LHIN in support of its request for Funding 
+was true and complete at the time the HSP provided it, and will, subject to the 
+provision of Notice otherwise, continue to be true and complete for the term of 
+this Agreement; and 
+
+(e) it does, and will continue for the term of this Agreement to, operate in 
+compliance with all Applicable Law and Applicable Policy, including observing 
+where applicable, the requirements of the Corporations Actor successor 
+legislation and the HSP's by-laws in respect of, but not limited to, the holding of 
+board meetings, the requirements of quorum for decision-making, the 
+maintenance of minutes for all board and committee meetings and the holding 
+of members meetings. 
+
+10.2 Execution of Agreement. The HSP represents and warrants that: 
+
+(a) it has the full power and authority to enter into this Agreement; and 
+
+(b) it has taken all necessary actions to authorize the execution of this 
+
+Agreement. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 23 of 33 
+
+
+
+10.3 Governance. 
+
+
+(a) The HSP represents, warrants and covenants that it has established, and will 
+maintain for the period during which this Agreement is in effect, policies and 
+procedures: 
+
+(1) that set out a code of conduct for, and that identify the ethical 
+responsibilities for all persons at all levels of the HSP’s organization; 
+
+(2) to ensure the ongoing effective functioning of the HSP; 
+
+(3) for effective and appropriate decision-making; 
+
+(4) for effective and prudent risk-management, including the identification 
+and management of potential, actual and perceived conflicts of interest; 
+
+(5) for the prudent and effective management of the Funding; 
+
+(6) to monitor and ensure the accurate and timely fulfillment of the HSP’s 
+obligations under this Agreement and compliance with LHSIA; 
+
+(7) to enable the preparation, approval and delivery of all Reports; 
+
+(8) to address complaints about the provision of Services, the management 
+or governance of the HSP; and 
+
+(9) to deal with such other matters as the HSP considers necessary to 
+ensure that the HSP carries out its obligations under this Agreement. 
+
+(b) The HSP represents and warrants that: 
+
+(1) it has, or will have within 60 days of the execution of this Agreement, a 
+Performance Agreement with its CEO that ties the CEO’s compensation 
+plan to the CEO’s performance; 
+
+(2) it will take all reasonable care to ensure that its CEO complies with the 
+Performance Agreement; 
+
+(3) it will enforce the HSP’s rights under the Performance Agreement; and 
+
+(4) any compensation award provided to the CEO during the term of this 
+Agreement will be pursuant to an evaluation of the CEO’s performance 
+under the Performance Agreement and the CEO’s achievement of 
+performance goals and performance improvement targets and in 
+compliance with Applicable Law. 
+
+“compensation award”, for the purposes of Section 10.3(b)(4) above, means all 
+forms of payment, benefits and perquisites paid or provided, directly or 
+indirectly, to or for the benefit of a CEO who performs duties and functions that 
+entitle him or her to be paid. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 24 of 33 
+
+
+
+10.4 Funding, Services and Reporting. The HSP represents warrants and covenants that 
+
+(a) the Funding is, and will continued to be, used only to provide the Services in 
+accordance with the terms of this Agreement; 
+
+(b) the Services are and will continue to be provided; 
+
+(1) by persons with the expertise, professional qualifications, licensing and 
+skills necessary to complete their respective tasks; and 
+
+(2) in compliance with Applicable Law and Applicable Policy; 
+
+(c) every Report is accurate and in full compliance with the provisions of this 
+Agreement, including any particular requirements applicable to the Report and 
+any material change to a Report will be communicated to the LHIN immediately. 
+
+10.5 Supporting Documentation. Upon request, the HSP will provide the LHIN with proof 
+of the matters referred to in this Article. 
+
+
+ARTiCLE 11.0- LIMITATION OF LIABILITY, INDEMNITY & INSURANCE 
+
+
+11.1 Limitation of Liabiiity. The Indemnified Parties will not be liable to the HSP or any of 
+the HSP’s Personnel and Volunteers for costs, losses, claims, liabilities and damages 
+howsoever caused arising out of or in any way related to the Services or otherwise in 
+connection with this Agreement, unless caused by the negligence or wilful act of any of 
+the Indemnified Parties. 
+
+
+11.2 Ibid. For greater certainty and without limiting section 11.1, the LHIN is not liable for 
+how the HSP and the HSP’s Personnel and Volunteers carry out the Services and is 
+therefore not responsible to the HSP for such Services. Moreover the LHIN is not 
+contracting with or employing any HSP’s Personnel and Volunteers to carry out the 
+terms of this Agreement. As such, it is not liable for contracting with, employing or 
+terminating a contract with or the employment of any HSP’s Personnel and Volunteers 
+required to carry out this Agreement, nor for the withholding, collection or payment of 
+any taxes, premiums, contributions or any other remittances due to government for the 
+HSP’s Personnel and Volunteers required by the HSP to carry out this Agreement. 
+
+
+11.3 Indemnification. The HSP hereby agrees to indemnify and hold harmless the 
+
+Indemnified Parties from and against any and all liability, loss, costs, damages and 
+expenses (including legal, expert and consultant costs), causes of action, actions, 
+claims, demands, lawsuits or other proceedings (collectively, the “Claims”), by 
+whomever made, sustained, brought or prosecuted (including for third party bodily 
+injury (including death), personal injury and property damage), in any way based upon, 
+occasioned by or attributable to anything done or omitted to be done by the HSP or the 
+HSP’s Personnel and Volunteers, in the course of the performance of the HSP’s 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 25 of 33 
+
+
+
+obligations under, or otherwise in connection with, this Agreement, unless caused by 
+the negligence or wilful misconduct of any Indemnified Parties. 
+
+
+11.4 Insurance. 
+
+(a) Generally. The HSP shall protect itself from and against all claims that might 
+arise from anything done or omitted to be done by the HSP and the HSP’s 
+Personnel and Volunteers under this Agreement and more specifically all claims 
+that might arise from anything done or omitted to be done under this Agreement 
+where bodily injury (including personal injury), death or property damage, 
+including loss of use of property is caused. 
+
+(b) Required Insurance. The HSP will put into effect and maintain, with insurers 
+having a secure A.M. Best rating of B+ or greater, or the equivalent, all 
+necessary and appropriate insurance that a prudent person in the business of 
+the HSP would maintain, including, but not limited to, the following at its own 
+expense: 
+
+(1) Commercial General Liability Insurance, for third party bodily injury, 
+personal injury and property damage to an inclusive limit of not less than 
+two million dollars per occurrence and not less than two million dollars 
+products and completed operations aggregate. The policy will include 
+the following clauses: 
+
+a. The Indemnified Parties as additional insureds; 
+
+b. Contractual Liability; 
+
+c. Cross-Liability; 
+
+d. Products and Completed Operations Liability; 
+
+e. Employers Liability and Voluntary Compensation unless the HSP 
+complies with the Section below entitled “Proof of WSIA 
+Coverage”; 
+
+f. Tenants Legal Liability; (for premises/building leases only); 
+
+g. Non-Owned automobile coverage with blanket contractual 
+coverage for hired automobiles; and, 
+
+h. A thirty-Day written notice of cancellation, termination or material 
+change. 
+
+(2) Proof of WSIA Coverage. Unless the HSP puts into effect and maintains 
+Employers Liability and Voluntary Compensation as set out above, the 
+HSP will provide the LHIN with a valid Workplace Safety and Insurance 
+Act, 1997 (WSIA) Clearance Certificate and any renewal replacements, 
+and will pay all amounts required to be paid to maintain a valid WSIA 
+Clearance Certificate throughout the term of this Agreement. 
+
+(3) All Risk Property Insurance on property of every description, for the 
+term, providing coverage to a limit of not less than the full replacement 
+cost, including earthquake and flood. All reasonable deductibles and 
+self-insured retentions are the responsibility of the HSP. 
+
+(4) Comprehensive Crime insurance. Disappearance, Destruction and 
+Dishonest coverage. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 26 of 33 
+
+
+
+(5) Errors and Omissions Liability Insurance insuring liability for errors and 
+omissions in the provision of any professional services as part of the 
+Services or failure to perform any such professional services, in the 
+amount of not less than two million dollars per claim and in the annual 
+aggregate. 
+
+(c) Certificates of Insurance. The HSP will provide the LHIN with proof of the 
+insurance required by this Agreement in the form of a valid certificate of 
+insurance that references this Agreement and confirms the required coverage, 
+on or before the commencement of this Agreement, and renewal replacements 
+on or before the expiry of any such insurance. Upon the request of the LHIN, a 
+copy of each insurance policy shall be made available to it. The HSP shall 
+ensure that each of its subcontractors obtains all the necessary and appropriate 
+insurance that a prudent person in the business of the subcontractor would 
+maintain and that the Indemnified Parties are named as additional insureds with 
+respect to any liability arising in the course of performance of the 
+subcontractor's obligations under the subcontract. 
+
+
+ARTICLE 12.0- TERMINATION OF AGREEMENT 
+
+
+12.1 Termination by the LHIN. 
+
+(a) Without Cause. The LHIN may terminate this Agreement at any time, for any 
+reason, upon giving at least sixty Days’ Notice to the HSP. 
+
+(b) Where No Appropriation. If, as provided for in section 4.3, the LHIN does not 
+receive the necessary funding from the MOHLTC, the LHIN may terminate this 
+Agreement immediately by giving Notice to the HSP. 
+
+(c) For Cause. The LHIN may terminate this Agreement immediately upon giving 
+Notice to the HSP if: 
+
+(1) in the opinion of the LHIN: 
+
+a. the HSP has knowingly provided false or misleading information 
+regarding its funding request or in any other communication with 
+the LHIN; 
+
+b. the HSP breaches any material provision of this Agreement; 
+
+c. the HSP is unable to provide or has discontinued the Services; or 
+
+d. it is not reasonable for the HSP to continue to provide the 
+Services; 
+
+(2) the nature of the HSP’s business, or its corporate status, changes so 
+that it no longer meets the applicable eligibility requirements of the 
+program under which the LHIN provides the Funding; 
+
+(3) the HSP makes an assignment, proposal, compromise, or arrangement 
+for the benefit of creditors, or is petitioned into bankruptcy, or files for the 
+appointment of a receiver; or 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 27 of 33 
+
+
+
+(4) the HSP ceases to carry on business. 
+
+(d) Material Breach. A breach of a material provision of this Agreement includes, 
+but is not limited to: 
+
+(1) misuse of Funding; 
+
+(2) a failure or inability to provide the Services as set out in the Service 
+Plan; 
+
+(3) a failure to provide the Compliance Declaration; 
+
+(4) a failure to implement, or follow, a Performance Agreement, 
+
+Performance Improvement Process or a Transition Plan; 
+
+(5) a failure to respond to LHIN requests in a timely manner; 
+
+(6) a failure to: A) advise the LHIN of actual, potential or perceived Conflict 
+of Interest; or B) comply with any requirements prescribed by the LHIN 
+to resolve a Conflict of Interest; and 
+
+(7) a Conflict of Interest that cannot be resolved. 
+
+(e) Transition Pian. In the event of termination by the LHIN pursuant to this 
+section, the LHIN and the HSP will develop a Transition Plan. The HSP agrees 
+that it will take all actions, and provide all information, required by the LHIN to 
+facilitate the transition of the HSP’s clients. 
+
+12.2 Termination by the HSP. 
+
+(a) The HSP may terminate this Agreement at any time, for any reason, upon giving 
+six months’ Notice (or such shorter period as may be agreed by the HSP and 
+the LHIN) to the LHIN provided that the Notice is accompanied by: 
+
+(1) satisfactory evidence that the HSP has taken all necessary actions to 
+authorize the termination of this Agreement; and 
+
+(2) a Transition Plan, acceptable to the LHIN, that indicates how the needs 
+of the HSP’s clients will be met following the termination and how the 
+transition of the clients to new service providers will be effected within 
+the six month Notice period. 
+
+(b) In the event that the HSP fails to provide an acceptable Transition Plan, the 
+LHIN may reduce Funding payable to the HSP prior to termination of this 
+Agreement to compensate the LHIN for transition costs. 
+
+12.3 Opportunity to Remedy. 
+
+(a) Opportunity to Remedy. If the LHIN considers that it is appropriate to allow 
+the HSP an opportunity to remedy a breach of this Agreement, the LHIN may 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 28 of 33 
+
+
+
+give the HSP an opportunity to remedy the breach by giving the HSP Notice of 
+the particulars of the breach and of the period of time within which the HSP is 
+required to remedy the breach. The Notice will also advise the HSP that the 
+LHIN will terminate this Agreement: 
+
+(1) at the end of the Notice period provided for in the Notice if the HSP fails 
+to remedy the breach within the time specified in the Notice; or 
+
+(2) prior to the end of the Notice period provided for in the Notice if it 
+becomes apparent to the LHIN that the HSP cannot completely remedy 
+the breach within that time or such further period of time as the LHIN 
+considers reasonable, or the HSP is not proceeding to remedy the 
+breach in a way that is satisfactory to the LHIN. 
+
+(b) Failure to Remedy. If the LHIN has provided the HSP with an opportunity to 
+remedy the breach, and: 
+
+(1) the HSP does not remedy the breach within the time period specified in 
+the Notice; 
+
+(2) it becomes apparent to the LHIN that the HSP cannot completely 
+remedy the breach within the time specified in the Notice or such further 
+period of time as the LHIN considers reasonable; or 
+
+(3) the HSP is not proceeding to remedy the breach in a way that is 
+satisfactory to the LHIN, 
+
+(c) then the LHIN may immediately terminate this Agreement by giving Notice of 
+termination to the HSP. 
+
+12.4 Consequences of Termination. 
+
+(a) If this Agreement is terminated pursuant to this Article, the LHIN may: 
+
+(1) cancel all further Funding instalments; 
+
+(2) demand the repayment of any Funding remaining in the possession or 
+under the control of the HSP; 
+
+(3) determine the HSP’s reasonable costs to wind down the Services; and 
+
+(4) permit the HSP to offset the costs determined pursuant to section (3), 
+against the amount owing pursuant to section (2). 
+
+12.5 Effective Date. Termination under this Article will take effect as set out in the Notice. 
+
+
+1 2.6 Corrective Action. Despite its right to terminate this Agreement pursuant to this 
+
+Article, the LHIN may choose not to terminate this Agreement and may take whatever 
+corrective action it considers necessary and appropriate, including suspending Funding 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 29 of 33 
+
+
+
+for such period as the LHIN determines, to ensure the successful completion of the 
+Services in accordance with the terms of this Agreement. 
+
+
+ARTICLE 13.0- NOTICE 
+
+
+13.1 Notice. A Notice will be in writing; delivered personally, by pre-paid courier, by any 
+form of mail where evidence of receipt is provided by the post office, or by facsimile 
+with confirmation of receipt, or by email where no delivery failure notification has been 
+received. For certainty, delivery failure notification includes an automated ‘out of office’ 
+notification. A Notice will be addressed to the other party as provided below or as 
+either party will later designate to the other in writing: 
+
+To the LHIN; 
+
+Champlain LHIN 
+
+1900 City Park Drive, Suite 204 
+
+Ottawa, ON K1J 1 A3 
+
+Attention: Wendy Grimshaw 
+
+Vice President, Performance, Accountability & Corporate Services and CFO 
+Email: ch.accountabilitvteam@lhins.on.ca 
+Fax: 613-745-1928 
+Telephone: 613-747-6784 
+
+To the HSP: 
+
+Sandy Hill Community Health Centre 
+221 Nelson Street 
+Ottawa, ON K1N 1C7 
+
+Attention: David Gibson 
+Executive Director 
+
+Email: daibson(5)sandvhillchc.on.ca 
+Telephone: 613-789-1500 Ext. 2506 
+Fax: 613-789-7962 
+
+
+13.2 Notices Effective From. A Notice will be deemed to have been duly given one 
+
+business day after delivery if the Notice is delivered personally, by pre-paid courier or 
+by mail. A Notice that is delivered by facsimile with confirmation of receipt or by email 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 30 of 33 
+
+
+
+
+where no delivery failure notification has been received will be deemed to have been 
+duly given one business day after the facsimile or email was sent. 
+
+
+ARTICLE 14.0- ADDITIONAL PROVISIONS 
+
+
+14.1 Interpretation. In the event of a conflict or inconsistency in any provision of this 
+Agreement, the main body of this Agreement will prevail over the Schedules. 
+
+14.2 Invalidity or Unenforceability of Any Provision. The invalidity or unenforceability of 
+any provision of this Agreement will not affect the validity or enforceability of any other 
+provision of this Agreement and any invalid or unenforceable provision will be deemed 
+to be severed. 
+
+
+14.3 Waiver. A party may only rely on a waiver of the party’s failure to comply with any term 
+of this Agreement if the other party has provided a written and signed Notice of waiver. 
+Any waiver must refer to a specific failure to comply and will not have the effect of 
+waiving any subsequent failures to comply. 
+
+
+14.4 Parties Independent. The parties are and will at all times remain independent of each 
+other and are not and will not represent themselves to be the agent, joint venturer, 
+partner or employee of the other. No representations will be made or acts taken by 
+either party which could establish or imply any apparent relationship of agency, joint 
+venture, partnership or employment and neither party will be bound in any manner 
+whatsoever by any agreements, warranties or representations made by the other party 
+to any other person or entity, nor with respect to any other action of the other party. 
+
+
+14.5 LHIN is an Agent of the Crown. The parties acknowledge that the LHIN is an agent of 
+the Crown and may only act as an agent of the Crown in accordance with the 
+provisions of LHSIA. Notwithstanding anything else in this Agreement, any express or 
+implied reference to the LHIN providing an indemnity or any other form of indebtedness 
+or contingent liability that would directly or indirectly increase the indebtedness or 
+contingent liabilities of the LHIN or of Ontario, whether at the time of execution of this 
+Agreement or at any time during the term of this Agreement, will be void and of no legal 
+effect. 
+
+
+14.6 Express Rights and Remedies Not Limited. The express rights and remedies of the 
+LHIN are in addition to and will not limit any other rights and remedies available to the 
+LHIN at law or in equity. For further certainty, the LHIN has not waived any provision of 
+any applicable statute, including LHSIA, nor the right to exercise its rights under these 
+statutes at any time. 
+
+
+14.7 No Assignment. The HSP will not assign this Agreement or the Funding in whole or in 
+part, directly or indirectly, without the prior written consent of the LHIN. No assignment 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 31 of 33 
+
+
+
+or subcontract shall relieve the HSP from its obligations under this Agreement or 
+impose any liability upon the LHIN to any assignee or subcontractor. The LHIN may 
+assign this Agreement or any of its rights and obligations under this Agreement to any 
+one or more of the LHINs or to the MOHLTC. 
+
+
+14.8 Governing Law. This Agreement and the rights, obligations and relations of the parties 
+hereto will be governed by and construed in accordance with the laws of the Province 
+of Ontario and the federal laws of Canada applicable therein. Any litigation arising in 
+connection with this Agreement will be conducted in Ontario unless the parties agree in 
+writing otherwise. 
+
+
+14.9 Survival. The provisions in Articles 1.0, 5.0, 8.0, 10.5, 11.0, 13.0, 14.0 and 15.0 will 
+continue in full force and effect for a period of seven years from the date of expiry or 
+termination of this Agreement. 
+
+
+14.10 Further Assurances. The parties agree to do or cause to be done all acts or things 
+necessary to implement and carry into effect this Agreement to its full extent. 
+
+
+14.11 Amendment of Agreement. This Agreement may only be amended by a written 
+agreement duly executed by the parties. 
+
+14.12 Counterparts. This Agreement may be executed in any number of counterparts, each 
+of which will be deemed an original, but all of which together will constitute one and the 
+same instrument. 
+
+
+ARTICLE 15.0- ENTIRE AGREEMENT 
+
+
+15.1 Entire Agreement. This is Agreement forms the entire Agreement between the parties 
+and supersedes all prior oral or written representations and agreements, except that 
+where the LHIN has provided Funding to the HSP pursuant to an amendment to the 
+Multi-Sector Accountability Agreement April 1,2014 to March 31,2018 or to this 
+Agreement, whether by Project Funding Agreement or otherwise, and an amount of 
+Funding for the same purpose is set out in the Schedules, that Funding is subject to all 
+of the terms and conditions on which funding for that purpose was initially provided, 
+unless those terms and conditions have been superseded by any terms or conditions of 
+this Agreement or by the MSAA Indicator Technical Specifications document, or unless 
+they conflict with Applicable Law or Applicable Policy. 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 32 of 33 
+
+
+
+The parties have executed this Agreement on the dates set out below. 
+
+
+CHAMPLAIN LOCAL HEALTH INTEGRATION NETWORK 
+
+By: 
+
+Jean-Pierre Boisclair April 20, 2018 
+
+Jean-Pierre Boisclair, Chair Date 
+
+And by: 
+
+
+Chantale LeClerc April 18, 2018 
+
+Chantale LeClerc, CEO Date 
+
+
+Sandy Hill Community Health Centre 
+
+By: 
+
+Lynn Marchildon March 15, 2018 
+
+Lynn Marchildon, Board President Date 
+
+I have authority to bind the HSP 
+And by: 
+
+
+David Gibson March 15, 2018 
+
+David Gibson, Date 
+
+Executive Director 
+
+I have authority to bind the HSP 
+
+
+Multi-Sector Service Accountability Agreement April 1,2018 - March 31,2019 
+
+
+Page 33 of 33 
+
+
+
+Schedule Bl: Total LHIN Funding 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+LHIN Program Revenue & Expenses 
+
+Row 
+
+# 
+
+Account: Financial (F) Reference OHRS VERSION 10.0 
+
+2018-2019 
+Plan Target 
+
+REVENUE 
+
+LHIN Global Base Allocation 
+
+1 
+
+F11006 
+
+$9,729,274 
+
+HBAM Funding (CCAC only) 
+
+2 
+
+F11005 
+
+$0 
+
+Quality-Based Procedures (CCAC only) 
+
+3 
+
+F 11004 
+
+$0 
+
+MOHLTC Base Allocation 
+
+4 
+
+F 11010 
+
+$0 
+
+MOHLTC Other funding envelopes 
+
+5 
+
+F 11014 
+
+$0 
+
+LHIN One Time 
+
+6 
+
+F11008 
+
+$0 
+
+MOHLTC One Time 
+
+7 
+
+F 11012 
+
+$0 
+
+Paymaster Flow Through 
+
+8 
+
+F 11019 
+
+$0 
+
+Service Recipient Revenue 
+
+9 
+
+F 11050 to 11090 
+
+$0 
+
+Subtotal Revenue LHIN/MOHLTC 
+
+10 
+
+Sum of Rows 1 to 9 
+
+$9,729,274 
+
+Recoveries from External/Internal Sources 
+
+11 
+
+F 120* 
+
+$0 
+
+Donations 
+
+12 
+
+F 140* 
+
+$0 
+
+Other Funding Sources & Other Revenue 
+
+13 
+
+F 130* to 190*, 110*, [excl. F 11006, 11008, 11010, 11012, 11014, 11019, 11050 
+to 11090, 131*, 140*, 141*, 151*1 
+
+$49,275 
+
+Subtotal Other Revenues 
+
+14 
+
+Sum of Rows 11 to 13 
+
+$49,275 
+
+TOTAL REVENUE FUND TYPE 2 
+
+15 
+
+Sum of Rows 10 and 14 
+
+$9,778,549 
+
+EXPENSES 
+
+Compensation 
+
+Salaries (Worked hours -i- Benefit hours cost) 
+
+17 
+
+F 31010, 31030, 31090, 35010, 35030, 35090 
+
+$4,640,792 
+
+Benefit Contributions 
+
+18 
+
+F 31040 to 31085,35040 to 35085 
+
+$1,087,509 
+
+Employee Future Benefit Compensation 
+
+19 
+
+F305* 
+
+$0 
+
+Physician Compensation 
+
+20 
+
+F390* 
+
+$1,956,835 
+
+Physician Assistant Compensation 
+
+21 
+
+F390* 
+
+$0 
+
+Nurse Practitioner Compensation 
+
+22 
+
+F380* 
+
+$601,966 
+
+Physiotherapist Compensation (Row 128) 
+
+23 
+
+F350* 
+
+$0 
+
+Chiropractor Compensation (Row 129) 
+
+24 
+
+F390* 
+
+$0 
+
+All Other Medical Staff Compensation 
+
+25 
+
+F390*, fexcl. F 39092] 
+
+$0 
+
+Sessional Fees 
+
+26 
+
+F 39092 
+
+$0 
+
+Service Costs 
+
+Med/Surgical Supplies & Drugs 
+
+27 
+
+F 460*, 465*, 560*, 565* 
+
+$109,786 
+
+Supplies & Sundry Expenses 
+
+28 
+
+F4*, 5*, 6*, 
+
+[excl. F 460*, 465*, 560*, 565*, 69596, 69571,72000, 62800, 45100, 69700] 
+
+$684,541 
+
+Community One Time Expense 
+
+29 
+
+F 69596 
+
+$0 
+
+Equipment Expenses 
+
+30 
+
+F 7*, [excl. F 750*, 780* ] 
+
+$100,672 
+
+Amortization on Major Equip, Software License & Fees 
+
+31 
+
+F 750*,780* 
+
+$0 
+
+Contracted Out Expense 
+
+32 
+
+F8* 
+
+$311,306 
+
+Buildings & Grounds Expenses 
+
+33 
+
+F 9*, [excl. F 950*1 
+
+$285,142 
+
+Building Amortization 
+
+34 
+
+F9* 
+
+$0 
+
+TOTAL EXPENSES FUND TYPE 2 
+
+35 
+
+Sum of Rows 17 to 34 
+
+$9,778,549 
+
+NET SURPLUS/(DEFICIT) FROM OPERATIONS 
+
+36 
+
+Row 15 minus Row 35 $0 
+
+Amortization - Grants/Donations Revenue 
+
+37 
+
+F 131*, 141* & 151* I $0 
+
+SURPLUS/DEFICIT Incl. Amortization of Grants/Donations 
+
+38 
+
+Sum of Rows 36 to 37 $0 
+
+FUND TYPE 3-OTHER 
+
+Total Revenue (Type 3) 
+
+39 
+
+F 1* 
+
+$2,955,650 
+
+Total Expenses (Type 3) 
+
+40 
+
+F 3*, F 4*, F 5*, F 6*, F 7*, F 8*, F 9* 
+
+$2,955,650 
+
+NETSURPLUS/(DEFICIT) FUND TYPE 3 
+
+41 
+
+Row 39 minus Row 40 $0 
+
+FUND TYPE 1 - HOSPITAL 
+
+Total Revenue (Type 1) 
+
+42 
+
+F 1* 
+
+$0 
+
+Total Expenses (Type 1) 
+
+43 
+
+F 3*, F 4*, F 5*, F 6*, F 7*, F 8*, F 9* 
+
+$0 
+
+NETSURPLUS/(DEFICIT) FUND TYPE 1 
+
+44 
+
+Row 42 minus Row 43 $0 
+
+ALL FUND TYPES 
+
+Total Revenue (All Funds) 
+
+45 
+
+Line 15 -i- line 39 -i- line 42 
+
+$12,734,199 
+
+Total Expenses (All Funds) 
+
+46 
+
+Line 16 -i- line 40 -i- line 43 
+
+$12,734,199 
+
+NET SURPLUS/(DEFICIT) ALL FUND TYPES 
+
+47 
+
+Row 45 minus Row 46 $0 
+
+Total Admin Expenses Allocated to the TPBEs 
+
+Undistributed Accounting Centres 
+
+48 
+
+82* 
+
+$0 
+
+Plant Operations 
+
+49 
+
+72 1* 
+
+$350,098 
+
+Volunteer Services 
+
+50 
+
+72 1* 
+
+$0 
+
+Information Systems Support 
+
+51 
+
+72 1* 
+
+$633,075 
+
+General Administration 
+
+52 
+
+72 1* 
+
+$1,043,722 
+
+Other Administrative Expenses 
+
+53 
+
+72 1* 
+
+$0 
+
+Admin & Support Services 
+
+54 
+
+72 1* 
+
+$2,026,895 
+
+Management Clinical Services 
+
+55 
+
+72 5 05 
+
+$62,448 
+
+Medical Resources 
+
+56 
+
+72 5 07 
+
+$0 
+
+Total Admin & Undistributed Expenses 
+
+57 
+
+Sum of Rows 48, 54, 55-56 (included in Fund Type 2 expenses above) 
+
+$2,089,343 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule B2: Clinical Activity- Summary 
+2018-2019 
+
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+
+
+
+
+
+
+
+Schedule C: Reports 
+
+Community Health Centres 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+
+Only thosB requirements listed below that relate to the programs and services that are 
+funded by the LHIN will be applicable. 
+
+
+A list of reporting requirements and related submission dates is set out below. Unless otherwise 
+indicated, the HSP is onty required to provide information that is related to the funding that is 
+provided under this Agreement. Reports that require full entity reporting are followed by an 
+asterisk 
+
+
+OHRS/MIS Trial Balance Submission (through OHFS) 
+
+
+
+2014-15 
+
+Due Dates (Must pass 3c Edits) 
+
+
+
+2014-15 Q1 
+
+Not required 2014-15 
+
+
+
+2014-15 Q2 
+
+October 31, 2014 
+
+
+
+2014-15 Q3 
+
+January 31. 2015 
+
+
+
+2014-15 Q4 
+
+May 30. 2015 
+
+
+
+2015-16 
+
+Due Dates (Must pass 3c Edits) 
+
+
+
+2015-16 Q1 
+
+Not required 2015-16 
+
+
+
+2015-16 Q2 
+
+October 31. 2015 
+
+
+
+2015-16 Q3 
+
+January 31. 2016 
+
+
+
+2015-16 Q4 
+
+May 31. 2016 
+
+
+
+2016-17 
+
+Due Dates (Must pass 3c Edits) 
+
+
+
+2016-17 Q1 
+
+Not required 2016-17 
+
+
+
+2016-17 Q2 
+
+October 31, 2016 
+
+
+
+2016-17 Q3 
+
+January 31, 2017 
+
+
+
+2016-17 Q4 
+
+May 31. 2017 
+
+
+
+2017-18 
+
+Due Dates (Must pass 3c Edits) 
+
+
+
+2017-18 Q1 
+
+Not required 2017-18 
+
+
+
+2017-18 Q2 
+
+October 31, 2017 
+
+
+
+2017-18 Q3 
+
+January 31, 2018 
+
+
+
+2017-18 Q4 
+
+May 31, 2018 
+
+
+
+2018-19 
+
+Due Dates (Must pass 3c Edits) 
+
+
+
+2018-19 Q1 
+
+Not required 2018-19 
+
+
+
+2018-19 Q2 
+
+October 31, 2018 
+
+
+
+2018-19 Q3 
+
+January 31. 2019 
+
+
+
+2018-19 Q4 
+
+May 31. 2019 
+
+
+•i* 
+
+
+
+
+Supplementary Reporting - Quarterly Report (through SRI) 
+
+
+
+2014-15 
+
+Due five (5) business days following Trial Balance 
+Submission Due Date 
+
+
+
+2014-15 Q2 
+
+November 7. 2014 
+
+
+
+2014-15 Q3 
+
+February 7, 2015 
+
+
+
+2014-15 Q4 
+
+June 7, 2015 — Supplementary Reporting Due 
+
+
+
+2015-16 
+
+Due five (5) business days following Trial Balance 
+Submission Due Date 
+
+
+
+2015-16 Q2 
+
+November 7, 2015 
+
+
+
+2015-16 Q3 
+
+February 7, 2016 
+
+
+
+2015-16 Q4 
+
+June 7, 2016 — Supplementary Reporting Due 
+
+
+
+2016-17 
+
+Due five (5) business days following Trial Balance 
+Submission Due Date 
+
+
+
+2016-17 Q2 
+
+November 7, 2016 
+
+
+
+2016-17 Q3 
+
+February 7. 2017 
+
+
+
+2016-17 Q4 
+
+June 7, 2017- Supplementary Reporting Due 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule C: Reports 
+
+Community Health Centres 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+2017-18 
+
+Due five (5) business days following Trial Balance 
+Submission Due Date 
+
+2017-18 Q2 
+
+November 7. 2017 
+
+2017-18 Q3 
+
+February 7, 2018 
+
+2017-18 Q4 
+
+June 7, 2018— Supplementary Reporting Due 
+
+2018-19 
+
+Due five (5) business days following Trial Balance 
+Submission Due Date 
+
+2018-19 Q2 
+
+November 7, 2018 
+
+2018-19 Q3 
+
+February 7, 2019 
+
+2018-19 Q4 
+
+June 7, 2019 — Supplementary Reporting Due 
+
+
+Annual Reconciliation Report (ARR) through SRI and paper copy submission* 
+
+(All HSPs must submit both paper copy ARR submission, duly signed, to the Ministry 
+and the respective LHIN where funding is provided; soft copy to be provided through 
+
+SRI) 
+
+
+Fiscal Year 
+
+Due Date 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30. 2016 
+
+2016-17 
+
+June 30, 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30, 2019 
+
+
+Board Approved Audited Financial Statements * 
+
+(All HSPs must submit a paper copy Board Approved Audited Financial Statements, 
+duly signed, to the Ministey and the respective LHIN where funding is provided.) 
+
+Fiscal Year 
+
+Due Date 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30, 2016 
+
+2016-17 
+
+June 30, 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30. 2019 
+
+
+Declaration of Compliance 
+
+Fiscal Year 
+
+Due Date 
+
+2013-14 
+
+June 30, 2014 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30, 2016 
+
+2016-17 
+
+June 30. 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30. 2019 
+
+
+Community Health Centres — Other Reporting Reguirements 
+
+Reguirement 
+
+Due Date 
+
+French Language Service Report 
+
+2014-15 
+
+April 30, 2015 
+
+2015-16 
+
+April 30, 2016 
+
+2016-17 
+
+April 30. 2017 
+
+
+2017-18 
+
+April 30, 2018 
+
+2018-19 
+
+April 30. 2019 
+
+Quality Improvement Plan 
+
+The HSP will submit annually a Quality Improvement Plan to Health Quality Ontario that 
+is aligned with this Agreement and supports local health system priorities. A copy of 
+the QIP is to be provided to the LHIN at the time it is submitted to HQO. 
+
+Planning Period 
+
+Due Date 
+
+April 1.2016- March 31. 2017 
+
+April 1, 2016 
+
+April 1, 2017- March 31. 2018 
+
+April 1, 2017 
+
+April 1. 2018- March 31, 2019 
+
+April 1, 2018 
+
+April 1, 2019 - March 31, 2020 
+
+April 1, 2019 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule C: Reports 
+
+Community Mental Health and Addictions Services 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+Only those requirements listed below that relate to the programs and services that 
+are funded by the LHIN will be applicable. 
+
+
+
+A list of reporting requirements and related submission dates is set out below. Unless 
+otherwise indicated, the HSP is only required to provide information that is related to the 
+funding that is provided under this Agreement. Reports that require full entity reporting 
+are followed by an asterisk 
+
+
+
+OHRS/MIS Trial Balance Submission (through OHFS) 
+
+
+2014-15 
+
+Due Dates (Must pass 3c Edits) 
+
+2014-15 Q1 
+
+Not required 2014-15 
+
+2014-15 Q2 
+
+October 31, 2014 
+
+2014-15 Q3 
+
+January 31. 2015 
+
+2014-15 Q4 
+
+May 30, 2015 
+
+2015-16 
+
+Due Dates (Must pass 3c Edits) 
+
+2015-16 Q1 
+
+Not required 2015-16 
+
+2015-16 Q2 
+
+October 31, 2015 
+
+2015-16 Q3 
+
+January 31. 2016 
+
+2015-16 Q4 
+
+May 31,2016 
+
+2016-17 
+
+Due Dates (Must pass 3c Edits) 
+
+2016-17 Q1 
+
+Not required 2016-17 
+
+2016-17 Q2 
+
+October 31. 2016 
+
+2016-17 Q3 
+
+January 31. 2017 
+
+2016-17 Q4 
+
+May 31, 2017 
+
+2017-18 
+
+Due Dates (Must pass 3c Edits) 
+
+2017-18 Q1 
+
+Not required 2017-18 
+
+2017-18 Q2 
+
+October 31. 2017 
+
+2017-18 Q3 
+
+January 31. 2018 
+
+2017-18 Q4 
+
+May 31,2018 
+
+2018-19 
+
+Due Dates (Must pass 3c Edits) 
+
+2018-19 Q1 
+
+Not required 2017-18 
+
+2018-19 Q2 
+
+October 31, 2018 
+
+2018-19 Q3 
+
+January 31. 2019 
+
+2018-19 Q4 
+
+May 31. 2019 
+
+
+
+
+
+Supplementary Reporting - Quarterly Report (through SRI) 
+
+
+2014-15 
+
+Due five (5) business days following Trial 
+Balance Submission Due Date 
+
+2014-15 Q2 
+
+November 7, 2014 
+
+2014-15 Q3 
+
+February 7, 2015 
+
+2014-15 Q4 
+
+June 7, 2015 - Supplementary Reporting Due 
+
+2015-16 
+
+Due five (5) business days following Trial 
+Balance Submission Due Date 
+
+2015-16 Q2 
+
+November 7, 2015 
+
+2015-16 Q3 
+
+February 7, 2016 
+
+2015-16 Q4 
+
+June 7, 2016 - Supplementary Reporting Due 
+
+2016-17 
+
+Due five (5) business days following Trial 
+Balance Submission Due Date 
+
+2016-17 Q2 
+
+November 7, 2016 
+
+2016-17 Q3 
+
+February 7, 2017 
+
+2016-17 Q4 
+
+June 7. 2017 - SuDolementarv Reportina Due 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule C: Reports 
+
+Community Mental Health and Addictions Services 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+2017-18 
+
+Due five (5) business days following Trial 
+Balance Submission Due Date 
+
+
+2017-18 Q2 
+
+November 7, 2017 
+
+2017-18 Q3 
+
+February 7, 2018 
+
+2017-18 Q4 
+
+June 7, 2018 - Supplementary Reporting Due 
+
+2018-19 
+
+Due five (5) business days following Trial 
+Balance Submission Due Date 
+
+2018-19 Q2 
+
+November 7, 2018 
+
+2018-19 Q3 
+
+February 7, 2019 
+
+2018-19 Q4 
+
+June 7, 2019 - Supplementary Reporting Due 
+
+
+
+
+
+Annual Reconciliation Report (ARR) through SRI and paper copy submission* 
+
+(All HSPs must submit both paper copy ARR submission, duly signed, to the 
+Ministry and the respective LHIN where funding is provided; soft copy to be 
+provided through SRI) 
+
+
+Fiscal Year 
+
+Due Date 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30. 2016 
+
+2016-17 
+
+June 30, 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30, 2019 
+
+
+
+
+
+Board Approved Audited Financial Statements * 
+
+(All HSPs must submit paper copy Board Approved Audited Financial 
+
+Statements, duly signed, to the Ministry and the respective LHIN where funding is 
+provided.) 
+
+
+Fiscal Year 
+
+Due Date 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30, 2016 
+
+2016-17 
+
+June 30, 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30, 2019 
+
+
+
+
+
+Declaration of Compliance 
+
+
+Fiscal Year 
+
+Due Date 
+
+2013-14 
+
+June 30, 2014 
+
+2014-15 
+
+June 30, 2015 
+
+2015-16 
+
+June 30, 2016 
+
+2016-17 
+
+June 30, 2017 
+
+2017-18 
+
+June 30, 2018 
+
+2018-19 
+
+June 30. 2019 
+
+
+
+
+
+Community Mental Health and Addictions — Other Reporting Reguirements 
+
+
+Reguirement 
+
+Due Date 
+
+Common Data Set for Community 
+Mental Health Services 
+
+Last day of one month following the close of trial 
+balance reporting for Q2 and Q4 (Year-End) 
+
+2014-15 Q2 
+
+November 28, 2014 
+
+2014-15 Q4 
+
+June 30, 2015 
+
+2015-16 Q2 
+
+November 30. 2015 
+
+2015-16 Q4 
+
+June 30, 2016 
+
+2016-17 Q2 
+
+November 30. 2016 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule C: Reports 
+
+Community Mental Health and Addictions Services 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+2016-17 Q4 
+
+June 30. 2017 
+
+2017-18 Q2 
+
+November 30, 2017 
+
+2017-18 Q4 
+
+June 29, 2018 
+
+2018-19 Q2 
+
+November 30, 2018 
+
+2018-19 Q4 
+
+June 28, 2019 
+
+DATIS (Drug & Alcohol Treatment 
+Information System) 
+
+Fifteen (15) business days after end of Q1, Q2 
+and Q3 - Twenty (20) business days after Year- 
+End (Q4) 
+
+2014-15 Q1 
+
+July 22, 2014 
+
+2014-15 Q2 
+
+October 22. 2014 
+
+2014-15 Q3 
+
+January 22. 2015 
+
+2014-15 Q4 
+
+April 30, 2015 
+
+2015-16 Q1 
+
+July 22. 2015 
+
+2015-16 Q2 
+
+October 22, 2015 
+
+2015-16 Q3 
+
+January 22. 2016 
+
+2015-16 Q4 
+
+April 28, 2016 
+
+2016-17 Q1 
+
+July 22, 2016 
+
+2016-17 Q2 
+
+October 24. 2016 
+
+2016-17 Q3 
+
+January 23. 2017 
+
+2016-17 Q4 
+
+May 2, 2017 
+
+2017-18 Q1 
+
+July 21, 2017 
+
+2017-18 Q2 
+
+October 24. 2017 
+
+2017-18 Q3 
+
+January 23. 2018 
+
+2017-18 Q4 
+
+May 2, 2018 
+
+2018-19 Q1 
+
+July 23, 2018 
+
+2018-19 Q2 
+
+October 22, 2018 
+
+2018-19 Q3 
+
+January 22. 2019 
+
+2018-19 Q4 
+
+April 29, 2019 
+
+ConnexOntarfo Health Services 
+Information 
+
+• Drug and Alcohol Helpline 
+
+• Ontario Problem Gambling 
+Helpline (OPGH) 
+
+• Mental Health Helpline 
+
+All HSPs that received funding to provide mental 
+health and/or addictions services must 
+oarticioate in ConnexOntario Health Services 
+information’s annual validation of service 
+details; provide service availability updates; and 
+inform ConnexOntario Health Services 
+
+Information of any program/service changes as 
+they occur. 
+
+French Language Service Report 
+
+2014-15 
+
+April 30, 2015 
+
+2015-16 
+
+April 30, 2016 
+
+2016-17 
+
+April 30, 2017 
+
+2017-18 
+
+April 30, 2018 
+
+2018-19 
+
+April 30, 2019 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule D: Directives, Guidelines and Policies 
+
+Community Health Centres 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Only those requirements listed below that relate to the programs and services that are funded 
+by the LHIN will be applicable. 
+
+
+■ Community Financial Policy, 2016 
+
+• Community Health Centre - Requirements November 2013 
+
+• Ontario Healthcare Reporting Standards - OHRS/MIS - most current version available 
+to applicable year 
+
+- Model of Health and Wellbeing - May 2013 
+
+• Community Health Centre Guidelines November 2013 vl.1 (see Note #1) 
+
+• Guideline for Community Health Service Providers Audits and Reviews, August 2012 
+
+
+Note #1: Community Health Centre Guidelines 
+
+A “Community Health Centre Guidelines” document has been completed by representatives from 
+Community Health Centres, LHINs, AOHC and the MOHLTC. The purpose of the guide is to 
+provide critical information to CHCs and LHINs in the areas of; 
+
+• Historical information 
+
+• Best practice 
+
+• Administrative guidance 
+
+The guide is intended to be a “living" document to be updated during the life of the current 
+agreement at a mutually agreeable schedule to all parties to ensure that it remains current and a 
+valuable reference document for the CHC sector and LHI Ns. It must be noted that the document 
+is considered a guide only for informational purposes and is not a contractual requirement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule D: Directives, Guidelines and Policies 
+
+Community Mental Health and Addictions Services 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Only those requirements listed below that relate to the programs and services that are 
+funded by the LHIN will be applicable. 
+
+
+• Community Financial Policy, 2016 
+
+
+• Operating Manual for 
+
+Chapter 1. Organizational Components 
+
+Community Mental 
+
+1.2 
+
+Organizational Structure, Roles and Relationships 
+
+Health and Addiction 
+
+1.3 
+
+Developing and Maintaining the HSP Organization / 
+
+Services (2003) 
+
+
+Structure 
+
+
+1.5 
+
+Dispute Resolution 
+
+
+Chapter 2. Program & Administrative Components 
+
+
+2.3 
+
+Budget Allocations/ Problem Gambling Budget 
+
+
+
+Allocations 
+
+
+2.4 
+
+Service Provision Requirements 
+
+
+2.5 
+
+Client Records, Confidentiality and Disclosure 
+
+
+2.6 
+
+Service Reporting Requirements 
+
+
+2.8 
+
+Issues Management 
+
+
+2.9 
+
+Service Evaluation/Quality Assurance 
+
+
+2.10 
+
+Administrative Expectations 
+
+
+Chapter 3. Financial Record Keeping and Reporting 
+
+
+
+Requirements 
+
+
+3.2 
+
+Personal Needs Allowance for Clients in Some 
+
+
+
+Residential Addictions Programs 
+
+
+3.6 
+
+Internal Financial Controls (except “Inventory of 
+
+
+
+Assets’) 
+
+
+3.7 
+
+Human Resource Control 
+
+
+■ Early Psychosis Intervention Standards (March 2011) 
+
+
+■ Ontario Program Standards for ACT Teams (2005) 
+
+• Intensive Case Management Service Standards for Mental Health Services and 
+
+Supports (2005) _ 
+
+• Crisis Response Service Standards for Mental Health Services and Supports 
+
+_12005)_ 
+
+• Psychiatric Sessional Funding Guidelines (2004) 
+
+• Joint Policy Guideline for the Provision of Community Mental Health and 
+Developmental Services for Adults with Dual Diagnosis (2008) 
+
+■ Addictions & Mental Health Ontario - Ontario Provincial Withdrawal Management 
+Standards(2014) 
+
+■ Addictions staged screening and assessment tools (2015) 
+
+■ South Oaks Gambling Screen (SOGS) 
+
+• Ontario Healthcare Reporting Standards - OHRS/MIS - most current version 
+available to applicable year 
+
+■ Guideline for Community Health Service Providers Audits and Reviews, August 
+2012 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule El: Core Indicators 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Performance Indicators 
+
+
+‘Balanced Budget - Fund Type 2 
+
+
+Proportion of Budget Spent on Administration 
+
+
+‘Percentage Total Margin 
+
+
+Variance Forecast to Actual Expenditures 
+
+
+Variance Forecast to Actual Units of Service 
+
+
+Service Activity by Functional Centre 
+
+
+Number of Individuals Served 
+
+
+Alternate Level of Care (ALC) Rate 
+
+
+2018-2019 
+
+Target 
+
+
+
+Refer to 
+Schedule E2a 
+
+
+Refer to 
+Schedule E2a 
+
+
+
+Performance 
+
+Standard 
+
+
+
+
+
+Explanatory Indicators 
+
+
+Cost per Unit Service (by Functional Centre) 
+
+
+Cost per Individual Served (by Program/Service/Functional Centre) 
+
+
+Client Experience 
+
+
+Percentage of Alternate Level of Care (ALC) days (closed cases) 
+
+
+Balanced Budget Fund Type 2: FISP's are required to submit a balanced budget 
+* No negative variance is accepted for Total Margin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E2a: Clinical Activity- Detail 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+OHRS Description & Functionai Centre 
+
+These values are provided for information purposes only. They are not Accountability Indicators. 
+
+
+2018-2019 
+
+
+^ , Performance 
+
+Standard 
+
+Administration and Support Services 72 1* 
+
+Full-time equivalents (FTE) 
+
+72 1* 
+
+
+18.10 
+
+
+n/a 
+
+
+Total Cost for Functional Centre 
+
+72 1* 
+
+$2,026,895 
+
+n/a 
+
+Clinical Management 72 5 05 
+
+Full-time equivalents (FTE) 
+
+72 5 05 
+
+
+0.50 
+
+
+n/a 
+
+
+Total Cost for Functional Centre 
+
+72 5 05 
+
+$62,448 
+
+n/a 
+
+Case Management Addictions - Substance Abuse 72 5 09 78 11 
+
+Full-time equivalents (FTE) 
+
+72 5 09 7811 
+
+
+6.92 
+
+
+n/a 
+
+
+Visits 
+
+72 5 09 7811 
+
+3,025 
+
+2723-3328 
+
+Not Uniquely Identified Service Recipient Interactions 
+
+72 5 09 7811 
+
+50 
+
+40-60 
+
+Individuals Served by Functional Centre 
+
+72 5 09 7811 
+
+540 
+
+459 - 621 
+
+Group Sessions 
+
+72 5 09 7811 
+
+24 
+
+19-29 
+
+Total Cost for Functional Centre 
+
+72 5 09 7811 
+
+$790,782 
+
+n/a 
+
+Group Participant Attendances 
+
+72 5 09 7811 
+
+144 
+
+115-173 
+
+Clinics/Programs - General Clinic 72 5 10 20 
+
+Full-time equivalents (FTE) 
+
+72 5 10 20 
+
+
+27.34 
+
+
+n/a 
+
+
+Not Uniquely Identified Service Recipient Interactions 
+
+72 5 10 20 
+
+20 
+
+16-24 
+
+Individuals Served by Functional Centre 
+
+72 5 10 20 
+
+3,776 
+
+3398-4154 
+
+Total Cost for Functional Centre 
+
+72 5 10 20 
+
+$3,460,206 
+
+n/a 
+
+Service Provider Interactions 
+
+72 5 10 20 
+
+22,600 
+
+21470-23730 
+
+Clinics/Programs - Therapy Clinic - Foot Care 72 5 10 40 20 
+
+Full-time equivalents (FTE) 
+
+72 5 10 40 20 
+
+
+5.70 
+
+
+n/a 
+
+
+Individuals Served by Functional Centre 
+
+72 5 10 40 20 
+
+3,500 
+
+3150-3850 
+
+Total Cost for Functional Centre 
+
+72 5 10 40 20 
+
+$520,265 
+
+n/a 
+
+Service Provider Interactions 
+
+72 5 10 40 20 
+
+7,500 
+
+7125-7875 
+
+Clinics/Programs - Chronic Disease Clinic - General Clinic 72 5 10 50 10 
+
+Full-time equivalents (FTE) 
+
+72 5 10 50 10 
+
+
+3.80 
+
+
+n/a 
+
+
+Individuals Served by Functional Centre 
+
+72 5 10 50 10 
+
+300 
+
+240 - 360 
+
+Group Sessions 
+
+72 5 10 50 10 
+
+200 
+
+160 - 240 
+
+Total Cost for Functional Centre 
+
+72 5 10 50 10 
+
+$537,272 
+
+n/a 
+
+Group Participant Attendances 
+
+72 5 10 50 10 
+
+1,900 
+
+1710-2090 
+
+Service Provider Interactions 
+
+72 5 10 50 10 
+
+500 
+
+425 - 575 
+
+Service Provider Group Interactions 
+
+72 5 10 50 10 
+
+500 
+
+425-575 
+
+Clinics/Programs - Chronic Disease Clinic - Hepatitis C and/or HIV/AIDS Clinic 72 5 10 50 40 
+
+Full-time equivalents (FTE) 
+
+72 5 10 50 40 
+
+
+8.40 
+
+
+n/a 
+
+
+Not Uniquely Identified Service Recipient Interactions 
+
+72 5 10 50 40 
+
+100 
+
+80 -120 
+
+Individuals Served by Functional Centre 
+
+72 5 10 50 40 
+
+1,200 
+
+1080 - 1320 
+
+Group Sessions 
+
+72 5 10 50 40 
+
+150 
+
+120 -180 
+
+Total Cost for Functional Centre 
+
+72 5 10 50 40 
+
+$1,043,581 
+
+n/a 
+
+Group Participant Attendances 
+
+72 5 10 50 40 
+
+650 
+
+553 - 748 
+
+Service Provider Interactions 
+
+72 5 10 50 40 
+
+3,500 
+
+3150-3850 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E2a: Clinical Activity- Detail 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+OHRS Description & Functionai Centre 
+
+These values are provided for information purposes only. They are not Accountability Indicators. 
+
+
+2018-2019 
+
+
+^ Performance 
+
+Standard 
+
+Service Provider Group interactions 
+
+72 5 10 50 40 
+
+
+150 
+
+
+120-180 
+
+
+Addictions Treatment-Substance Abuse 72 5 10 78 11 
+
+Full-time equivalents (FTE) 
+
+72 5 10 7811 
+
+
+5.44 
+
+
+n/a 
+
+
+Visits 
+
+72 5 10 7811 
+
+2,900 
+
+2610-3190 
+
+Not Uniqueiy identified Service Recipient interactions 
+
+72 5 10 7811 
+
+1,100 
+
+990-1210 
+
+individuais Served by Functionai Centre 
+
+72 5 10 7811 
+
+800 
+
+680 - 920 
+
+Group Sessions 
+
+72 5 10 7811 
+
+200 
+
+160 - 240 
+
+Total Cost for Functional Centre 
+
+72 5 10 7811 
+
+$565,487 
+
+n/a 
+
+Group Participant Attendances 
+
+72 5 10 7811 
+
+1,800 
+
+1620 - 1980 
+
+Service Provider interactions 
+
+72 5 10 7811 
+
+2,900 
+
+2610-3190 
+
+Service Provider Group Interactions 
+
+72 5 10 7811 
+
+250 
+
+200 - 300 
+
+Addictions Treatment-Problem Gambling 72 5 10 78 12 
+
+Full-time equivalents (FTE) 
+
+72 5 10 7812 
+
+
+2.80 
+
+
+n/a 
+
+
+Visits 
+
+72 5 10 7812 
+
+1,900 
+
+1710-2090 
+
+Individuals Served by Functional Centre 
+
+72 5 10 7812 
+
+320 
+
+256-384 
+
+Group Sessions 
+
+72 5 10 7812 
+
+60 
+
+48-72 
+
+Total Cost for Functional Centre 
+
+72 5 10 7812 
+
+$291,285 
+
+n/a 
+
+Group Participant Attendances 
+
+72 5 10 7812 
+
+600 
+
+510-690 
+
+Service Provider Interactions 
+
+72 5 10 7812 
+
+1,900 
+
+1710-2090 
+
+Service Provider Group Interactions 
+
+72 5 10 7812 
+
+120 
+
+96 -144 
+
+Health Prom/Educ. & Com.Dev. - Community Engagement and Capacity Building 72 5 50 14 
+
+Full-time equivalents (FTE) 
+
+72 5 50 14 
+
+
+2.21 
+
+
+n/a 
+
+
+Total Cost for Functional Centre 
+
+72 5 50 14 
+
+$126,822 
+
+n/a 
+
+CHC Client Support Services 72 5 85 
+
+Full-time equivalents (FTE) 
+
+72 5 85 
+
+
+5.31 
+
+
+n/a 
+
+
+Not Uniquely Identified Service Recipient Interactions 
+
+72 5 85 
+
+80 
+
+64-96 
+
+Individuals Served by Functional Centre 
+
+72 5 85 
+
+700 
+
+595-805 
+
+Total Cost for Functional Centre 
+
+72 5 85 
+
+$353,506 
+
+n/a 
+
+Service Provider Interactions 
+
+72 5 85 
+
+1,200 
+
+1080 - 1320 
+
+ACTIVITY SUMMARY 
+
+Total Full-Time Equivalents for all F/C 
+
+
+86.52 
+
+
+n/a 
+
+
+Total Visits for all F/C 
+
+7,825 
+
+7434-8216 
+
+Total Not Uniquely Identified Service Recipient Interactions for aii F/C 
+
+1,350 
+
+1215-1485 
+
+Total Individuals Served by Functional Centre for all F/C 
+
+11,136 
+
+10579 - 11693 
+
+Total Group Sessions for all F/C 
+
+634 
+
+539-729 
+
+Total Group Participants for all F/C 
+
+5,094 
+
+4839 - 5349 
+
+Total Service Provider Interactions for all F/C 
+
+40,100 
+
+38897-41303 
+
+Total Service Provider Group Interactions for all F/C 
+
+1,020 
+
+918-1122 
+
+Total Cost for All F/C 
+
+9,778,549 
+
+n/a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E2b: CHC Sector Specific Indicators 
+
+2018-2019 
+
+
+Health Service Provider: Sandy Hill Commur 
+
+
+Performance Indicators 
+
+Cervical Cancer Screening Rate (PAP tests) 
+
+Colorectal Screening Rate 
+Inter-professional Diabetes Care Rate 
+Influenza Vaccination Rate 
+Breast Cancer Screening Rate 
+Retention Rate (For NPs and Physicians) 
+
+Access to Primary Care 
+
+Client Satisfaction-Access 
+
+Clinic support staff per primary care provider 
+
+Number of Registered Clients 
+
+
+Non-Insured Clients 
+
+
+2018-2019 
+
+Performance 
+
+Target 
+
+Standard 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E2c: CMH&A Sector Specific Indicators 
+
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+Explanatory Indicators 
+
+Repeat Unplanned Emergency Visits within 30 days for Mental Health conditions 
+
+
+Repeat Unplanned Emergency Visits within 30 days for Substance Abuse conditions 
+
+
+Average Number of Days Waited from Referral/Application to Initial Assessment Complete 
+
+
+Average number of days waited from Initial Assessment Complete to Service Initiation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E3a Local: All 
+2018-2019 
+
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Indigenous Cultural Awareness : The Health Service Provider will report on the activities it has undertaken during the fiscal year to increase the indigenous cultural awareness and 
+sensitivity of its staff, physicians and volunteers throughout the organization. This supports the goal of improving access to health services and health outcomes for indigenous 
+people. The Indigenous Cultural Awareness Report, using a template to be provided by the LHIN, is due to the LHIN by April 30, 2019 and should be submitted using the subject line: 
+2018-19 Indigenous Cultural Awareness Report to ch.accountabilityteam@lhins.on.ca . HSPs that have multiple accountability agreements with the LHIN should provide one 
+aggregated report for the corporation. 
+
+
+Executive Succession : The Health Service Provider must inform the LHIN prior to undertaking a recruitment process or appointment for a CEO or Executive Director. 
+
+
+Health Links Partners: The Health Service Provider, in collaboration with the Health Link Lead and other partners, will contribute to the scaling and sustainability of Health Links care 
+coordination with patients/clients with complex needs, including the identification of clients, participation on patient care teams and as appropriate, delivery of coordinated care to 
+achieve the 2018-19 target number of coordinated care plans. 
+
+The HSP will ensure awareness within its organization of the Health Links approach, the desired patient and system outcomes and its contribution to advancing this critical work. 
+
+The HSP is aware that the specific system-metrics that are being monitored and reported include: 
+
+The percentage of 30 day readmissions to hospitals within the sub-region; 
+
+The percentage of acute care patients who have had a follow-up with a physician within 7 days of discharge within the sub-region; and 
+The number of avoidable ED visits for identified complex patients with conditions best managed elsewhere within the sub-region. 
+
+
+In 2018-19, the HSP will work in collaboration with the LHIN, the Health Links Leads and primary care organizations (as appropriate) to support reporting for the following 
+information: 
+
+Patient experience metrics; 
+
+The number and percentage of complex patients with regular and timely access to a primary care provider. 
+
+The average time patients waited from referral (for CCP) to initial assessment; and 
+
+The number of sectors and organizations involved in identifying and referring individuals who might benefit from a coordinated care plan. 
+
+For Specific-HSPs providing care coordination: 
+
+
+The HSP will meet its 2018-19 commitments for: 
+
+Care coordination capacity as agreed to with the sub-regional Health Link Lead organization Capacity Plan and 
+
+Completed Coordinated Care Plans (CCPs) by March 31, 2019. The number of completed Coordinated Care Plan committed will be outlined in an amendment to this agreement 
+in Q1 2018-19, if applicable. 
+
+
+The HSP will provide requested information to the respective Health Link Lead to support timely and accurate reporting. 
+
+
+Sub-region Planning : The Champlain LHIN has established five sub-regions in order to improve patient and client health outcomes through population health planning and integrated 
+service delivery. HSPS are expected to collaborate in the development of sub-region planning, and to contribute to more coordinated care for sub-regional populations across the 
+continuum of primary, home, community, and long-term care and to improve transitions from hospital to community care. This will require close collaboration and partnership with 
+primary care providers in each sub-region in meeting the needs of their patients. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule E3b Local: CHC Local Indicators 
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Ottawa Model of Smoking Cessation: Community Health Centres participating in the Ottawa Model of Smoking Cessation will collect baseline and post-implementation performance 
+metrics and submit these to the University of Ottawa Heart Institute (UOHI) according to individual agreements between the CHC and the UOHI. 
+
+
+Sub-acute Care Plan Implementation: The Health Service Provider will maintain an awareness of the Champlain LHIN Sub-acute Care Plan and participate in implementation as 
+requested by the LHIN. The HSP’s sub-acute care volume, performance, and associated funding will be adjusted in accordance with, and subject to the approval, of the regional sub¬ 
+acute care implementation plan. 
+
+
+
+
+
+
+Schedule E3c Local: CMH&A Local Indicators 
+2018-2019 
+
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+Client Evaluation - Mental Health and Addictions : The HSP will use the Ontario Perception of Care tool (OPOC) as the standard evaluation tool for all registered and non-registered 
+clients, including family members. The HSP will upload their OPOCs to the OPOC data base. HSPs will provide an annual report to the LHIN (within 60 days of fiscal year end) on 
+their OPOC results by program, and their proposed quality improvement initiatives to respond to OPOC results. HSPs preferring to use other sector-specific, client perception of care 
+tools must submit their request to the LHIN for approval. 
+
+
+Screening and assessment tools - Mental Health and Addictions : To help build a more integrated system, Community Mental Health and Addictions Health Service Providers 
+(HSPs) will use the GAIN suite of Staged Screening and Assessment Tools as mandated by the Ministry of Health and Long-Term Care and the LHIN, as follows: 
+
+Stage 1 Screener: Global Appraisal of Individual Need (GAIN) Short Screener (SS) (Addictions, Concurrent Disorders, Mental Health) 
+
+Stage 2 Screener for 18+: Modified Mini Screener (MMS) (Addictions, Concurrent Disorders, Mental Health (Optional)) 
+
+Stage 2 Screener for under 17: Problem Oriented Screening Instrument for Teenagers (POSIT) (Addictions, Concurrent Disorders, Mental Health (Optional)) 
+
+Stage 1 Assessment: GAIN Q3 MI ONT (with substance use grids from GAIN-I) (Addictions, Concurrent Disorders, Mental Health (Optional)) 
+
+The HSP will work with the LHIN and CAMH to train (and certify, where appropriate) staff in the use of these tools, record/upload relevant data into Catalyst (or CLHIN SharePoint 
+site for MH providers) in a timely manner, monitor program use, and review organizational results quarterly 
+
+The HSP will submit a Catalyst report to the LHIN within 30 days of the end of the 2 "^ and 4**^ quarters of each year summarizing their use of the GAIN-SS and GAIN Q3 ONT MI 
+tools. 
+
+The HSP will collaborate with the Champlain SSA Implementation Steering Committee and the Ottawa Addictions Access and Referral Service (OAARS) to develop an 
+organizational implementation and sustainability action plan. 
+
+
+Mental Health Assessment : To help build a more integrated system, mental health and concurrent disorder service providers will use the Ontario Common Assessment of Need 
+(OCAN) tool with all present and future clients, and submit this data in the corresponding database. 
+
+
+Workforce Development and Capacity Building : Mental Health and Addictions : All Community Mental Health and Addictions Health Service Providers (HSPs) will integrate the 
+Champlain Mental Health and Addictions Competency model and related tools for purposes of recruitment, professional development, and performance management. HSPs will use the 
+Competency Core software tool for these purposes. HSPs preferring to use alternative sector-specific, evidence-based Competency models and tools must submit their request to the 
+LHIN for approval. 
+
+
+Repeat Unscheduled Emergency Visits within 30 days for Mental Health Conditions : The Health Service Provider will achieve a target of 16.3% 
+
+
+Repeat Unscheduled Emergency Visits within 30 days for Substance Abuse Conditions : The Health Service Provider will achieve a target of 22.4% 
+
+
+
+
+
+
+
+
+
+Schedule F: Project Funding 
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+Project Funding Agreement Template 
+
+Note: This project template is intended to be used to fund one-off projects or for the provision of services not ordinarily provided by the HSP. 
+Whether or not the HSP provides the services directly or subcontracts the provision of the services to another provider, the HSP remains 
+accountable for the funding that is provided by the LHIN. 
+
+THIS PROJECT FUNDING AGREEMENT (“PFA”) is effective as of [insert date] (the “Effective Date”) between: 
+
+
+XXX LOCAL HEALTH INTEGRATION NETWORK (the “LHIN”) 
+- and - 
+
+[Legal Name of the Health Service Provider] (the “HSP”) 
+
+
+WHEREAS the LHIN and the HSP entered into a service accountability agreement dated [insert date] (the “SAA”) for the provision of Services and now wish to 
+set out the terms of pursuant to which the LHIN will fund the HSP for [insert brief description of project] (the “Project”); 
+
+NOW THEREFORE in consideration of their respective agreements set out below and subject to the terms of the SAA, the parties covenant and agree as 
+follows: 
+
+1.0 Definitions. Unless otherwise specified in this PFA, capitalized words and phrases shall have the meaning set out in the SAA. When used 
+
+in this PFA, the following words and phrases have the following meanings: 
+
+
+“Project Funding” means the funding for the Services; 
+
+“Services ” mean the services described in Appendix A to this PFA; and 
+
+“Term” means the period of time from the Effective Date up to and including [insert project end date]. 
+
+2.0 Relationship between the SAA and this PFA. This PFA is made subject to and hereby incorporates the terms of the SAA. On execution 
+
+this PFA will be appended to the SAA as a Schedule. 
+
+3.0 The Services. The HSP agrees to provide the Services on the terms and conditions of this PFA including all of its Appendices and 
+
+schedules. 
+
+4.0 Rates and Payment Process. Subject to the SAA, the Project Funding for the provision of the Services shall be as specified in Appendix 
+
+A to this PFA. 
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule F: Project Funding 
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule F: Project Funding 
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule G: Declaration of Compliance 
+2018-2019 
+
+Health Service Provider: Sandy Hill Community Health Centre 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

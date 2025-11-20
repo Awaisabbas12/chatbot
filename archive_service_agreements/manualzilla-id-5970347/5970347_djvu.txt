@@ -1,0 +1,427 @@
+Service Agreement and End User License Agreement 
+
+
+Service provided by InReach LLC or Roadpost, Inc. dba InReach Canada may become limited or 
+temporarily unavailable without notice from time to time due to any number of reasons associated with 
+managing a Satellite System. Further, this satellite-based service requires a clear line of sight between the 
+INREACH Product and the satellite; therefore, the service is inherently subject to transmission and 
+reception limitations. Further information regarding service coverage and potential interruptions can be 
+found in the Terms of Service (as defined below) available at explore.delorme.com. 
+
+
+To the fullest extent permitted by law, your use of this product constitutes acceptance of the fact that 
+InReach LLC and its Service Providers and affiliates, and their affiliates, respective employees, directors, 
+officers, agents and suppliers, hereby expressly limit liability for any claims, damages, losses, costs and 
+expenses incurred by you, however caused and even if such damages were reasonably foreseeable, to a 
+total, maximum aggregate value not to exceed the amount of service fees paid by you. Further 
+information concerning the limitations of liability for use of this product and service can be found in the 
+Terms of Service available at explore.delorme.com. 
+
+
+1) NOTICE TO USER / ACCEPTANCE OF TERMS. 
+
+
+PLEASE READ THESE LEGAL NOTICES CAREFULLY. BY USING YOUR INREACH PRODUCT FOR 
+INREACH AND/OR THE SERVICE, YOU ACCEPT ALL TERMS AND CONDITIONS CONTAINED IN THESE 
+DOCUMENTS, INCLUDING THOSE LEGAL AGREEMENTS AND TERMS AND CONDITIONS WHICH HAVE 
+BEEN INCORPORATED BY REFERENCE. THIS INCLUDES, BUT IS NOT LIMITED TO, THE INREACH 
+PRODUCT LIMITED WARRANTY, THE TERMS OF SERVICE AND THE END USER LICENSE AGREEMENT 
+(EULA) AND ANY AND ALL LIMITATIONS OF LIABILITY AND/OR DISCLAIMERS OF WARRANTY 
+CONTAINED THEREIN. YOU UNDERSTAND AND AGREE THAT YOU MUST BE AT LEAST EIGHTEEN (18) 
+YEARS OF AGE TO SUBSCRIBE TO THE SERVICE. YOU UNDERSTAND AND AGREE THAT THESE LEGAL 
+NOTICES ARE ENFORCEABLE LIKE ANY WRITTEN AGREEMENT SIGNED BY YOU. IF YOU DO NOT 
+AGREE, DO NOT USE THE INREACH PRODUCT AND PROMPTLY RETURN IT TO THE PLACE WHERE YOU 
+OBTAINED IT. 
+
+
+2) USE OF YOUR INREACH PRODUCT. 
+
+
+2.1 Familiarization with your INREACH Product. You understand and agree that it is your responsibility to 
+familiarize yourself with the operation of your INREACH Product, INREACH Smartphone Applications, and DeLorme 
+GPS device (PN-60w or subsequent model), including reading your User Manual, available at 
+
+manuals.delorme.com. You agree that you will use the INREACH Product only in accordance with those 
+instructions. It is also highly recommended that you review the Help available at explore.delorme.com and practice 
+properly using your INREACH Product by sending test messages and fixing your GPS coordinates as described. 
+
+
+2.2 Coverage. You may use your INREACH Product, INREACH Smartphone Applications, and DeLorme GPS 
+device anywhere there is coverage (subject to the applicable restrictions due to local laws, licensing/certification 
+requirements and regulations. For a complete list of the certifications applicable to your INREACH Product and/or 
+the DeLorme GPS Device, please see the device User Manual at manuals.delorme.com. 
+
+
+2.3 Important Tips. Your INREACH Product needs a clear view of the sky to obtain a GPS signal and provide the 
+most accurate location information. It is not reliable indoors or in a cave. Orienting your INREACH Product so that 
+the protruding antenna is oriented to the sky will improve performance, and you should keep your INREACH 
+Product at least 12 inches away from other GPS devices and mobile phones. Please read your Quick Start Guide or 
+User Manual and follow the instructions to pair your DeLorme GPS device or INREACH Smartphone Application with 
+your INREACH Product. 
+
+
+2.4 Message Schedule. Redundancy is built into your INREACH Product to ensure more of your messages are 
+transmitted. It is normal for some INREACH messages to be blocked by everyday conditions; the view of the sky is 
+often blocked due to hills, buildings, or other obstructions. This is why InReach automatically retries messages 
+until it receives a satellite acknowledgement. Placement of your INREACH unit can make a difference. Experiment 
+with placement until you are familiar with the reliability of your operating environment. 
+
+
+3) 
+
+
+2.5 Synchronization of Data. You acknowledge that it is your sole responsibility to ensure that you have 
+followed the synchronization process outlined on explore.delorme.com to export any updates and/or changes to 
+your INREACH Registration Data, contact information, designated contacts, social connectivity settings, supported 
+INREACH Service options and pre-programmed messages from your INREACH account to your DeLorme PN-60w or 
+INREACH Smartphone Application. 
+
+
+2.6 Support and Customer Service. More information about your INREACH Product and the associated Service 
+is available at explore.delorme.com or by contacting INREACH Customer Service: 
+
+
+Canada: Online: inreachcanada.com. Customer service: email inreachcare@roadpost.com. Tech support: email 
+inreachtech@roadpost.com. Phone: 1-800-337-3155, M-F 9:00 a.m.-6:00 p.m. Eastern Time. 
+
+
+US and International: Online: support.delorme.com. Tech support: email tech@delorme.com or phone (+1) 207- 
+846-8900. Sales and customer service: email sales@delorme.com or 800-511-2459 (US only) or (+1) 207-847- 
+1165. Representatives are available M-F 8:30 a.m.-5:00 p.m. Eastern Time. 
+
+
+Please contact DeLorme Technical Support for questions regarding the operation of your DeLorme PN-60w or 
+INREACH Smartphone Application. 
+
+
+For the current and full terms and conditions governing the use of your INREACH Product, please visit 
+explore.delorme.com. These terms and conditions may be updated by InReach LLC at any time and 
+without notice. If there is any conflict between the terms contained in these Legal Notices and the 
+terms contained at explore.delorme.com, then the terms contained at explore.delorme.com shall 
+supersede and replace the terms contained in these Legal Notices. 
+
+
+HARDWARE LIMITED WARRANTY 
+
+
+3.1 INREACH warrants that your INREACH Product will be free from defects in materials and workmanship for one 
+year from the date of purchase. If your INREACH Product fails in normal use, INREACH will, during the first (90) 
+ninety-days after purchase, at its sole option, either repair or replace the unit. INREACH reserves the right to either 
+repair or replace the unit with a new or refurbished unit at its sole discretion. Such repairs or replacements will be 
+made at no charge for labor or materials; however, the customer will be responsible for any shipping charges 
+incurred to send the device to INREACH. After the first ninety (90) days, INREACH will repair your unit, but will not 
+replace it. The repaired or replaced product will be warranted for ninety (90) days from the date of return 
+shipment, or for the balance of the original warranty, whichever is longer. This warranty does not cover failures due 
+to abuse, misuse, accidents, or unauthorized disassembly or modification. Any repairs not performed by INREACH 
+will void this warranty. 
+
+
+INREACH DISCLAIMS ANY LIABILITY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, 
+INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUES OR PROFITS, EVEN IF INREACH HAS BEEN ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITED WARRANTY CONTAINED HEREIN IS IN LIEU OF ALL OTHER 
+EXPRESS WARRANTIES. ANY AND ALL IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF 
+MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE, SHALL LAST FOR 1 YEAR. 
+
+
+This warranty gives you specific legal rights and you may also have other rights which vary by jurisdiction. Some 
+jurisdictions do not allow the exclusion or limitation of relief such as incidental or consequential damages, or 
+limitations on how long an implied warranty lasts, so the above limitations or exclusions may not apply to you. This 
+warranty applies to the original purchaser of the product ONLY. REMINDER: Be sure to retain the sales receipt 
+proving the date of your original purchase. This will be needed if warranty service is ever required. INREACH 
+reserves the right to refuse warranty if a receipt is not provided or if the receipt is incomplete/illegible. 
+
+
+3.2 Repairs or replacements under warranty will be made at no charge for labor and materials; however, the 
+customer will be responsible for shipping charges. The repaired or replaced product will be warranted for the 
+balance of the original warranty. The warranty does not cover failures due to abuse, misuse, accidents, or 
+
+
+4) 
+
+
+5) 
+
+
+6) 
+
+
+unauthorized disassembly or modification or any damage sustained during shipment of the product. Any repairs 
+not performed by InReach LLC will void this warranty. 
+
+
+3.3 EXCEPT AS PROVIDED ABOVE, THE PRODUCT IS SOLD “AS IS” WITHOUT ANY EXPRESS OR IMPLIED 
+WARRANTIES FOR THE PRODUCT WHATSOEVER, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED 
+WARRANTIES REGARDING THE CONDITION, DESIGN, SPECIFICATIONS, WORKMANSHIP, MERCHANTABILITY OR 
+FITNESS FOR A PARTICULAR PURPOSE OF THE PRODUCT, OR ANY WARRANTIES THAT THE PRODUCT IS FREE 
+FROM LATENT DEFECTS OR DEFICIENCIES, OR THAT THE PRODUCT IS FREE FROM INFRINGEMENT OF ANY 
+PATENT, TRADEMARK, COPYRIGHT OR PROPRIETARY RIGHT OF ANY THIRD PARTY AND SUCH WARRANTIES ARE 
+HEREBY EXPRESSLY DISCLAIMED. 
+
+
+3.4 THIS LIMITED WARRANTY PROVIDES THE SOLE AND EXCLUSIVE REMEDY FOR ANY DEFECTS IN THE 
+PRODUCT. IN NO EVENT SHALL INREACH, LLC BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, 
+INCIDENTAL OR PUNITIVE DAMAGES, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR 
+OTHERWISE. OUR LIABILITY IS LIMITED TO THE AMOUNT YOU PAID FOR THE PRODUCT THAT IS THE SUBJECT 
+OF A CLAIM. 
+
+
+The terms and conditions of the INREACH Product Limited Warranty may be updated by InReach LLC at any time 
+and without notice. If there is any conflict between the terms contained in these Legal Notices and the terms 
+contained at explore.delorme.com, then the terms contained at explore.delorme.com shall supersede and replace 
+the terms contained in these Legal Notices. 
+
+
+COPYRIGHTS, INTELLECTUAL PROPERTY, PATENTS AND DOCUMENTATION 
+
+
+© InReach LLC. All rights reserved. The INREACH, and related trademarks, names and logos are the property of 
+InReach LLC or DeLorme Publishing Company, Inc. and are registered and/or used in the U.S. and countries around 
+the world. The INREACH Product and other devices and/or associated software and data, including geographic 
+data, are protected by copyright, international treaties, and various patents. The documentation, including all 
+documentation incorporated by reference herein, such as documentation provided or made available at 
+explore.delorme.com, is provided “AS IS” and “AS AVAILABLE” and without condition, endorsement, representation 
+or warranty of any kind by InReach LLC. InReach LLC assumes no responsibility for any typographical, technical, or 
+other inaccuracies, errors, or omissions in this documentation. 
+
+
+INREACH SATELLITE SERVICES - SERVICE SUBSCRIPTION REQUIRED. 
+
+
+A separate service subscription (the “Service”) is required in order to utilize your INREACH Product. Please visit 
+explore.delorme.com for more information regarding the available Service options and to subscribe. Your use of 
+the Service is governed by InReach LLC’s INREACH Subscriber Terms and Conditions of Service or Roadpost Inc. 
+dba InReach Canada’s Terms and Conditions of Service (“Terms of Service”) and InReach LLC’s Privacy Policies 
+(“Privacy Policies”), available at explore.delorme.com, which may be updated from time to time without notice. 
+Sometimes these Affiliates will be providing the Service to you on behalf of InReach LLC itself. You acknowledge 
+and agree that Affiliates will be entitled to provide the Services to you. InReach LLC is constantly working to offer 
+additional services to its subscribers, thus you acknowledge and agree that the form and nature of the Services 
+may change from time to time without notice to you. Your cellphone service provider and/or internet provider may 
+charge you or your recipients additional fees in relation to any SMS / MMS messages, social connectivity messages 
+and/or other emails and/or data (collectively “data plan fees”) sent by you. Please familiarize yourself with any 
+such applicable plans, services and associated fees before using your INREACH Product. You are responsible for 
+any such applicable charges and fees. For the current and complete Terms of Service, please visit 
+explore.delorme.com. The Terms of Service may be updated by InReach LLC or Roadpost Inc. dba InReach 
+Canada at any time and without notice. If there is any conflict between the Terms of Service contained in these 
+Legal Notices and the Terms of Service contained at explore.delorme.com, then the Terms of Service contained at 
+explore.delorme.com shall supersede and replace the Terms of Service contained in these Legal Notices. 
+
+
+End User License Agreement 
+PLEASE READ THIS END USER LICENSE AGREEMENT (“EULA”) CAREFULLY. THIS EULA IS A LEGAL 
+
+
+AGREEMENT BETWEEN YOU AND INREACH LLC. YOU UNDERSTAND AND AGREE THAT YOU MUST BE 
+AT LEAST EIGHTEEN (18) YEARS OF AGE AND THAT THIS EULA IS ENFORCEABLE LIKE ANY WRITTEN 
+
+
+NEGOTIATED AGREEMENT SIGNED BY YOU. THIS EULA, AND AS MAY BE AMENDED, APPLIES TO THE 
+USE OF ANY SOFTWARE, WHETHER PRE-INSTALLED ON THE DELORME PN-60W, A SMARTPHONE 
+AND/OR THE INREACH PRODUCT AND/OR DOWNLOADED TO YOUR COMPUTER, THAT MAY BE 
+REQUIRED FOR THE USE OF THE INREACH PRODUCT AND SERVICE (“SOFTWARE”). BY USING YOUR 
+INREACH PRODUCT FOR DELORME AND/OR THE SERVICE, YOU ACCEPT ALL THE TERMS AND 
+CONDITIONS OF THIS EULA OR ANY APPLICABLE AMENDMENTS. USE OF THE INREACH PRODUCT, 
+USE OF THE SERVICE AND/OR PRESSING THE “I AGREE” BUTTON FOR A DOWNLOAD OF ANY 
+UPDATES, UPGRADES OR SUPPLEMENTS IS CONSIDERED USE OF THE SOFTWARE. IF YOU DO NOT 
+AGREE TO THE TERMS OF THIS EULA, DO NOT USE THE SOFTWARE AND PROMPTLY RETURN THE 
+UNUSED SOFTWARE, AS WELL AS THE HARDWARE TO THE PLACE WHERE YOU OBTAINED THEM. 
+
+
+6.1 Ownership and Grant of License. The DeLorme GPS Device, INREACH Smartphone Application, and 
+INREACH Product utilize proprietary software, proprietary firmware and proprietary communication protocols in 
+order to access the INREACH messaging functions and Service (collectively any such software, firmware and/or 
+communication protocols required for use of the INREACH Product are referred to as the “Software”). This 
+proprietary Software may be owned by DeLorme, by InReach LLC or by a third party. This EULA grants a license 
+(“License”) that permits you to use the software as required for your INREACH Product and Service, whether 
+through the DeLorme PN-60w or directly through the INREACH Product, or through an application installed on your 
+smartphone. This License is non-exclusive, non-sublicensable and non-transferable. This License is also subject to 
+the limitations and conditions of this EULA and the INREACH Terms of Service, which govern the provision of the 
+Service. All rights not specifically granted in this EULA are reserved by InReach LLC, DeLorme or the respective 
+third-party owner of such Software. You acknowledge and agree that InReach LLC and/or third-parties own(s) all 
+intellectual property rights, title, and interest in or, if applicable, licenses to the Software, including, but not limited 
+to, all trademarks, copyrights, data, and content. All title and intellectual property rights in the Software may be 
+protected by applicable copyright or other intellectual property laws and treaties. Your use of the Software is solely 
+controlled by this EULA which cannot be changed except by a written agreement executed between you and 
+InReach LLC. The Software is licensed, not sold. If you are using the device in conjunction with a smart phone 
+application, then your use is subject to any terms and conditions imposed upon by the terms of your agreement 
+with your smart phone manufacturer or service provider. 
+
+
+6.2 Other Restrictions on Use. You agree that you will not remove or obscure any proprietary rights notices, 
+copyright notices or trademarks associated with the Software. You agree that you will not copy, sell, license, 
+distribute, transfer, modify, adapt, translate, decompile, reverse engineer, disassemble, attempt to derive the 
+source code of, modify, or create derivative works of the Software for any purpose. You agree that you will not 
+attempt to circumvent or defeat the security or content usage rules contained in the Software and/or use the 
+Software in violation of any law or third party rights. 
+
+
+6.3 Software Changes and Updates. You agree that InReach LLC or third-party providers may make changes 
+to the Software and associated Services in order to comply with applicable laws, to maintain or improve the 
+Software and/or the Services or for other business reasons, without notice to you and without liability for any 
+changes in your ability to use the Software, INREACH Product and/or Service, including compatibility issues, as a 
+result of such changes. These updates may take the form of bug fixes, enhanced functions, new software modules 
+and completely new versions. This License does not grant any rights to obtaining future upgrades, updates or 
+supplements of the Software. If upgrades, updates or supplements of the Software are obtained, however, the use 
+of such upgrades or updates is governed by this EULA and the amendments that may accompany them and may be 
+subject to additional payments and conditions. InReach LLC highly recommends that you ensure that both your 
+DeLorme PN-60w or INREACH Smartphone Application has the most recent software version available and that your 
+INREACH Product has the most recent firmware version available and that these versions are compatible to each 
+other. InReach LLC reserves the right to mandate you to install the most recent Software version in order to obtain 
+continued Service. Any such mandatory Software updates will be at no additional cost to you. 
+
+
+6.4 Content License from You. You agree that you are solely responsible for (and that InReach LLC has no 
+responsibility to you or to any third party for) any Content that you create, transmit or display while using the 
+Software and/or the Service and for the consequences of your actions by doing so. You acknowledge that the 
+InReach messages may include your location information. You retain copyright and any other rights you already 
+hold in Content which you submit, post or display on or through, the Software and/or Service. You acknowledge 
+and agree that by submitting, posting or displaying the content you give InReach LLC a perpetual, irrevocable, 
+worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, 
+publicly display and distribute any Content which you submit, post or display on or through, the Software and/or 
+
+
+Service. Furthermore, you agree that this license includes a right for InReach LLC to make such Content available 
+to other companies, organizations or individuals as required for the provision of Service, including any social 
+connectivity sites designated by you. InReach may also disclose such personal data as may be in the possession of 
+InReach to third party service providers and/or competent legal authority in connection with your use of the SOS 
+services associated with your service plan in order to assist in the effectuation of a rescue. In order to provide the 
+Service, InReach may be required to transmit or distribute your content over various public networks and in various 
+media. InReach LLC may also be required to make changes to your Content if so required by the technical 
+requirements of connecting networks, devices, services or media. InReach reserves the right to disclose personal 
+and location data as well as remotely activate SOS features when notified by competent legal authority that a 
+distress situation exists for the user. 
+
+
+6.5 Third-Party Licenses and Content. If, as part of your use of the Software and/or Service you download a 
+piece of software, or purchase goods, which are provided by a third party then your use of these other services, 
+software or goods may be subject to separate terms between you and the third-party provider. This third-party 
+content may be protected by intellectual property rights which are owned by the third party. Any reference or links 
+to any third-party content does not constitute its endorsement, sponsorship or recommendation by InReach LLC or 
+its licensors. Third-party product and service information are the sole responsibility of each individual third-party 
+vendor. It is possible that you may find some third-party content offensive, indecent or objectionable, and that, in 
+this respect, you use the Services at your own risk. Any opinions, advice, statements, services, offers, or other 
+information or content expressed or made available by third parties are those of the respective authors and not of 
+INREACH. INREACH neither endorses nor is responsible for the accuracy or reliability of any opinion, advice, 
+information or statement by anyone other than authorized INREACH employees acting in their official capacities. 
+You understand and acknowledge that INREACH is not responsible for and does not monitor third-party content for 
+accuracy or reliability. 
+
+
+6.6 Term and Termination. The license commences upon your use of the INREACH Product and Service, or 
+upon your downloading of any associated Software updates, and is effective until terminated by You or InReach 
+LLC. If you want to terminate, you may do so by ceasing to utilize the INREACH Product and terminating the 
+associated Service as allowed under the Terms of Service. You agree that we may terminate this EULA and the 
+provision of associated Services to you at any time without notice or liability to you if you are in breach of this EULA 
+or act in any manner which clearly shows you do not intend to, or are unable to, comply with the EULA. InReach 
+LLC may also terminate this EULA if required to do so by governmental regulatory body and/or law. In such event, 
+you must cease using the INREACH Product and Service. All provisions relating to confidentiality, indemnity, 
+proprietary rights, and non-disclosure shall survive the termination of this Agreement. All other rights and 
+obligations of the parties shall cease upon termination including, but not limited to, all licenses granted 
+
+hereunder. If terminated by InReach LLC, InReach LLC may place a notice on your account or may send an email 
+message to your last email address known to InReach LLC. InReach LLC will have no liability if you do not receive 
+InReach LLC’s notification. 
+
+
+6.7 Commercial Items / US Government Restricted Rights. This Software and documentation have been 
+developed entirely with private funds. The use of the Software and related documentation by any entity of the 
+Unites States Government is restricted by the terms of this EULA. The Software and related documentation are 
+"Commercial Items", as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" 
+and "Commercial Computer Software Documentation", as specified under 48 C.F.R. §12.212 or 48 C.F.R. 
+§227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as 
+applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being 
+licensed to U.S. Government end users only as Commercial Items and with only those rights as are granted to all 
+other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws 
+of the United States. 
+
+
+6.8 Export Restrictions. The Software may be subject to export controls or restrictions by the United States or 
+other countries or territories. You agree to comply with all applicable U.S. and international export laws and 
+regulations, including restrictions on destinations, end users, and end use. You agree not to export or re-export the 
+Software or the INREACH Product to any country in violation of the export control laws of the United States of 
+America. The Software may not be exported or re-exported into any U.S. embargoed countries or to anyone on the 
+U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce Denied 
+Person’s List or Entity List. By using the Software, you represent and warrant that you are not located in any such 
+country or on any such list. You also agree that you will not use these products for any purposes prohibited by 
+
+
+United States law, including, without limitation, the development, design, manufacture or production of nuclear, 
+missiles, or chemical or biological weapons. 
+
+
+6.9 Indemnity. To the maximum extent permitted by law, you agree to indemnify, defend and hold harmless 
+InReach LLC and its affiliates, licensors and suppliers their respective directors, officers, employees and agents from 
+and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs 
+and expenses (including reasonable attorneys’ fees) arising out of or in connection with your use of the Software. 
+
+
+6.10 Disclaimer of Warranty. YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE 
+AND SERVICE IS AT YOUR SOLE RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,THE 
+SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE” AND ALL OTHER WARRANTIES, REPRESENTATIONS, AND 
+CONDITIONS (EXPRESS OR IMPLIED) INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR 
+CONDITIONS REGARDING MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, THAT THE SOFTWARE 
+AND/OR SERVICES WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION WILL BE WITHOUT INTERRUPTION 
+OR ERROR-FREE, OF SATISFACTORY QUALITY, OF QUIET ENJOYMENT, THAT ANY DEFECTS IN THE SOFTWARE 
+WILL BE CORRECTED, OF NON-INFRINGEMENT OF THIRD-PARTY RIGHTS OR ANY OTHER EXPRESS OR IMPLIED 
+WARRANTY ARISING BY STATUTE OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR USAGE OF 
+TRADE, ARE HEREBY EXPRESSLY EXCLUDED FROM THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY 
+LAW. INREACH GIVES NO WARRANTY IN RELATION TO THE AVAILABILITY, SUITABILITY OR ACCURACY OF THE 
+SOFTWARE, THE SERVICE OR IN RELATION TO AVAILABILITY, SUITABILITY OR MAINTENANCE OF THE 
+SATELLITE SYSTEMS USED BY THE INREACH PRODUCT TO TRANSMIT DATA TRANSMISSIONS, INCLUDING SOS 
+EMERGENCY SIGNALS. InReach LLC MAKES NO WARRANTIES RESPECTING ANY HARM THAT MAY BE CAUSED BY 
+TRANSMISSION OF A COMPUTER VIRUS, HACKING BY A THIRD PARTY, WORM, TIME BOMB, LOGIC BOMB, OR 
+OTHER SUCH COMPUTER PROGRAM. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY ANY 
+DISTRIBUTOR, RESELLER OR ITS AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. YOU ARE SOLELY 
+RESPONSIBLE FOR ANY DAMAGE TO YOUR INREACH PRODUCT, DELORME GPS DEVICE, SMARTPHONE, OR 
+OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE. THE APPLICATION IS NOT INTENDED FOR 
+USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, AIRCRAFT NAVIGATION OR 
+COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE 
+FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR 
+ENVIRONMENTAL DAMAGE. 
+
+
+6.11 Limitation of Liability. TO THE FULLEST EXTENT PERMITTED BY LAW, INREACH AND ITS SERVICE 
+PROVIDERS AND AFFILIATES, AND THEIR AFFILIATES, RESPECTIVE EMPLOYEES, DIRECTORS, OFFICERS, AGENTS 
+AND SUPPLIERS HEREBY EXPRESSLY EXCLUDE LIABILITY FOR ANY DAMAGES OR CLAIMS, INCLUDING INJURY OR 
+DEATH, AND ANY INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL, RELIANCE, EXEMPLARY OR PUNITIVE 
+LOSS, DAMAGE, COSTS OR EXPENSES (INCLUDING LOSS OF INCOME, MEDICAL AND OTHER EXPENSES, LOSS OF 
+GUIDANCE, CARE AND COMPANIONSHIP) WHICH MAY ARISE OUT OF OR IN CONNECTION WITH THE PROVISION 
+OF THE SOFTWARE AND/OR SERVICE (INCLUDING ANY DELAY IN PROVIDING OR FAILURE TO PROVIDE THE 
+SERVICE) OR ITS USE BY YOU OR BY ANOTHER PERSON WHETHER OR NOT AUTHORIZED BY YOU TO UTILIZE 
+THE SOFTWARE AND/OR SERVICE. INREACH AND ITS AFFILIATES AND/OR SERVICE PROVIDERS, INCLUDING 
+DELORME, GEOS, IRIDIUM COMMUNICATIONS, ROADPOST LCC AND THEIR AFFILIATES, AND THEIR 
+RESPECTIVE EMPLOYEES, DIRECTORS, OFFICERS, AGENTS AND SUPPLIERS EXCLUDE ALL LIABILITY, WHETHER 
+RESULTING FROM CONTRACT, TORT (INCLUDING LIABILITY FOR NEGLIGENCE OR BREACH OF STATUTORY 
+DUTY) OR OTHERWISE IN RESPECT OF ANY LOSS, DAMAGE, COSTS, EXPENSES OR OTHER CLAIMS RESULTING 
+FROM THE ACTS OR OMISSIONS OF SUCH PARTIES, FOR ANY FAULTS, FAILURES OR INADEQUACIES OF THE 
+SATELLITE SYSTEM, THE SOFTWARE, THE SERVICE AND/OR THE SOS EMERGENCY MONITORING AND 
+RESPONSE. THIS LIMITATION INCLUDES ANY FAILURE OR DELAY IN THE PROVISION OF SERVICES 
+
+AS SPECIFIED IN THE INREACH TERMS OF SERVICE. 
+
+
+6.12 Changes to the EULA. InReach LLC reserves the right to change the terms and conditions of this EULA at 
+any time. You can find the most current EULA at explore.delorme.com. You understand and agree that if you use 
+the services after the date on which the terms or additional terms have changed, InReach LLC will treat your use as 
+acceptance of the updated terms or additional terms. 
+
+
+6.13 Governing Law. This EULA will be governed and construed in all respects by the laws of the State of Maine 
+without regard to its conflict of laws and provisions. You and InReach LLC agree to submit to the exclusive 
+
+
+jurisdiction of the courts located within the county of Cumberland, State of Maine, to resolve any legal matter 
+arising from this EULA. 
+
+
+6.14 General. This EULA constitutes the entire agreement between the Parties with respect to the subject matter 
+hereof. Any headings are provided for convenience only. You may not assign this EULA or any of your rights or 
+obligations hereunder, but InReach LLC may assign this EULA and any of its rights and obligations hereunder and 
+this EULA shall inure to the benefit of and is binding on InReach LLC’s respective successors and permitted 
+
+assigns. The failure of InReach LLC to exercise or enforce any right under this EULA shall not constitute a waiver of 
+such right. All rights and remedies granted to InReach LLC are cumulative and not alternate. If any provision of 
+this EULA is found invalid or unenforceable, such invalidity or unenforceability shall not affect the remaining terms 
+and conditions of this EULA, and the parties shall substitute a valid provision that most nearly approximates the 
+intent and economic effect of the invalid or unenforceable one. 
+
+

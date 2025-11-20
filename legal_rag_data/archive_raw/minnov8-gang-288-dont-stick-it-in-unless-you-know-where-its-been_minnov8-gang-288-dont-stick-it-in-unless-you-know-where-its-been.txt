@@ -1,0 +1,55 @@
+﻿Minnov8 Gang 288 - Don't Stick It In Unless You Know Where It's Been
+AuthorSteve BorschDate2014-11-15 10:23:46CategoriesMinnov8 Gang Podcast The Security Tip of the Week, and the basis for the innuendo in the title, is to point out the danger of sticking any-old USB thumb drive in to your computer and why. Listen to find out more. Hosts: Steve Borsch, Tim Elliott, Graeme Thickins and Phil Wilson. Music: Wah Blues by Nite Kats. Brought to us by the podsafe Music Alley. 
+The Podcast
+https://media.blubrry.com/minnov8/minnov8.com/site/wp-content/uploads/podcasts/20141115_M8_Gang_288.mp3
+Podcast: Download (Duration: 1:04:40 — 37.9MB)
+Subscribe: RSS
+
+Story Links
+Past Week’s Biggest MN Stories
+· Graeme’s MobCon update
+· Target 
+o Target buys in-store personalization startup Powered Analytics
+o About Powered Analytics: BIG Data: Powered Analytics harnesses the power
+o More about Powered Analytics (Google cache of former website)
+o MobilizeMN: Designing The Flagship Target Mobile App
+· Nerds unite! Software company expands to Phoenix, plans to hire more than 150
+· Could Best Buy use Geek Squad to roll out same-day delivery? 
+o The U.S. Postal Service Tests Same-Day Delivery
+o WebVan
+· Comcast unveils an X1 Talking Guide for the visually impaired
+Other Top Stories
+· Net Neutrality: President Obama's Plan for a Free and Open Internet 
+o Comcast CEO agrees with Obama on net neutrality, sort of
+· US, China move toward ending tariffs on high-tech gear
+· Report: Government planes scoop up cell phone data
+· iOS's first major malware challenge 
+o Apple downplays Masque malware threat despite US CERT warning
+· Walmart to sell $99 Windows 8.1 tablet on Black Friday 
+o Nextbook 8 product page at NextbookUSA.com
+· Skype for Web brings voice and video calls to your browser
+
+Steve’s Security Tip of the Week
+· Don’t stick it in unless you know where it’s been! 
+o BadUSB returns: Hackers publish code that could infect millions of USB devices
+
+Cool Thing of the Week
+· Phil: John Oliver on Net Neutrality
+· Tim: Android 5.0 Lollipop
+· Graeme: Wait, what’s this? MNovation Park
+· Steve: Build a $35 Time Capsule - Raspberry Pi Time Machine Backup Server
+
+Upcoming Events
+· Ongoing Events 
+o INVESTyR’s Fundraising in the Digital Economy, 1st Tuesday of each month 3:30-4:30pm
+· November 
+o Educelerate Twin Cities Games for Learning and Social Causes Nov. 18th
+· December 
+o TIES 2014 Education Technology Conference, December 6th
+o Mobile Twin Cities, December 8th, CoCo Minneapolis. Topics: 
+§ The World of Wireframes: Communicating with Developers-Brigitte Dahlberg, co-founder, PureXRD
+§ A Standard Non-Disclosure Agreement: There’s No Such Thing-Devan Padmanabhan and Brett Klein, Winthrop & Weinstine
+· March 2015 
+o Mobile March Twin Cities (date TBD)
+· April 2015 
+o Twin Cities TechPulse 2015 – Apr 21, 2015

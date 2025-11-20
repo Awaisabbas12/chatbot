@@ -1,0 +1,3556 @@
+$SG1D 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+, SECTION C 
+DESCRIPTION/ SPECIFICATIONS /WORKSTATEMENT 
+
+
+C.1 52.000-4001 
+DESCRIPTION © 
+
+
+The Contractor, as an independent contractor, and not as an agent, 
+servant, or employee of the Government, utilizing special knowledge and 
+techniques possessed by and available to the contractor, shall furnish 
+all labor, equipment, facilities, services, and materials, (except as 
+set forth hereinafter to be provided herein to be furnished by the 
+Government), to perform this contract. Performance shall be in 
+accordance with: 
+
+THE STATEMENT OF WORK, ATTACHMENT 1, DATED 4 JUNE 1992. 
+
+
+. 
+
+
+(End of Section) 
+
+
+MDA908-93-C-0004 Page C-1 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+ae 
+
+
+. Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+SECTION D 
+: PACKAGING AND MARKING 
+
+
+D.1 52.999-4001 PACKAGING AND MARKING OF TECHNICAL DATA 
+
+
+az Technical Data shalt be preserved, packaged, packed and marked 
+in accordance with best commercial practices to meet the packing re- 
+quirements of the carrier, and insure safe delivery at destination. 
+
+
+b. Container shall be clearly marked as follows: 
+
+
+(1) Consignee’s name and address. 
+
+(2) Contract number. 
+
+(3) Description of items contained therein. 
+(4) Name of contractor. 
+
+
+p.2 52.999-4002 PACKAGING AND MARKING OF CLASSIFIED ITEMS a 
+(DoD Manual 5220-22M, Industrial Security Manual) 
+
+
+(a) TOP SECRET, SECRET end CONFIDENTIAL material shall be packaged to 
+conceal it properly and to avoid suspicion as to contents, and to reach 
+its destination in satisfactory condition. Internal markings or internal 
+packaging will clearly indicate the classification. NO NOTATION TO 
+INDICATE CLASSIFICATION WILL APPEAR IN EXTERNAL MARKINGS. 
+
+
+{b) TOP SECRET, SECRET and CONFIDENTIAL documents shall be enclosed 
+in two (2) opaque envelopes or covers. The inner envelope or cover 
+containing the documents being transmitted will be addressed, returned 
+addressed, and sealed. The classification of the documents being 
+transmitted shall be clearly marked on the front and back of the inner 
+container. The classified documents shall be protected from direct 
+contact with the inner cover by a cover sheet or by folding inward. When 
+transmitting TOP SECRET and SECRET material the inner container shall / 
+contain a receipt form which identifies the addressor, the addressee, and 
+the contents by unclassified or short title. Where this is not practical, 
+the receipt shall be sent to the proposed recipient with the advance 
+notice of shipment, or be handcarried by a responsible employee designated 
+to accompany the classified shipment to its destination. CONFIDENTIAL 
+documents shalt be covered by a receipt only when the sender deems it 
+necessary. The inner envelope or cover will be enclosed in an opaque 
+outer envelope or cover. The classification markings of the inner 
+envelope should not be detectable. The outer containers shall be 
+addressed, return addressed, and carefully seated. NO CLASSIFICATION 
+MARKINGS WILL APPEAR ON THE OUTER ENVELOPE OR COVER. (See Chapter 5 of 
+the Industrial Security Manual for Safeguarding Classified Information Dod 
+Manual 5220.22M). 
+
+
+MDAI08-93-C-0004 D-1 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+D.3 52.999-4003 METHOD OF TRANSMISSION 
+(Dod Manual 5220-22, Industrial Security Manual) 
+
+
+TOP SECRET material may be transmitted by: 
+
+
+(i) 8 specifically designated escort or courier cleared for access to 
+TOP SECRET information (Military, U.S. Civilian employee, or a responsible 
+employee designated by the Contractor, except that the Contractor employee 
+shall not carry classified material across international boundaries); 
+
+
+cii> Armed Forces Courier Service using a contractor assigned ARFCOS 
+Account number. Under no circumstances shall TOP SECRET material be 
+transmitted through the U.S. or company mail channels. (See Chapter 5 of 
+
+
+the Industriel Security Manual for Safeguarding Classified Information Dod 
+Manual 5220.22M). 
+
+
+END OF SECTION D 
+
+
+MDA908-93-C-0004 D-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+SECTION E 
+INSPECTION AND ACCEPTANCE 
+
+
+E.1 52.246-5 INSPECTION OF SERVICES--COST-REIMBURSEMENT (APR 1984) 
+
+
+(a) Definition. “Services,” as used in this clause, includes services 
+performed, workmanship, and material furnished or used in performing 
+services. 
+
+(b) The Contractor shall provide and maintain an inspection system 
+acceptable to the Government covering the services under this contract. 
+Complete records of all inspection work performed by the Contractor shatt 
+be maintained and made available to the Government during contract 
+performance and for as long afterwards as the contract requires. 
+
+(c) The Government has the right to inspect and test all services called 
+for by the contract, to the extent practicable at all places and times 
+during the term of the contract. The Government shall perform inspections 
+and tests in a manner that will not unduly delay the work. 
+
+(d) If any of the services performed do not conform with contract 
+requirements, the Government may require the Contractor to perform the 
+services again in conformity with contract requirements, for no additional 
+fee. when the defects in services cannot be corrected by reperformance, 
+the Government may (1) require the Contractor to take necessary action to 
+ensure that future performance conforms to contract requirements and (2) 
+reduce any fee payable under the contract to reflect the reduced value of 
+the services performed. 
+
+(e) If the Contractor fails to promptly perform the services again or 
+take the action necessary to ensure future performance in conformity with 
+contract requirements, the Government may (1) by contract or otherwise, 
+perform the services and reduce any fee payable by an amount that is 
+equitable under the circumstances or (2) terminate the contract for 
+
+
+default. 
+(End of clause) 
+(R 7-1909.5 1971 NOV) 
+E.2 52.999-4005 -: INSPECTION AND ACCEPTANCE AT DESTINATION 
+
+
+a. Inspection and acceptance will be made by the authorized 
+representative of the Contracting Officer. 
+
+
+b. Inspection and acceptance of the supplies or services to be 
+furnished hereunder shall be made at destination specified herein. 
+
+
+c. The basis for acceptance shall be contractor conformity with 
+contract requirements. . 
+
+
+d. The Government shall accomplish the inspection and acceptance 
+within 30 calendar days after receipt of deliverables. 
+
+
+END OF SECTION E 
+
+
+MDA908-93-C-0004 E-1 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+1 SECTION F 
+DELIVERIES OR PERFORMANCE 
+
+
+F.1 52.212-13 I 
+STOP-WORK ORDER (AUG 1989)--ALTERNATE I (APR 1984) 
+
+
+(a) The Contracting Officer may, at any time, by written order to the 
+Contractor, require the Contractor to stop all, or any part, of the work 
+called for by this contract for a period of 90 days after the order is 
+delivered to the Contractor, and for any further period to which the 
+parties may agree. The order shall be specifically identified as a 
+stop-work order issued under this clause. Upon receipt of the order, the 
+Contractor shall immediately comply with its terms and take all reasonable 
+steps to minimize the incurrence of costs allocable to the work covered 
+by the order during the period of work stoppage. Within a period of 90 
+days after a stop-work is delivered to the Contractor, or within any 
+extension of that period to which the parties shall have agreed, the 
+Contracting Officer shall either-- 
+
+(1) Cancel the stop-work order; or 
+
+(2) Terminate the work covered by the order as provided in the 
+Termination clause of this contract. 
+
+(b) If a stop-work order issued under this clause is canceled or the 
+period of the order or any extension thereof expires, the Contractor shall 
+resume work. The Contracting Officer shall make an equitable adjustment 
+in the delivery schedule, the estimated cost, the fee, or a combination 
+thereof, and in any other terms of the contract that may be affected and 
+the contract shall be modified, in writing, accordingly, if-- 
+
+(1) The stop-work order results in an increase in the time required 
+for, or in the Contractor’s cost properly allocable to, the performance 
+of any part of this contract; and 
+
+(2) The Contractor asserts its right to the adjustment within 30 days 
+after the end of the period of work stoppage; provided, that, if the 
+Contracting Officer decides the facts justify the action, the Contracting 
+Officer may receive and act upon the claim submitted at any time before 
+final payment under this contract. 
+
+(c) If a stop-work order is not canceled and the work covered by the 
+order is terminated for the convenience of the Government, the Contracting 
+Officer shall allow reasonable costs resulting from the stop-work order 
+in arriving at the termination settlement. 
+
+(ad) If a stop-work order is not canceled and the work covered by the 
+order is terminated for default, the Contracting Officer shall allow, by 
+equitable adjustment or otherwise, reasonable costs resulting from the 
+stop-work order. 
+
+(End of clause) 
+
+
+MDA908~-93-C-0004 Page F-1 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+F.2 52.252-2 : 
+CLAUSES INCORPORATED BY REFERENCE (JUN 1988) 
+
+This contract incorporates one or more clauses by reference, with the 
+same force and effect as if they were given in full text. Upon request, 
+the Contracting Officer will make their full text available. 
+
+(End of clause) 
+F.3 52.999-4010 
+DELIVERY INSTRUCTIONS: F.O.B. DESTINATION CONSIGNMENT INSTRUCTIONS: 
+Delivery shall be made and all transportation charges paid to 
+destination(s) in accordance with the contract clause entitled "F.O.B. 
+Destination" (NON-MILSTRIP). Consignment instructions are as follows: 
+SHIPPING CODE: 
+SHIP TO; DEFENSE INTELLIGENCE AGENCY . 
+BUILDING 6000 BOLLING AIR FORCE BASE 
+WASHINGTON, D.C. 20032 
+MARK FOR: Contracting Officer’s Technical 
+Representative 
+Attn: DT-s SG1J 
+Contract Number: MDA908-93-C-0004 
+F.4 52.999-4009 II 
+PERFORMANCE PERIOD 
+The work and services required hereunder shall be completed/ 
+delivered within eighteen (18) months from effective date of contract as 
+follows: 
+a. CLIN(s) 0001 shall be completed within 18 months from the effective 
+date of contract. , 
+b. CLIN 0002 (Data) shall be delivered in accordance with the schedules 
+specified on the DD Form 1423, Contract Data Requirements List (EXHIBIT A, 
+dated 2 June 1992), F.O.B. Destination. 
+c. CLIN 0003 shall be completed by request during the term of the contract. 
+F.5 52.999~4012 
+PLACE OF PERFORMANCE 
+The work under this contract shall be performed at 
+Contractor’s facilities 
+(End of Section) 
+MDA908-93-C-0004 Page F-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+SECTION G 
+CONTRACT ADMINISTRATION DATA 
+
+
+G.1 52.999-4016 
+
+
+VOUCHERS 
+
+
+a. Public Vouchers, Standard Form 1034 shall be submitted in an 
+original and seven copies for review and provisional approval to the 
+cognizant audit agency indicated below: 
+
+
+DEFENSE CONTRACT AUDIT AGENCY - SAIC SUBOFFICE 
+10260 CAMPUS POINT DRIVE M/S Fl 
+
+
+SAN DIEGO, CA 92121 
+
+
+b. One (1) copy of any voucher, submitted to DCAA in relation to 
+this contract, shall be simultaneously forwarded to the Contracting 
+Officer’s Representative identified in Section G. 
+
+
+c. The contractor may seek advice and guidance from the DCAA 
+Auditor on the format and manner in which Public Vouchers and financial 
+representations shall be prepared. 
+
+
+52.999~4015 
+PAYMENT ADDRESS 
+
+
+Payment made to the contractor under this contract shall be mailed 
+
+
+¥ 
+
+
+to the following address: 
+
+
+SCIENCE APPLICATIONS INTERNATIONAL CORP 
+P.O. BOX 361347 
+COLUMBUS, OHIO 43236-1347 
+
+
+52.999-4019 
+METHOD OF PAYMENT 
+
+
+As consideration for the proper performance of the work and 
+services required under this contract, the contractor shall be paid as 
+follows: 
+
+
+a. Costs, as provided for under the contract clause entitled 
+“ALLOWABLE COST, AND PAYMENT," not to exceed the amount of estimated cost 
+set forth as in Section B, subject to the Contract Clause entitled 
+"Limitations of COST". 
+
+
+MDA908-93~-C-0004 - Page G-1 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+ae ea area eae aeteereretenereennmamemnnaetinats 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+b. The fixed fee set forth in Section B, shall be paid upon 
+completion of the work and services required under this contract and upon 
+final acceptance by the Contracting Officer. However, the contractor may 
+bill on each monthly voucher the amount of fee bearing the same percentage 
+to the total fixed fee as the amount of cost billed bears to the total 
+estimated cost, but subject to the withholding provision of paragraph (b) 
+of the contract clause entitled "FIXED FEE". 
+
+
+G.4 52.999-4024 
+CONTRACTOR CONTRACT ADMINISTRATOR(S) 
+
+
+Designate below the person(s) whom the government may contact for 
+prompt action on matters pertaining to administration of the contract. 
+
+
+a : 
+TITLE: SENIOR CONTRACT REPRESENTATIVE SG1J 
+TELEPHONE NUMBER: (703) 734-4074 
+
+
+G.5 52.999-4026 
+ASSIGNMENT OF CONTRACT ADMINISTRATION 
+
+
+The normal contract administration functions listed in FAR 
+42.302(a), will be administered by the contract administration office 
+(CAO) performing contract administration services within the Contractor’s 
+geographic plant location. 
+
+
+G.6 52.999-4030 
+PURCHASING OFFICE REPRESENTATIVES 
+
+
+a. Contracting Officer SG1J 
+Office Symbol DPP-2B DPP-2B 243-8388 SG1A 
+Telephone (1) Commercial 
+
+(2) DSN 
+
+
+b. Contract Special ict [is SG1J 
+Office Symbol DPP-2 
+Telephone (1) Commercial Sa SG1A 
+
+
+(2) DSN 
+c. Contracting Officer’s Representative SG1J 
+Office Symbol DT-Ss 
+Telephone (1) Commercia! [as 
+(2) DSN SG1A 
+
+
+(End of Section) 
+
+
+MDA908=-93-C-0004 Page G-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+a a 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+: SECTION H 
+SPECIAL CONTRACT REQUIREMENTS 
+
+
+K.1 52.000-4000 NUMBERING OF LOCAL TEXT 
+
+
+The numbers in the 52.999-4xxx series identify local text and 
+52.500-4xXxXX identifies those FAR and DFARS clauses promulgated prior 
+to publication or system update. These numbers are assigned for 
+internal identification for automatic document generation. 
+
+
+H.2 52.999-4031 SECURITY REQUIREMENTS 
+
+
+a. The Contractor shall maintain and administer a security program 
+in accordance with Industrial Security Manual Dod 5220.22M and DIA Manual 
+50-5. Copies of these documents are available for review in the office of 
+the Contracting Officer. , 
+
+
+b. Loss or suspension of required security clearance as set forth 
+on the DD Form 254, "Contract Security Classification Specifications," 
+would result jin contractor’s inability to perform in accordance with the 
+terms and conditions of this contract. As a result of this failure to 
+perform, the contractor is subject to default under the appropriate 
+termination clause herein. 
+
+
+c. The Government reserves the right to direct any contractor 
+employee to be removed from performance, direct or indirect, whenever 
+there is probable cause to believe, on the basis of all facts available, 
+that such action is warranted in the interest of national security, 
+whether or not the cause is deemed of sufficient severity to warrant 
+action to terminate the Contractor’s or individual’s security clearance. 
+The Government also reserves the right to direct any contractor employee 
+to be removed from performance, direct or indirect, for the period of timé 
+necessary to conduct any investigation of alleged misconduct which may in 
+the opinion of the Contracting Officer jeopardize the security of the 
+project. 
+
+
+d. Military security requirements in the performance of this 
+contract shalt be maintained in accordance with the DD Form 254 Listed 
+in Section J. The highest classification involved in the performance of 
+this contract is TS/SI/SAO. This contract document is classified. Secret. 
+
+
+e. The contractor will not use any electrical information 
+processing equipment in-his possession for the purpose of processing 
+or transmitting classified information under this contract without the 
+written permission of the Contracting Officer. 
+
+
+H-1 
+MDA908-93-C-0004 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+ec 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+H.3 52.999-4042 CHANGE IN KEY PERSONNEL 
+
+
+The contractor shall notify the Contracting Officer prior to 
+making any change fn the individuals identified in the proposal as key 
+personnel assigned to this contract. The contractor must demonstrate that 
+the qualifications of the prospective personnel are equat to, or better 
+than, the qualifications of the personnel being replaced. 
+
+
+H.4 52.999-4093 
+DISCLOSURE OF INFORMATION 
+COFARS 204.404-70) 
+
+
+a. Pursuant to the contract clause entitled "Disclosure of 
+Information, the contractor shall not release to anyone outside the 
+Contractor's organization any unclassified information, regardless of 
+medium (e.g., film, tape, document), pertaining to any part of this 
+contract or any program related to this contract, unless-- 
+
+
+(1) The Contracting Officer has given prior written approval: or 
+
+
+(2) The information is otherwise in the public domain before the 
+date of release. 
+
+b. Requests for approval shall identify the specific information to 
+be released, the medium to be used, and the purpose for release. The 
+Contractor shall submit its request to the Contracting Officer at least 
+45 days before the proposed date for release. 
+
+
+c. The Contractor agrees to include a similar requirement in each 
+subcontract under this contract. Subcontractors shalt submit requests for 
+authorization to release through the prime contractor to the Contracting 
+Officer. 
+
+
+H.5 GOVERNMENT FURNISHED DATA 
+
+
+The Contractor shall request any data required for 
+the conduct of this contract, in writing, from the 
+Contracting Officer's Representative (COR). The COR 
+will maintain records of all such Government furnished 
+data to insure accountability and return to the Government 
+upon termination of the contract.’ 
+
+
+The Contractor is autorized to utilize equipment/software 
+purchased under contract number MDA908~-91-C-0037. 
+
+
+The Contractor is authorized to continue to utilize 
+classified documents from contract number MDA908-91-C-0037. 
+
+
+See Attachment 2, dated 21 Nov 92, for list of Equipment 
+and Software of Contract MDA908-92-C-0037. 
+
+
+MDA908-93-C-0004 H-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+LLL ne eas ea eae rere eeannneenammemnaeneatinal 
+
+
+e 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+H.6. USE OF OMAN SUBJECTS: 
+
+
+a. DEFINITIONS: 
+
+
+1. Human Subject: An individual about whom an investigator conducting 
+research obtains data through interaction with the individual, including 
+both physical procedures and manipulations of the subject or the subject's 
+environment. The term does not include military or civilian personnel who 
+are qualified to test by assignment to duties that call specifically for 
+such qualifications such as test pilots and test engineers. 
+
+
+2. Non-U.S. Citizens: Foreign nationals, excluding, personnel om 
+active duty. 
+
+
+3. Research: The term does not include individual or group training 
+of military personnel such as combat readiness, effectiveness, proficiency, 
+or fitness exercises. 
+
+
+b. GENERAL GUIDANCE: 
+
+
+1. The contractor shall conduct research using human subjects at all 
+times so as to be in full compliance with all applicable laws, federal 
+regulations and DoD instructions. Among them are: 
+
+
+a. 45 CFR 46 Health and Human Services (HHS) Regulation, 
+“Protection of Human Subjects"; i 
+
+b. 10 U.S.C. Section 980, “Limitations on Use of Humans as 
+Experimental Subjects"; 
+
+
+c. DoD Directive 3216.2 (Janmary 7, 1983) “Protection of Human 
+Subjects in DoD-Supported Research"; ; 
+
+
+2. Safeguarding the rights and welfare of subjects at risk in 
+activities supported by this contract is the responsibility of the 
+Contractor. Compliance with this contract will in no way render 
+inapplicable pertinent federal, state, or local laws or regulations. In 
+order to provide for the adequate discharge of this institutional 
+responsibility, no activity involving human subjects under this contract 
+shall be undertaken unless a Contractor Human Use Review Board (CRB) has 
+reviewed and approved such activity. ° 
+
+3. The contractor mst provide the Contracting Officer with a written 
+assurance that it is in compliance with all provisions of 45 CFR 46 HHS 
+Regulation, "Protection of Human Subjects", as amended. 
+
+
+4 The Contractor will assure the Contracting Officer that the 
+identities of all subjects will be protected. 
+
+
+5. Informeg consent must be obtained in writing from each human 
+subject before research is undertaken. 
+
+
+MDA908-93-C-0004 H-3 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+ss. eee a eRe tenet rateneneeeneteiaetnartanataas 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+6. ‘The Contractor shall provide all necessary medical care to research 
+subjects for injury or disease which is the proximte result of 
+participation in the research. 
+
+
+7. Studies conducted outside the United States, its territories or 
+possessions, shall be conducted in compliance with all laws, customs, and 
+practices of the country in which the study is to be conducted. 
+
+
+Cc. REPORTING ON: 
+
+
+1. Copies of all docments presented or required for initial and 
+continuing review of the CRB, e.g., Board minutes pertaining only to the 
+contract, record of subjects consent, transmittal on actions, ions 
+and conditions resulting from Board deliberations addressed to the activity 
+director, are to be retained by the Contractor for at least three (3) years 
+after completion of the research. All documents,.shall be accessible for 
+
+
+2. Except as otherwise provided by law, information in the records or 
+possession of the Contractor which refers to or can be identified with a 
+particular subject may not be disclosed except: 
+
+
+a. With the consent of the subject of his legally authorized 
+representative, or 
+
+
+b. As may be necessary for the DIA to carry out its legal 
+responsibilities. 
+
+
+3. Upon expiration or termination of this contract, a list of all 
+unused test material shall be provided to the DIA Contracting Officer. 
+
+
+4. The Contractor shall immediately notify the DIA Contracting 
+
+
+Officer, by telephone, of inquires from sources outside the Department of 
+Defense concerning the use of human subjects under this contract. 
+
+
+- MDA908-93-C-0004 . H-4 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+$SG1D 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+: SECTION I 
+CONTRACT CLAUSES 
+
+
+I.1 252.201-7000 
+DAC 91-3 57FR179 09/15/92 
+CONTRACTING OFFICER’S REPRESENTATIVE (DEC 1991) 
+
+
+(a) Definition. "Contracting officer‘s representative" means an 
+individual designated in accordance with subsection 201.602-2 of the 
+Defense Federal Acquisition Regulation Supplement and authorized in writing 
+by the Contracting Officer to perform specific technical or administrative 
+functions. 
+
+(b) If the Contracting Officer designates a contracting officer’s 
+representative (COR), the Contractor will receive a copy of the written 
+designation. It will specify the extent of the COR’s authority to act on 
+behalf of the Contracting Officer. The COR is not authorized to make any 
+commitments or changes that will affect price, quality, quantity, delivery, 
+or any other term or condition of the contract. 
+
+(End of clause) 
+
+
+I.2 52.203-6 
+AL 92-9 
+RESTRICTIONS ON SUBCONTRACTOR SALES TO THE GOVERNMENT (JUL 1985) 
+
+
+(a) Except as provided in (b) below, the Contractor shall not enter into 
+any agreement with an actual or prospective subcontractor, nor otherwise 
+act in any manner, which has or may have the effect of restricting sales by 
+such subcontractors directly to the Government of any item or process 
+(including computer software) made or furnished by the subcontractor under 
+this contract or under any follow-on production contract. 
+
+(b) The prohibition in (a) above does not preclude the Contractor from 
+asserting rights that are otherwise authorized by law or regulation. 
+
+(c) The Contractor agrees to incorporate the substance of this clause,’ 
+including this paragraph (c), in all subcontracts under this contract. 
+
+(End of clause) 
+
+
+I.3 52.215-39 
+REVERSION OR ADJUSTMENT OF PLANS FOR POSTRETIREMENT BENEFITS OTHER THAN 
+PENSIONS (PRB) (JUL 1991) 
+
+
+The Contractor shall promptly notify the Contracting Officer in writing 
+when it determines that it will terminate or reduce a PRB plan. If PRB 
+fund assets revert, or inure, to the Contractor or are constructively 
+received by it under a plan termination or otherwise, the Contractor shall 
+make a refund or give a credit to the Government for its equitable share 
+as required by FAR 31.205-6(0)(5). The Contractor shall include the 
+substance of this clause in all subcontracts under this contract which 
+meet the applicability requirements of FAR 15.804-8(f). The resulting 
+adjustment to prior years’ PRB costs will be determined and se in 
+accordance with FAR 31.205-6(0). 
+
+(End of clause) 
+
+
+MDA908-93-C-0004 : Page I-i 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.4 52.219-9 
+SMALL BUSINESS AND SMALL DISADVANTAGED BUSINESS SUBCONTRACTING PLAN 
+(JAN 1991) 
+
+
+{a) This clause does not apply to small business concerns. 
+
+(b) “Commercial product," as used in this clause, means a product in 
+regular production that is sold in substantial quantities to the general 
+public and/or industry at established catalog or market prices. It also 
+means a product which, in the opinion of the Contracting Officer, differs 
+only insignificantly from the Contractor’s commercial product. 
+
+"Subcontract," as used in this clause, means any agreement (other than 
+one involving an employer-employee relationship) entered into by a 
+Federal Government prime Contractor or subcontractor calling for supplies 
+or services required for performance of the contract or subcontract. 
+
+(c) The offeror, upon request by the Contracting Officer, shall submit 
+and negotiate a subcontracting plan, where applicable, which separately 
+addresses subcontracting with small business concerns‘ and with small 
+disadvantaged business concerns. If the offeror is submitting an 
+individual contract plan, the plan must separately address subcontracting 
+with small business concerns and with small disadvantaged business concerns 
+with a separate part for the basic contract and separate parts for each 
+option (if any). The plan shall be included in and made a part of the 
+resultant contract. The subcontracting plan shall be negotiated within the 
+time specified by the Contracting Officer. Failure to submit and negotiate 
+the subcontracting plan shall make the offeror ineligible for award of a 
+contract. 
+
+(d) The offeror’s subcontracting plan shall include the following: 
+
+(1) Goals, expressed in terms of percentages of total planned 
+subcontracting dollars, for the use of small business concerns and small 
+disadvantaged business concerns as subcontractors. The offeror shall 
+include all subcontracts that contribute to contract performance, and 
+may include a proportionate share of products and services that are 
+normally allocated as indirect costs. 
+
+(2) A statement of-- y 
+
+(i) Total dollars planned to be subcontracted; 
+
+(ii) Total dollars planned to be subcontracted to small business 
+concerns; and 
+
+(iii) Total dollars planned to be subcontracted to small 
+disadvantaged business concerns. 
+
+(3) A description of the principal types of supplies and services to 
+be subcontracted, and an identification of the types pianned for 
+subcontracting to (i) small business concerns and (ii) small 
+disadvantaged business concerns. 
+
+(4) A description of the method used to develop the subcontracting 
+goals in (1) above. 
+
+(5) A description of the method used to identify potential sources for 
+solicitation purposes (e.g., existing company source lists, the 
+Procurement Automated Source System (PASS) of the Small Business 
+Administration, the National Minority Purchasing Council Vendor 
+Information Service, the Research and Information Division of the 
+Minority Business Development Agency in the Department of Commerce, or 
+small and small disadvantaged business concerns trade associations). 
+
+(6) A statement as to whether or not the offeror included indirect 
+costs in establishing subcontracting goals, and a description of the 
+
+
+MDA908-93-C-0004 Page I-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+method used to determine the proportionate share of indirect costs to be 
+incurred with (i) small business concerns and (ii) small disadvantaged 
+business concerns. 
+
+(7) The name of the individual employed by the offeror who will 
+administer the offeror’s subcontracting program, and a description of 
+the duties of the individual. 
+
+(8) A description of the efforts the offeror will make to assure that 
+small business concerns and small disadvantaged business concerns have 
+an equitable opportunity to compete for subcontracts. 
+
+(9) Assurances that the offeror will include the clause in this 
+contract entitled "Utilization of Small Business Concerns and Small 
+Disadvantaged Business Concerns" in all subcontracts that offer further 
+subcontracting opportunities, and that the offeror will require all 
+subcontractors (except small business concerns) who receive subcontracts 
+in excess of $500,000 ($1,000,000 for construction of any public 
+facility), to adopt a plan similar to the plan agreed to by the offeror. 
+
+(10) Assurances that the offeror will (i) cooperate in any studies or 
+surveys as may be required, (ii) submit periodic reports in order to 
+allow the Government to determine the extent of compliance by the 
+offeror with the subcontracting plan, (iii) submit Standard Form (SF) 
+294, Subcontracting Report for Individual Contracts, and/or SF 295, 
+Summary Subcontract Report, in accordance with the instructions on the 
+forms, and (iv) ensure that its subcontractors agree to submit Standard 
+Forms 294 and 295. 
+
+(11) A recitation of the types of records the offeror will maintain to 
+demonstrate procedures that have been adopted to comply with the 
+requirements and goals in the plan, including establishing source lists; 
+and a description of its efforts to locate small and small disadvantaged 
+business concerns and award subcontracts to them. The records shall 
+include at least the following (on a plant-wide or company-wide basis, 
+unless otherwise indicated): 
+
+(i) Source lists, guides, and other data that identify small and 
+small disadvantaged business concerns. 
+
+(ii) Organizations contacted in an attempt to locate sources that - 
+are small or small disadvantaged business concerns. 
+
+(iii) Records on each subcontract solicitation resulting in an award 
+of more than $100,000, indicating (A) whether small business concerns 
+were solicited and if not, why not, (B) whether small disadvantaged 
+business concerns were solicited and if not, why not, and (C) if 
+applicable, the reason award was not made to a small business concern. 
+
+(iv) Records of any outreach efforts to contact (A) trade , 
+associations, (B) business development organizations, and (C) 
+conferences and trade fairs to locate small and small disadvantaged 
+business sources. 
+
+(v) Records of internal guidance and encouragement provided to 
+buyers through (A) workshops, seminars, training, etc., and (B) 
+monitoring performance to evaluate compliance with the programs’s 
+requirements. 
+
+(vi) On a contract-by-contract basis, records to support award data 
+submitted by the offeror to the Government, including the name, 
+address, and business size of each subcontractor. Contractors having 
+company or division-wide annual plans need not comply with this 
+requirement. 
+
+(e) In order to effectively implement this plan to the extent 
+
+
+MDA908-93-C-0004 Page I-3 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 | 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+consistent with efficient contract performance, the Contractor shall 
+perform the following functions: 
+
+{1) Assist small business and small disadvantaged business concerns by 
+arranging solicitations, time for the preparation of bids, quantities, 
+specifications, and delivery schedules so as to facilitate the 
+participation by such concerns. Where the Contractor’s lists of 
+potential small business and small disadvantaged subcontractors are 
+excessively long, reasonable effort shall be made to give all such small 
+business concerns an opportunity to compete over a period of time. 
+
+(2) Provide adequate and timely consideration of the potentialities of 
+small business and small disadvantaged business concerns in all 
+“make-or-buy" decisions. 
+
+(3) Counsel and discuss subcontracting opportunities with 
+representatives of small and small disadvantaged business firms. 
+
+(4) Provide notice to subcontractors concerning penalties and remedies 
+for misrepresentations of business status as small business or small 
+disadvantaged business for the purpose of obtaining*’a subcontract that 
+is to be included as part or all of a goal contained in the Contractor’s 
+subcontracting plan. 
+
+(f) A master subcontracting plan on a plant or division-wide basis which 
+contains all the elements required by (d) above, except goals, may be 
+incorporated by reference as a part of the subcontracting plan required of 
+the offeror by this clause; provided, (1) the master plan has been 
+approved, (2) the offeror provides copies of the approved master plan and 
+evidence of its approval to the Contracting Officer, and (3) goals and any 
+deviations from the master plan deemed necessary by the Contracting 
+Officer to satisfy the requirements of this contract are set forth in the 
+individual subcontracting plan. 
+
+(g)(1) If a commercial product is offered, the subcontracting plan 
+required by this clause may relate to the offeror’s production generally, 
+for both commercial and noncommercial products, rather than solely to the 
+Government contract. In these cases, the offeror shall, with the 
+concurrence of the Contracting Officer, submit one company-wide or 
+division-wide annual plan. ’ 
+
+(2) The annual plan shall be reviewed for approval by the agency 
+awarding the offeror its first prime contract requiring a subcontracting 
+plan during the fiscal year, or by an agency satisfactory to the 
+Contracting Officer. 
+
+(3) The approved plan shall remain in effect during the offeror’s 
+fiscal year for all of the offeror’s commercial products. 
+
+(h) Prior compliance of the offeror with other such subcontracting plans 
+under previous contracts will be considered by the Contracting Officer in 
+determining the responsibility of the offeror for award of the contract. 
+
+(i) The failure of the Contractor or subcontractor to comply in good 
+faith with (1) the clause of this contract entitled "Utilization of Small 
+Business Concerns and Small Disadvantaged Business Concerns," or (2) an 
+approved plan required by this clause, shall be a material breach of the 
+contract. 
+
+(End of clause) 
+
+
+MDA908-93-C-0004 Page I-4 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.5 252.219-7003 
+SMALL BUSINESS AND SMALL DISADVANTAGED BUSINESS SUBCONTRACTING PLAN (DOD 
+CONTRACTS) (DEC 1991) 
+
+
+This clause supplements the Federal Acquisition Regulation 52.219-9, 
+Small Business and Small.Disadvantaged Business Subcontracting Plan, clause 
+of this contract. 
+
+(a) Definitions. “Historically black colleges and universities," as used 
+in this clause, means institutions determined by the Secretary of Education 
+to meet the requirements of 34 CFR section 608.2. 
+
+"Minority institutions," as used in this clause, means institutions 
+meeting the requirements of paragraphs (3), (4), and (5) of section 312(b) 
+of the Higher Education Act of 1965 (20 U.S.C. 1058). The term also means 
+any nonprofit research institution that was an integral part of a 
+historically black college or university before November 14, 1986. 
+
+(b) Except for company or division-wide commercial products 
+subcontracting plans, the term "small disadvantaged business," when used in 
+the FAR 52.219-9 clause, includes historically black colleges and 
+universities and minority institutions, in addition to small disadvantaged 
+business concerns. 
+
+(c) Work under the contract or its subcontracts shall be credited toward 
+meeting the small disadvantaged business concern goal required by paragraph 
+(d) of the FAR 52.219-9 clause when: 
+
+(1) It is performed on Indian lands or in joint venture with an Indian 
+tribe or a tribally-owned corporation, and 
+(2) It meets the requirements of section 832 of the FY90 DoD 
+
+Authorization Act, Pub. L. 101-189. 
+
+(ad) The master plan approval referred to in paragraph (f) of the FAR 
+52.219~9 clause is approval by the Contractor's cognizant contract 
+administration activity. 
+
+(End of clause) 
+
+
+I.6 52.222-2 
+PAYMENT FOR OVERTIME PREMIUMS (JUL 1990) 
+
+
+(a) The use of overtime is authorized under this contract if the 
+overtime premium does not exceed or the overtime premium is paid 
+for work-- 
+
+(1) Necessary to cope with emergencies such as those resulting from 
+accidents, natural disasters, breakdowns of production equipment, or 
+occasional production bottlenecks of a sporadic nature; 
+
+(2) By indirect-labor employees such as those performing duties in 
+connection with administration, protection, transportation, maintenance, 
+standby plant protection, operation of utilities, or accounting; 
+
+(3) To perform tests, industrial processes, laboratory procedures, 
+loading or unloading of transportation conveyances, and operations in 
+flight or afloat that are continuous in nature and cannot reasoriably be 
+interrupted or completed otherwise; or 
+
+(4) That will result in lower overall costs to the Government. 
+
+(b) Any request for estimated overtime premiums that exceeds the amount 
+specified above shall include all estimated overtime for contract 
+completion and shall-- 
+
+(1) Identify the work unit; e.g., department or section in which the 
+
+
+MDA908-93-C-0004 : Page I-5 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+requested overtime will be used, together with present workload, 
+staffing, and other data of the affected unit sufficient to permit the 
+Contracting Officer to evaluate the necessity for the overtime; 
+
+(2) Demonstrate the effect that denial of the request will have on the 
+contract delivery or performance schedule; 
+
+(3) Identify the extent to which approval of overtime would affect the 
+performance or payments in connection with other Government contracts, 
+together with identification of each affected contract; and 
+
+(4) Provide reasons why the required work cannot be performed by using 
+multishift operations or by employing additional personnel. 
+
+(End of clause) 
+
+
+I.7 52.245-5 
+GOVERNMENT PROPERTY (COST-~REIMBURSEMENT, TIME-AND-MATERIAL, OR 
+LABOR-HOUR CONTRACTS) (JAN 1986) 
+(a) Government-furnished property. 
+
+(1) The term "Contractor’s managerial personnel," as used in paragraph 
+(g) of this clause, means any of the Contractor’s directors, officers, 
+managers, superintendents, or equivalent representatives who have 
+supervision or direction of-- 
+
+{i) All or substantially all of the Contractor’s business; 
+
+(ii) All or substantially all of the Contractor’s operation at any 
+one plant, or separate location at which the contract is being 
+performed; or 
+
+(iii) A separate and complete major industrial operation connected 
+with performing this contract. 
+
+(2) The Government shall deliver to the Contractor, for use in 
+connection with and under the terms of this contract, the 
+Government-furnished property described in the Schedule or 
+specifications, together with such related data and information as the 
+Contractor may request and as may be reasonably required for the intended 
+use of the property (hereinafter referred to as "Government-furnished ,- 
+property"). 
+
+(3) The delivery or performance dates for this contract are based 
+upon the expectation that Government-furnished property suitable for use 
+will be delivered to the Contractor at the times stated in the Schedule 
+or, if not so stated, in sufficient time to enable the Contractor to meet 
+the contract’s delivery or performance dates. 
+
+(4) If Government-furnished property is received by the Contractor in 
+a condition not suitable for the intended use, the Contractor shall, upon 
+receipt, notify the Contracting Officer, detailing the facts, and, as 
+directed by the Contracting Officer and at Government expense, either 
+effect repairs or modification or return or otherwise dispose of the 
+property. After completing the directed action and upon written request 
+of the Contractor, the Contracting Officer shall make an equitable 
+adjustment as provided in paragraph (h) of this clause. 
+
+(5) If Government-furnished property is not delivered to the Contractor 
+by the required time or times, the Contracting Officer shall, upon the 
+Contractor’s timely written request, make a determination of the delay, 
+if any, caused the Contractor and shall make an equitable adjustment in 
+accordance with paragraph (h) of this clause. 
+
+(b) Changes in Government-furnished property. (1) The Contracting 
+
+
+MDA908-93-C-0004 Page I-6 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Officer may,, by written notice, (i) decrease the Government-furnished 
+property provided or to be provided under this contract or (ii) 
+substitute other Government-furnished property for the property to be 
+provided by the Government or to be acquired by the Contractor for the 
+Government under this contract. The Contractor shall promptly take such 
+action as the Contracting Officer may direct regarding the removal, 
+shipment, or disposal of the property covered by this notice. 
+
+(2) Upon the Contractor’s written request, the Contracting Officer 
+shall make an equitable adjustment to the contract in accordance with 
+paragraph (h) of this clause, if the Government has agreed in the 
+Schedule to make such property available for performing this contract and 
+there is any-- 
+
+(i) Decrease or substitution in this property pursuant to 
+subparagraph (b)(1) above; or 
+(ii) Withdrawal of authority to use property, if provided under any 
+
+other contract or lease. , 
+
+(c) Title. (1) The Government shall retain title td all Government- 
+furnished property. 
+
+(2) Title to all property purchased by the Contractor for which the 
+Contractor is entitled to be reimbursed as a direct item of cost under 
+this contract shall pass to and vest in the Government upon the vendor’s 
+delivery of such property. 
+
+(3) Title to all other property, the cost of which is reimbursable to 
+the Contractor, shall pass to and vest in the Government upon-- 
+
+(i) Issuance of the property for use in contract performance; 
+
+{ii) Commencement of processing of the property or use in contract 
+performance; or 
+
+(iii) Reimbursement of the cost of the property by the Government, 
+whichever occurs first. 
+
+(4) All Government-furnished property and all property acquired by 
+the Contractor, title to which vests in the Government under this 
+paragraph (collectively referred to as "Government property"), are 
+subject to the provisions of this clause. Title to Government property 
+shall not be affected by its incorporation into or attachment to any / 
+property not owned by the Government, nor shall Government property 
+become a fixture or lose its identity as personal property by being 
+attached to any real property. 
+
+(d) Use of Government property. The Government property shall be used 
+only for performing this contract, unless otherwise provided in this 
+contract or approved by the Contracting Officer. 
+
+(e€) Property administration. (1) The Contractor shall be responsible and 
+accountable for all Government property provided under the contract and 
+shall comply with Federal Acquisition Regulation (FAR) Subpart 45.5, as in 
+effect on the date of this contract. 
+
+(2) The Contractor shall establish and maintain a program for the use, 
+maintenance, repair, protection, and preservation of Government property 
+in accordance with sound business practice and the applicable provisions 
+of FAR Subpart 45.5. 
+
+(3) If damage occurs to Government property, the risk of which has been 
+assumed by the Government under this contract, the Government shall 
+replace the items or the Contractor shall make such repairs as the 
+Government directs. However, if the Contractor cannot effect such 
+repairs within the time required, the Contractor shalI® dispose of the 
+property as directed by the Contracting Officer. When any property for 
+
+
+MDA908-93-C-0004 Page I-7 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+which the Government is responsible is replaced or repaired, the 
+
+Contracting Officer shall make an equitable adjustment in accordance with 
+
+paragraph (h) of this clause. 
+
+(f) Access. The Government and all its designees shall have access at 
+all reasonable times to the premises in which any Government property is 
+located for the purpose of inspecting the Government property. 
+
+(g) Limited risk of loss. (1) The Contractor shall not be liable for 
+loss or destruction of, or damage to, the Government property provided 
+under this contract or for expenses incidental to such loss, destruction, 
+or damage, except as provided in subparagraphs (2) and (3) below. 
+
+(2) The Contractor shall be responsible for loss or destruction of, or 
+damage to, the Government property provided under this contract 
+(including expenses incidental to such loss, destruction, or damage)-- 
+
+(i) That results from a risk expressly required to be insured under 
+this contract, but only to the extent of the insurance required to be 
+purchased and maintained or to the extent of insurance actually 
+purchased and maintained, whichever is greater; 
+
+(ii) That results from a risk that is in fact covered by insurance or 
+for which the Contractor is otherwise reimbursed, but only to the 
+extent of such insurance or reimbursement; 
+
+(iii) For which the Contractor is otherwise responsible tales the 
+express terms of this contract; 
+
+(iv) That results from willful misconduct or lack of good faith on 
+the part of the Contractor’s managerial personnel; or 
+
+(v) That results from a failure on the part of the Contractor, due to 
+willful misconduct or lack of good faith on the part of the 
+Contractor’s managerial personnel, to establish and administer a 
+program or system for the control, use, protection, preservation, 
+maintenance, and repair of Government property as required by paragraph 
+(e) of this clause. 
+
+(3)(i) If the Contractor fails to act as provided by subdivision 
+(9)(2)(v) above, after being notified (by certified mail addressed to one 
+of the Contractor’s managerial personnel) of the Government’s 
+disapproval, withdrawal of approval, or nonacceptance of the system or’ 
+program, it shall be conclusively presumed that such failure was due to 
+willful misconduct .or lack of good faith on the part of the Contractor's 
+managerial personnel. 
+
+(ii) In such event, any loss or destruction of, or damage to, the 
+Government property shall be presumed to have resulted from such 
+failure unless the Contractor can establish by clear and convincing 
+evidence that such loss, destruction, or damage-- 
+
+(A) Did not result from the Contractor’s failure to maintain an 
+approved program or system; or 
+
+(B) Occurred while an approved program or system was maintained by 
+the Contractor. 
+
+(4) If the Contractor transfers Government property to the possession 
+and control of a subcontractor, the transfer shall not affect the 
+liability of the Contractor for loss or destruction of, or damage to, the 
+property as set forth above. However, the Contractor shall require the 
+subcontractor to assume the risk of, and be responsible for, any loss or 
+destruction of, or damage to, the property while in the subcontractor’s 
+possession or control, except to the extent that the subcontract, with 
+the advance approval of the Contracting Officer, relieves the 
+subcontractor from such liability. In the absence of such approval, the 
+
+
+MDA908-93-C-0004 Page I-8 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+subcontract shall contain appropriate provisions requiring the return of 
+all Government property in as good condition as when received, except for 
+reasonable wear and tear or for its use in accordance with the provisions 
+of the prime contract. 
+
+(5) Upon loss or destruction of, or damage to, Government property 
+provided under this contract, the Contractor shall so notify the 
+Contracting Officer and shall communicate with the loss and salvage 
+organization, if any, designated by the Contracting Officer. With the 
+assistance of any such organization, the Contractor shall take all 
+reasonable action to protect the Government property from further damage, 
+separate the damaged and undamaged Government property, put all the 
+affected Government property in the best possible order, and furnish to 
+the Contracting Officer a statement of-- 
+
+(i) The lost, destroyed, or damaged Government property; 
+{ii) The time and origin of the loss, destruction, or damage; 
+(iii) All known interests in commingled property of which the 
+
+Government property is a part; and . 
+
+(iv) The insurance, if any, covering any part of or interest in such 
+commingled property. 
+
+(6) The Contractor shall repair, renovate, and take such other action 
+with respect to damaged Government property as the Contracting Officer 
+directs. If the Government property is destroyed or damaged beyond 
+practical repair, or is damaged and so commingled or combined with 
+property of others (including the Contractor’s) that separation is 
+impractical, the Contractor may, with the approval of and subject to 
+any conditions imposed by the Contracting Officer, sell such property for 
+the account of the Government. Such sales may be made in order to 
+minimize the loss to the Government, to permit the resumption of 
+business, or to accomplish a similar purpose. The Contractor shall be 
+entitled to an equitable adjustment in the contract price for the 
+expenditures made in performing the obligations under this subparagraph 
+(9)(6) in accordance with paragraph (h) of this clause. However, the 
+Government may directly reimburse the loss and salvage organization for 
+any of their charges. The Contracting Officer shall give due regard to 
+the Contractor‘s liability under this paragraph (g) when making any such 
+equitable adjustment. 
+
+(7) The Contractor shall not be reimbursed for, and shall not include 
+as an item of overhead, the cost of insurance or of any reserve covering 
+risk of loss or destruction of, or damage to, Government property, except 
+to the extent that the Government may have expressly required the 
+Contractor to carry such insurance under another provision of this 
+contract. 
+
+(8) In the event the Contractor is reimbursed or otherwise compensated 
+for any loss or destruction of, or damage to, Government property, the 
+Contractor shall use the proceeds to repair, renovate, or replace the 
+lost, destroyed, or damaged Government property or shall otherwise credit 
+the proceeds to, or equitably reimburse, the Government, as directed by 
+the Contracting Officer. 
+
+(9) The Contractor shall do nothing to prejudice the Government's 
+rights to recover against third parties for any loss or destruction of, 
+or damage to, Government property. Upon the request of the Contracting 
+Officer, the Contractor shall, at the Government’s expense, furnish to 
+the Government all reasonable assistance and cooperation (including the 
+prosecution of suit and the execution of instruments of assignment in 
+
+
+q 
+
+
+MDA908-93-C-0004 Page I-9 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+favor of the Government) in obtaining recovery. In addition, where a 
+subcontractor has not been relieved from liability for any loss or 
+destruction of, or damage to, Government property, the Contractor shall 
+enforce for the benefit of the Government the liability of the 
+subcontractor for such loss, destruction, or damage. 
+
+(h) Equitable adjustment. When this clause specifies an equitable 
+adjustment, it shall be made to any affected contract provision in 
+accordance with the procedures of the Changes clause. When appropriate, 
+the Contracting Officer may initiate an equitable adjustment in favor of 
+the Government. The right to an equitable adjustment shall be the 
+Contractor’s exclusive remedy. The Government shall not be liable to 
+suit for breach of contract for-- 
+
+(1) Any delay in delivery of Government-furnished property; 
+
+(2) Delivery of Government-furnished property in a condition not 
+suitable for its intended use; 
+
+(3) A decrease in or substitution of Government-furnished property; or 
+
+(4) Failure to repair or replace Government prope?tty for which the 
+Government is responsible. 
+
+(i) Final accounting and disposition of Government property. Upon 
+completing this contract, or at such earlier dates as may be fixed by the 
+Contracting Officer, the Contractor shall submit, in a form acceptable to 
+the Contracting Officer, inventory schedules covering all items of 
+Government property not consumed in performing this contract or delivered 
+to the Government. The Contractor shall prepare for shipment, deliver 
+f.o.b. origin, or dispose of the Government property as may be directed 
+or authorized by the Contracting Officer. The net proceeds of any such 
+disposal shall be credited to the cost of the work covered by this contract 
+or paid to the Government as directed by the Contracting Officer. The 
+foregoing provisions shall apply to scrap from Government property; 
+provided, however, that the Contracting Officer may authorize or direct the 
+Contractor to omit from such inventory schedules any scrap consisting of 
+faulty castings or forgings or of cutting and processing waste, such as 
+chips, cuttings, borings, turnings, short ends, circles, trimmings, 
+clippings, and remnants, and to dispose of such scrap in accordance with’ 
+the Contractor's normal practice and account for it as a part of general 
+overhead or other reimbursable costs in accordance with the Contractor’s 
+established accounting procedures. 
+
+(j) Abandonment and restoration of Contractor premises. Unless 
+otherwise provided herein, the Government-- 
+
+(1) May abandon any Government property in place, at which time all 
+obligations of the Government regarding such abandoned property shall 
+cease; and 
+
+(2) Has no obligation to restore or rehabilitate the Contractor’s 
+premises under any circumstances (e.g., abandonment, disposition upon 
+completion of need, or contract completion). However, if the 
+Government~furnished property (listed in the Schedule or specifications) 
+is withdrawn or is unsuitable for the intended use, or if other 
+Government property is substituted, then the equitable adjustment under 
+paragraph (h) of this clause may properly include restoration or 
+rehabilitation costs. 
+
+(k) Communications. All communications under this clause shall be in 
+writing. 
+
+(1) Overseas contracts. If this contract is to be performed outside 
+the United States of America, its territories, or possessions, the words 
+
+
+MDA908-93-C-0004 Page I-10 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+"Government" and "Government-furnished" (wherever they appear in this 
+clause) shall be construed as “United States Government" and “United 
+States Government-furnished,"” respectively. 
+
+(End of clause) 
+
+
+I.8 52.252-2 | 
+CLAUSES INCORPORATED BY REFERENCE (JUN 1988) 
+This contract incorporates one or more clauses by reference, with the 
+same force and effect as if they were given in full text. Upon request, 
+the Contracting Officer will make their full text available. 
+
+
+I.9 252.201-7000 ; 
+CONTRACTING OFFICER‘’S REPRESENTATIVE (DEC 1991) 
+(Reference 201.602-70) 
+
+
+I.10 52.202-1 
+DEFINITIONS (SEPT 1991) 
+(Reference 2.2) 
+
+
+I.11 52.203-1 
+OFFICIALS NOT TO BENEFIT (APR 1984) 
+(Reference 3.102-2) 
+
+
+I.12 52.203-3 
+GRATUITIES (APR 1984) 
+(Reference 3.202) 
+
+
+I.13 52.203-5 
+COVENANT AGAINST CONTINGENT FEES (APR 1984) 
+(Reference 3.404) 
+
+
+I.14 52.203-7 
+ANTI~KICKBACK PROCEDURES (OCT 1988) 
+(Reference 3.502=-3) 
+
+
+I.15 52.203-10 
+PRICE OR FEE ADJUSTMENT FOR ILLEGAL OR IMPROPER ACTIVITY (SEP 1990) 
+
+
+(Reference 3.104-10) 
+
+
+MDA908-93-C-0004 Page I-11 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.16 52.203-12 . 
+LIMITATION ON PAYMENTS TO INFLUENCE CERTAIN FEDERAL TRANSACTIONS (JAN 
+1990) 
+(Reference 3.808) 
+
+
+I.17 252.203-7000 
+STATUTORY PROHIBITION ON COMPENSATION TO FORMER DEPARTMENT OF DEFENSE 
+EMPLOYEES (DEC 1991) 
+(Reference 203.170-4) 
+
+
+I.18 252.203-7001 
+SPECIAL PROHIBITION ON EMPLOYMENT (DEC 1991) 
+(Reference 203.570-5) 
+
+
+I.19 252.203-7003 
+PROHIBITION AGAINST RETALIATORY PERSONNEL ACTIONS (APR 1992) 
+(Reference 203.7108) 
+
+
+I.20 52.204-2 
+SECURITY REQUIREMENTS (APR 1984) 
+(Reference 4.404) 
+
+
+I.21 252.204-7000 
+DISCLOSURE OF INFORMATION (DEC 1991) 
+(Reference 204.404-70) 
+
+
+I.22 252.205-7000 
+PROVISION OF INFORMATION TO COOPERATIVE AGREEMENT HOLDERS (DEC 1991) 
+(Reference 205.470-2) 
+
+
+I.23 52.209-6. 
+PROTECTING THE GOVERNMENT'S INTEREST WHEN SUBCONTRACTING WITH CONTRACTORS 
+DEBARRED, SUSPENDED, OR PROPOSED FOR DEBARMENT (JUN 1991) 
+(Reference 9.409) 
+
+
+I.24 252.209-7000 
+ACQUISITION FROM SUBCONTRACTORS SUBJECT TO ON-SITE INSPECTION UNDER THE 
+INTERMEDIATE-RANGE NUCLEAR FORCES (INF) TREATY (DEC 1991) 
+(Reference 209.103-70) 
+
+
+MDA908-93-C-0004 © Page I-12 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.25 $2.215-1 2 
+EXAMINATION OF RECORDS BY COMPTROLLER GENERAL (APR 1984) 
+(Reference 15.106-1) 
+
+
+I.26 52.215-2 
+AUDIT--NEGOTIATION (DEC 1989) 
+{Reference 15.106-2) 
+
+
+1.27 52.21 
+eenied OFFERS (DEC 1989) 
+
+
+B15.407) 
+
+
+I.28 52.215-22 : x 
+PRICE REDUCTION FOR DEFECTIVE COST OR PRICING DATA (JAN 1991) 
+(Reference 15.804-8) 
+
+
+I.29 52.215-27 
+TERMINATION OF DEFINED BENEFIT PENSION PLANS (SEP 1989) 
+(Reference 15.804-8) 
+
+
+I.30 52.215-30 
+FACILITIES CAPITAL COST OF MONEY (SEP 1987) 
+(Reference 15.904) 
+
+
+I.31 52.215-33 
+ORDER OF PRECEDENCE (JAN 1986) 
+(Reference 15.406-3) 
+
+
+I.32 252.215-7000 
+PRICING ADJUSTMENTS (DEC 1991) 
+(Reference 215.804-8) 
+
+
+I.33 252.215-7002 . 
+COST ESTIMATING SYSTEM REQUIREMENTS (DEC 1991) 
+(Reference 215.811-70) 
+
+
+I.34 52.216-7 
+ALLOWABLE COST AND PAYMENT (JUL 1991) 
+(Reference 16.307) 
+
+
+MDA908~-393-C-0004 Page I-13 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.35 52.216-8 
+FIXED FEE (APR 1984) 
+{Reference 16.307) 
+
+
+I.36 52.219-8 
+UTILIZATION OF SMALL BUSINESS CONCERNS AND SMALL DISADVANTAGED BUSINESS 
+CONCERNS (FEB 1990) 
+(Reference 19.708) 
+
+
+I.37 52.219-13 
+UTILIZATION OF WOMEN-OWNED SMALL BUSINESSES (AUG 1986) 
+(Reference 19.902) 
+
+
+I.38 52.220-3 . 
+UTILIZATION OF LABOR SURPLUS AREA CONCERNS (APR 1984) 
+(Reference 20.302) 
+
+
+I.39 52.222-3 
+CONVICT LABOR (APR 1984) 
+(Reference 22.202) 
+
+
+1.40 52.222-26 
+EQUAL OPPORTUNITY (APR 1984) 
+{Reference 22.810) 
+
+
+I.41 52.222-28 
+EQUAL OPPORTUNITY PREAWARD CLEARANCE OF SUBCONTRACTS (APR 1984) 
+(Reference 22.810) ’ 
+
+
+1.42 52.222-35 
+AFFIRMATIVE ACTION FOR SPECIAL DISABLED AND VIETNAM ERA VETERANS 
+(APR 1984) 
+(Reference 22.1308) 
+
+
+1.43 52.222-36 
+AFFIRMATIVE ACTION FOR HANDICAPPED WORKERS (APR 1984) 
+(Reference 22.1408) 
+
+
+g ; 4 
+
+
+MDA908-93-C-0004 Page I-14 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.44 52.222-37 , 
+EMPLOYMENT REPORTS ON SPECIAL DISABLED VETERANS AND VETERANS OF THE 
+VIETNAM ERA (JAN 1988) 
+(Reference 22.1308) 
+
+
+I.45 52.223-2 
+CLEAN AIR AND WATER (APR 1984) 
+(Reference 23.105) 
+
+
+I.46 52.223-6 
+DRUG-FREE WORKPLACE (JUL 1990) 
+(Reference 23.505) 
+
+
+I.47 52.225-13 : 
+RESERVED 
+(Reference) 
+
+
+I.48 252.225-7012 
+PREFERENCE FOR CERTAIN DOMESTIC COMMODITIES (DEC 1991) 
+(Reference 225.7002-4) 
+
+
+I.49 52.227-1 I 
+AUTHORIZATION AND CONSENT (APR 1984)--ALTERNATE I (APR 1984) 
+(Reference 27.201-2) 
+
+
+I.50 52.227-2 
+NOTICE AND ASSISTANCE REGARDING PATENT AND COPYRIGHT INFRINGEMENT 
+(APR 1984) , 
+(Reference 27.202-2) 
+
+
+I.51 52.227-10 
+FILING OF PATENT APPLICATIONS--CLASSIFIED SUBJECT MATTER (APR 1984) 
+(Reference 27.207-2) 
+
+
+I.52 52.227-12 
+PATENT RIGHTS--RETENTION BY THE CONTRACTOR (LONG FORM) (JUN 1989) 
+(Reference 27.303) 
+
+
+MDA908-93-C-0004 Page I-15 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.53 252.227-7013 
+RIGHTS IN TECHNICAL DATA AND COMPUTER SOFTWARE (OCT 1988) 
+(Reference 227.403-70) 
+
+
+1.54 252.227-7018 
+RESTRICTIVE MARKINGS ON TECHNICAL DATA (OCT 1988) 
+(Reference '227.403-72) 
+
+
+I.55 252.227-7020 
+RIGHTS IN DATA--SPECIAL WORKS (MAR 1979) 
+(Reference 227.405-76) 
+
+
+I.56 252.227-7029 
+IDENTIFICATION OF TECHNICAL DATA (APR 1988) 
+(Reference 227.403-72) 
+
+
+I.57 252.227-7030 
+TECHNICAL DATA--WITHHOLDING OF PAYMENT (OCT 1988) 
+(Reference 227.403-74) 
+
+
+1.58 252.227-7036 
+CERTIFICATION OF TECHNICAL DATA CONFORMITY (may 1987) 
+(Reference 227.403-74) ; 
+
+
+1.59 252.227-7037 
+VALIDATION OF RESTRICTIVE MARKINGS ON TECHNICAL DATA (APR 1988) 
+(Reference 227.403-73) 
+
+
+I.60 52.228-6 
+INSURANCE--IMMUNITY FROM TORT LIABILITY (APR 1984) 
+(Reference 28.311-1) 
+
+
+I.61 52.228-7 
+INSURANCE--LIABILITY TO THIRD PERSONS (APR 1984) 
+(Reference 28.311-2) 
+
+
+1.62 52.230-3 
+DISCLOSURES AND CONSISTENCY OF COST ACCOUNTING PRACTICES (AUG 1992) 
+(Reference 30.201-4) 
+
+
+MDA908-93-C-0004 Page I-16 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.63 52.230-4 ; 
+CONSISTENCY IN COST ACCOUNTING PRACTICES (AUG 1992) 
+(Reference 30.201-4) 
+
+
+I.64 252.231-7000 ae 
+SUPPLEMENTAL COST PRINCIPLES (DEC 1991) 
+(Reference 231.100-70) 
+
+
+I.65 252.231-7001 
+PENALTIES FOR UNALLOWABLE COSTS (DEC 1991) 
+(Reference 231.7004) 
+
+
+I.66 52.232-17 
+INTEREST (JAN 1991) 
+(Reference 32.617) 
+
+
+I.67 52.232-20 
+LIMITATION OF COST (APR 1984) 
+(Reference 32.705-2) 
+
+
+I.68 52.232-23 
+ASSIGNMENT OF CLAIMS (JAN 1986) 
+(Reference 32.806) 
+
+
+I.69 52.232-25 
+PROMPT PAYMENT (APR 1989) 
+(Reference 32.908) 
+
+
+I.70 52.233-1 
+DISPUTES (DEC 1991) 
+(Reference 33.215) 
+
+
+I.71 52.233-3 
+PROTEST AFTER AWARD (AUG 1989) 
+(Reference 33.106) 
+
+
+I.72 52.233-3 I 
+PROTEST AFTER AWARD (JUN 1985)=--ALTERNATE I (JUN 1985) 
+(Reference 33.106) 
+
+
+MDA908-93-C-0004 Page I-17 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.73 252.233-7000 
+CERTIFICATION OF CLAIMS AND REQUESTS FOR ADJUSTMENT OR RELIEF (DEC 1991) 
+(Reference 233.7001) 
+
+
+I.74 52.242-1 3 
+NOTICE OF INTENT TO DISALLOW COSTS (APR 1984) 
+(Reference 42.802) 
+
+
+I.75 52.242-13 
+BANKRUPTCY (APR 1991) 
+(Reference 42.903) 
+
+
+I.76 252.242-7000 
+POSTAWARD CONFERENCE (DEC 1991): > 
+(Reference 242.570) 
+
+
+I.77 52.243-2 V 
+CHANGES--COST-REIMBURSEMENT (AUG 1987)--ALTERNATE V (APR 1984) 
+(Reference 43.205) 
+
+
+I.78 52.243-7 
+NOTIFICATION OF CHANGES (APR 1984) 
+(Reference 43.107) 
+
+
+I.79 52.244-2 I 
+SUBCONTRACTS (COST-REIMBURSEMENT AND LETTER CONTRACTS) (JUL 1985)-- 
+ALTERNATE I (APR 1985) 
+(Reference 44.204) ‘ 
+
+
+I.80 52.244-5 
+COMPETITION IN SUBCONTRACTING (APR 1984) 
+(Reference 44.204) 
+
+
+I.81 52.245-1 
+PROPERTY RECORDS (APR 1984) 
+(Reference 45.106) 
+
+
+MDA908-93~C-0004 Page I-18 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+I.82 52.249-6 : 
+TERMINATION (COST-REIMBURSEMENT) (MAY 1986) 
+(Reference 49.503) 
+
+
+I.83 52.249-14 ae 
+EXCUSABLE DELAYS (APR 1984) 
+(Reference 49.505) 
+
+
+I.84 52.203-9 
+REQUIREMENT FOR CERTIFICATE OF PROCUREMENT INTEGRITY-~-MODIFICATION 
+(NOV 1990) 
+
+
+(a) Definitions. The definitions set forth in FAR 3.104-4 are hereby 
+incorporated in this clause. 
+
+(b) The Contractor agrees that it will execute the tertification set 
+forth in paragraph (c) of this clause when requested by the Contracting 
+Officer in connection with the execution of any modification of this 
+contract. 
+
+(c) Certification. As required in paragraph (b) of this clause, the 
+officer or employee responsible for the modification proposal shall 
+execute the following certification: 
+
+CERTIFICATE OF PROCUREMENT INTEGRITY--MODIFICATION (NOV 1990) 
+{1) I, [Name of certifier] am the officer or 
+employee responsible for the preparation of this modification proposal 
+and hereby certify that, to the best of my knowledge and belief, with 
+the exception of any information described in this certification, I have 
+no information concerning a violation or possible violation of 
+subsection 27(a), (b), (dad) or (f) of the Office of Federal Procurement 
+
+Policy Act, as amended+ (41 U.S.C. 423), (hereinafter referred to as 
+
+"the Act"), as implemented in the FAR, occurring during the conduct of 
+
+this procurement (contract and modification number). 
+
+(2) As required by subsection 27(e)(1)(B) of the Act, I further certify 
+that to the best of my knowledge and belief, each officer, employee, 
+agent, representative, and consultant of [Name 
+of Offeror} who has participated personally and substantially in the 
+preparation or submission of this proposal has certified that he or she 
+is familiar with, and will comply with, the requirements of subsection 
+
+27(a) of the Act, as implemented in the FAR, and will report immediately 
+
+to me any information concerning a violation or possible violation of 
+
+subsections 27({a), (b), (d), or (£) of the Act, as implemented in the 
+
+FAR, pertaining to this procurement. 
+
+(3) Violations or possible violations: (Continue on plain bond paper 
+if necessary and label Certificate of Procurement Integrity--Modification 
+
+(Continuation Sheet), ENTER "NONE" IF NONE EXISTS) 
+
+
+{Signature of the officer or employee responsible for the modification 
+proposal and date] 
+
+
+MDA908-93-C-0004 ; Page I-19 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+{Typed name of the officer or employee responsible for the modification 
+
+proposal ] 
+
++ Subsections 27(a), (b), and (d) are effective on December 1, 1990. 
+Subsection 27(f) is effective on June 1, 1991. 
+THIS CERTIFICATION CONCERNS A MATTER WITHIN THE JURISDICTION OF AN AGENCY 
+OF THE UNITED STATES AND .THE MAKING OF A FALSE, FICTITIOUS, OR FRAUDULENT 
+CERTIFICATION MAY RENDER THE MAKER SUBJECT TO PROSECUTION UNDER TITLE 18, 
+UNITED STATES CODE, SECTION 1001. 
+
+{End of certification) 
+
+(dad) In making the certification in paragraph (2) of the certificate, the 
+officer or employee of the competing Contractor responsible for the offer 
+or bid, may rely upon a one-time certification from each individual 
+required to submit a certification to the competing Contractor, 
+supplemented by periodic training. These certifications shall be 
+obtained at the earliest possible date after an individual required to 
+certify begins employment or association with the Contractor. If a 
+Contractor decides to rely on a certification executed prior to the 
+suspension of section 27 (i.e., prior to December 1, 1989), the Contractor 
+shall ensure that an individual who has so certified is notified that 
+section 27 has been reinstated. These certifications shall be maintained 
+by the Contractor for a period of 6 years from the date a certifying 
+employee’s employment with the company ends or, for an agency, 
+representative, or consultant, 6 years from the date such individual ceases 
+to act on behalf of the Contractor. 
+
+(e) The certification required by paragraph (c) of this clause is a 
+material representation of fact upon which reliance will be placed in 
+executing this modification. 
+
+(End of clause) 
+
+
+I.85 252.203-7003 
+DAC 91-2 
+PROHIBITION AGAINST RETALIATORY PERSONNEL ACTIONS (APR 1992) 
+
+
+(a) Definitions. 
+As used in this clause-- 
+
+(1) “Appropriate Government official" means 
+
+(i) An officer or employee of the Department of Defense responsible 
+for command, direct staff assistance to a commander, contract 
+administration, program management, audit, inspection, investigation, 
+er enforcement of any law or regulation relating to Government 
+procurement or the subject matter of the contract; 
+
+(ii) A Member of Congress or an officer or employee of Congress, the 
+General Accounting Office, the Congressional Budget Office, or the 
+Office of Technology Assessment; and 
+
+(iii) Any other officer or employee of the United States whose duties 
+include the investigation or enforcement of any law, rule, or 
+regulation relating to Government procurement or the subject matter of 
+the contract. 
+
+(2) “Information concerning a contract" means information about cost, 
+price, compliance with specifications, meeting the user’s requirements, 
+user safety, use or disposition of services, real property or personal 
+property acquired under the contract, the procurement process (including 
+competition, negotiation, award, and administration), and relationships 
+
+
+MDA908-93-C-0004 Page I-20 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+with Government personnel, competitors, or subcontractors. 
+
+(b) Prohibition. 
+
+In accordance with 10 U.S.C. 2409a, the Contractor shall not discharge or 
+otherwise discriminate against any employee with respect to the employee’s 
+compensation or terms and conditions of employment because the employee (or 
+any person acting pursuant to a request of the employee) discloses’ to an 
+appropriate Government official information concerning a defense contract, 
+which information the employee reasonably believes evidences a violation of 
+any Federal law or regulation relating to defense procurement or the 
+subject matter of this contract. 
+
+(c) The Government will notify the Contractor upon receipt of any 
+complaint filed under the provisions of this clause and Subpart 203.71 of 
+the Defense FAR Supplement. The Contractor agrees to cooperate with the 
+Government during its investigation of any such complaint. 
+
+(d) The Contractor shall inform all employees of-- 
+
+(1) The prohibitions of this clause; 
+
+(2) Employees’ rights under-10 U.S.C. 2409a; and + 
+
+(3) Availability of procedures implementing the statute. 
+(End of clause) 
+
+
+I.86 252.204-7003 
+CONTROL OF GOVERNMENT PERSONNEL WORK PRODUCT (APR 1992) 
+
+
+The Contractor’s procedures for protecting against unauthorized 
+disclosure of information shall not require Department of Defense employees 
+or members of the Armed Forces to relinquish control of their work 
+products, whether classified or not, to the Contractor. 
+
+(End of clause) 
+
+
+I.87 52.220-1 
+PREFERENCE FOR LABOR SURPLUS AREA CONCERNS (APR 1984) 
+
+(a) This acquisition is not a set-aside for labor surplus area (LSA) 
+concerns. However, the offeror’s status as such a concern may affect (1) 
+entitlement to award in case of tie offers, or (2) offer evaluation in 
+accordance with the Buy American Act clause of this solicitation. In order 
+to determine whether the offeror is entitled to a preference under .(d) or 
+(2) above, the offeror must identify, below, the LSA in which the costs to 
+be incurred on account of manufacturing or production (by the offeror or 
+the first-tier subcontractors) amount to more than 50% of the contract 
+price. 
+
+
+(b) Failure to identify the locations as specified above will preclude 
+consideration of the offeror as an LSA concern. If the offeror is awarded 
+a contract as an LSA concern and would not have otherwise qualified for 
+award, the offeror shall perform the contract or cause the contract to be 
+performed in accordance with the obligations of an LSA concern. 
+
+(End of provision) 
+
+
+MDA908-93-C-0004 Page I-21 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+1.88 52.225-11_ , 
+RESTRICTIONS ON CERTAIN FOREIGN PURCHASES (MAY 1992) 
+
+
+(a) Unless advance written approval of the Contracting Officer is 
+obtained, the Contractor shail not acquire for use in the aaa face of 
+this contract-- 
+
+(1) Any supplies or services originating from sources within the 
+communist areas of North Korea, Vietnam, Cambodia, or Cuba; 
+
+(2) Any supplies that are or were located in or transported from or 
+through North Korea, Vietnam, Cambodia, or Cuba; or 
+
+(3) Arms, ammunition, or military vehicles produced in South Africa, 
+or manufacturing data for such articles. 
+
+(b) The Contractor shall not acquire for use in the performance of this 
+contract supplies or services originating from sources within Iraq, any 
+supplies that are or were located in or transported from or through Iraq, 
+or any supplies or services from entities controlled by the Government of 
+Traq. 
+
+(c) The Contractor agrees to insert the provisions of this clause, 
+including this paragraph (d), in all subcontracts hereunder. 
+
+(End of clause) 
+
+
+I.89 252.232-7006 
+DAC 91-3 57FR179 09/15/92 
+REDUCTION OR SUSPENSION OF CONTRACT PAYMENTS UPON FINDING OF FRAUD (AUG 
+1992) 
+
+
+{a) 10 U.S.C. 2307(e) permits the head of the agency to reduce or 
+suspend further payments to the Contractor upon a written determination by 
+the agency head that substantial evidence exists that the Contractors 
+request for advance, partial, or progress payments is based on fraud. The 
+provisions of 10 U.S.C. 2307(e) are in addition to any other rights or 
+remedies provided the Government by law or under contract. 
+
+(b) Actions taken by the Government in accordance with 10 U.S.C. 2307(e) 
+shall not constitute an excusable delay under the Default clause of this 
+contract or otherwise relieve the Contractor of its obligations to perform 
+under this contract. 
+
+(End of clause) 
+
+
+I.90 52.500-4069 
+
+Clause Number 52.500-4069 
+DRUG-FREE WORKFORCE (SEP 1988) 
+classified information; or (2) when the contracting officer 
+determines that the clause is necessary for reasons of national 
+security or for the purpose of protecting the health and safety of 
+those using or affected by the product of, or performance of, the 
+contract. Do not use in solicitations and contracts for Commercial 
+or commercial-type products (see FAR 11.001) DFARS 223.570-4 (DAR 
+Case 88-083)@@ 
+(a) Definitions. 
+
+(1) “Employee in a sensitive position," as used in this 
+clause, means an employee who has been granted access to classified 
+information; or employees in other positions that the Contractor 
+
+
+MDA908-93-C-0004 Page I-22 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+determine involve national security, health or safety, or functions 
+other than the foregoing requiring a high degree of trust and 
+confidence. 
+
+(2) “Illegal drugs," as used in this clause, means controlled 
+substances included in Schedules I and II, as defined by section 
+802(6) of Title 21 of the United States Code, the possession of 
+which is unlawful under Chapter 13 of that Title. The term 
+"illegal drugs" does not mean the use of a controlled substance 
+pursuant to a valid prescription or other uses authorized by law. 
+(b) The Contractor agrees to institute and maintain a program for 
+achieving the objective of a drug-free work force. While this 
+clause defines criteria for such a program, contractors are 
+encouraged to implement alternative approaches comparable to the 
+criteria in paragraph (c) that are designed to achieve the 
+objectives of this clause. 
+
+(¢c) Contractor programs shall include the following, or 
+appropriate alternatives: : bd 
+
+(1) Employee assistance programs emphasizing high level 
+direction, education, counseling, rehabilitation, and coordination 
+with available community resources; 
+
+(2) Supervisory training to assist in identifying and 
+addressing illegal drug use by Contractor employees; 
+
+(3) Provision for self-referrals as well as supervisory 
+referrals to treatment with maximum respect for individual 
+confidentiality consistent with safety and security issues; 
+
+(4) Provision for identifying illegal drug users, including 
+testing on a controlled and carefully monitored basis. Employee 
+drug testing programs shall be established taking account of the 
+following: , 
+
+(i) The Contractor shall establish a program that 
+provides for testing for the use of illegal drugs by employees in 
+sensitive positions. The extent of and criteria for such testing 
+shall be determined by the Contractor resources, and the risks to 
+health, safety, or national security that could result from the , 
+failure of an employee adequately to discharge his or her position. 
+
+(ii) In addition, the Contractor may establish a 
+program for employee drug testing-- 
+
+(A) When there is a reasonable suspicion that an 
+employee uses illegal drugs or 
+
+(B) When an employee has been involved in an 
+accident or unsafe practice; 
+
+(C) As part of or as a follow-up to counseling or 
+rehabilitation for illegal drug use; 
+
+(D) As part of a voluntary employee drug testing 
+program. 
+
+(iii) The Contractor may establish a program to test 
+applicants for employment for illegal drug use. 
+
+(iv) For the purpose of administering this clause, 
+testing for illegal drugs may be limited to those substances for 
+which testing is prescribed by section 2.1 of Subpart B of the 
+"Mandatory Guidelines for Federal Workplace Drug Testing Programs" 
+(53 FR 11980 (April 11, 1988)), issued by the Department of Health 
+and Human Services. 
+
+(d) Contractors shall adopt appropriate personnel procedures to 
+
+
+MDA908-93-C-0004 Page I-23 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+deal with employees who are found to be using drugs illegally. 
+Contractors shall not allow any employee to remain on duty or 
+perform in a sensitive position who is found to use illegal drugs 
+until such time as the Contractor, in accordance with procedures 
+established by the Contractor, determines that the employee may 
+perform in such a position. ; 
+
+(e) The provisions of this clause pertaining to drug testing 
+programs shall not apply to the extent they are inconsistent with 
+state or local law, or with an existing collective bargaining 
+agreement; provided that with respect to the latter, the Contractor 
+agrees that those issues that are in conflict will be a subject of 
+negotiation at the next collective bargaining session. 
+
+
+(END OF CLAUSE) 
+
+
+(End of Section) 
+
+
+MDA908-93-C~-0004 Page I-24 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+MDA908-93-C~0004 
+ATTACHMENT 2 
+PAGE 1 OF 3 
+
+
+NOV 2 4 i990 
+GOVERNMENT FURNISHED PROPERTY 
+EQUIPMENT LIST 
+PART NO MODEL NO DESCRITION SERIAL NO 
+None Proof Positive Grammer Check, American PPPI-0991-1 
+Heritage Dictionary and 0-4-008 
+Thesaurus. 
+CT-2082VY CT-2082VY - Panasonic 20" Video AL10100293 
+Monitor Receiver 
+217078 WINGZ Spreadsheet for SUN UNIX 100-31261-0 
+Platform 42144-1 
+AUTOPLAN None Project Management Software None 
+for SUN UNIX Platform 
+SP-FCSS- 5.0 Desktop Publishing Software None 
+ENG-YSC for UNIX Platform 
+650E-M None Erasable Optical 60MBYTE None 
+Media 
+WPSS PV-Wave Mathematical and Analysis None 
+
+
+and Software for UNIXPlatform 
+
+
+WPPSS Wave/Point Mathematical and Analysis None 
+Software for UNIX Platform 
+
+
+DP-0002-20 OS 4.1.1 Digital Photo 24-Bit Color None 
+Rasterops Option; Software 
+for SUN SPARC 2 
+
+
+SC-7500 MI-0003-10 Mitsubishi Full Color Scanner 8200546 
+SCST with Mitsubutool Spotware 
+
+SS-2000T 200T 8mm Backup Tape Drive with 7579 
+Budtool Software 
+
+S-SMT None Software for Exabyte None 
+
+5250034-901 QMS-PS820 PostScript Printer, 8 Pages FKX04556 
+per Minute with Accelerator Q0016709 
+
+8-863-0005- Envelope Tray Paper Cassette for Envelopes None 
+
+000 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+PART _NO 
+
+365-1140-02 
+600-2579-02 
+595-2178-01 
+
+
+595~-1929-04 
+
+
+599-1746-01 
+851-1017-02 
+851-1018-02 
+851-1019-02 
+851-1035-01 
+851-1070-01 
+295-2177-04 
+800-5807-10 
+
+
+ccc-1.0-4- 
+34R-5 
+
+
+605-1290-02 
+365-1140-02 
+600-2791-03 
+794-1122-01 
+595-2263-01 
+595-2152-01 
+595-2307-01 
+855-1502-02 
+
+
+365-1140-02 
+
+
+600-2791-03 
+
+
+794-1122-01 
+
+
+595-2263-01 
+
+
+MODEL NO 
+
+
+4/75GX-16-P40 
+
+
+X116W 
+
+
+X5SSOW 
+
+
+X565W 
+SX-09 
+SX-09 
+SX-09 
+SX-09 
+SX-09 
+X300W 
+SYSTI2 
+
+
+None 
+
+
+X218A 
+
+
+4/50MX-16-P40 16MB 19" Grayscale Desktop 
+
+
+X104U 
+
+
+X552Y 
+
+
+X300U 
+
+
+North American Country Kit 
+
+
+207MB Lunchbox/Internal SCSI 
+
+
+NOV 24 1999 
+
+
+MDA908-93-C-0004 
+ATTACHMENT 2 
+PAGE 2 OF 3 
+DESCRITION SERIAL NO 
+
+
+16MB 19" Color-GxX Desktop 9109CY3208 
+
+
+Operating System (0/S) 115F1094 
+16MB Expansion Memory, 80NS None 
+644MB SCST Disk, CD Pack/ 11262980 
+
+
+CD/ROM 
+
+
+669MB Disk, 150MB 1/4" Tape 111G2165 
+
+
+SUN OS Full UNIX Documentation None 
+
+
+SUN OS Full UNIX Documentation None 
+
+
+SUN OS Full UNIX Documentation None 
+
+
+SUN OS Full UNIX Documentation None 
+
+
+SUN OS Full UNIX Documentation None 
+
+
+9113005574 
+2-User SOS RTU License None 
+
+
+C-Compiler and Media None 
+Documentation 
+
+Video Frame Capture Board 001835 
+
+125DU2599 
+135MI931 
+
+
+4MB Expansion Memory None 
+
+
+13961556 
+Disk 1.44MB 3.5" Internal Floppy 
+
+
+North American Country Kit None 
+4/50MX-16-P40 16MB 19" Grayscale Desktop 138DU8388 
+. 136M0511 
+4MB Expansion Memory None 
+
+
+X104U 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+PART NO 
+595-2152-01 
+595-2307-01 
+855-1502-02 
+9269 
+1003 
+1030 
+1201 
+1032 
+16-0168-01 
+
+
+92-0015-01 
+
+
+None 
+None 
+None 
+LD-V8s000 
+
+
+PMO-650 
+
+
+MODEL NO 
+
+
+X552Y 
+
+
+X300U 
+
+
+SQL Station 
+
+
+None 
+
+
+None 
+
+
+PVS98A 
+CC2A 
+
+
+SWDKA 
+
+
+SMP-1.1-4-4-21 
+
+
+207MB Lunchbox/Internal SCSI 
+
+
+Bev 2 4 1909" 
+MDA908-93-C-0004 
+ATTACHMENT 2 
+PAGE 3 OF 3 
+DESCRITION SERIAL NO 
+
+
+13961557 
+Disk 1.44MB 3.5" Internal Floppy 
+
+
+North American Country Kit None 
+SQL Station as follows: None 
+SQL Server 4.2 
+Data Workbench 4.1 
+APT Workbench 4.0.2 
+Open Client/cC 4.2.5 
+QT-1000/EOS-SS Drive 00824 
+Media, Optical, Maxtor, 00824 
+Eraceable IGB 
+NEC PC VCR COX00517 
+NEC 1.5M Cable to Mac None 
+NEC Mac Tool Kit ‘None 
+Industrial LaserDisc Player None 
+SUN Sparc Fast Magneto Optical None 
+Software - SUN Simplify SQL None 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+" 
+
+
+S q- Q 60007-2 
+CONFINACTO BAITACHEERLIRERAM RS: AX RDP94-00789Ra02000860 
+
+
+Public reporting burden for this collection of information ts estimated to average 440 hours ed fesponse, including the time for reviewing instructions, searchin: 
+existing date sources, gathering and maintaining the dats needed, and completing and reviewing the collection of information. Send comments arding thes 
+burden estimate or 4 other aspect of this collection of information, including suggestions for reducing this burden, to Department of Defense, Washington 
+Headquarters Services, Directorate for information Operations and Reports, 1215 Jefferson Davis eaheey. Suite 1204, Arlington, VA 22202-4302, and to the Office of 
+Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC 20503. Please OO NOT RETURN your form to either of these addresses. Send 
+completed form to the Government issuing Contracting Officer for the Contract/PR No. listed in Block E. 
+
+
+€ 
+A. CONTRACT LINE ITEM NO. |B. EXHIBIT © CATEGORY: 
+0002 A To? ™ oTHER 
+
+
+D. SYSTEM/ITEM Phenomenological é. CONTRACT/PR NO. F. CONTRACTOR 
+Research and Analysis MDA908~93-C-0004 SAIC 
+
+
+1. OATA (TEM NO./ 2. TILE OF DATA ITEMCONtractor S Progress, a. SUBTITLE 
+A001 Status and Management Report. Periodic Status Reports 
+
+
+4 AUTHORITY (Data Acquisition Document No.) 5. CONTRACT REFERENCE 20. WW & REQUIRING OFFICE 
+DI-MGMT-80227 C.6.1, C.6.2, C.6.3, C.6.4 | DIA/ODT-S 
+
+
+7. OD 250 REQ 2. CA aad 10. FREQUENCY 12. DATE OF FIRST SUBMISSION 
+BI-MO 5_DARC [bears] 
+8. APP CODE 13. DATE oF, SUBSEQUENT | Final | 
+A ae 
+| opt-s ssf 1 [2 | 
+
+
+16. REMARKS 
+| Dpp-4 
+
+
+Ref Block 12: Contractor will provide draft report 5 141 
+DARP. Draft will be returned within 7 working days. Co = a 
+pero ——s| | a 
+
+
+1. DATA ITEM NO./ 2. TITLE OF DATA ITEM 3. SUBTITLE 
+A002 Technical Report-Study/Services Interim Technical Reports 
+
+
+16. ESTIMATED 
+TOTAL PRICE 
+
+
+17. PRICE GROUP 
+
+
+& AUTHORITY (Cate Acquisition Document No.) 5. CONTRACT REFERENCE (S.U.W 6. REQUIRING OFFICE 48. ESTIMATED 
+DI-MISC-80508 C.6.1, C.6.2, C.6.3, C.6.4 | DIA/ODT-S TOTAL PRICE 
+9. DIST STATEMENT 
+REQUIRED 
+
+
+7. DD 250 REQ 
+& APP CODE 
+
+
+16. REMARKS 
+
+
+13. DATE OF SUBSEQUENT 
+SUBMISSION 
+
+
+Ref Block 12: Contractor will provide draft 
+report 5 DARP. Draft will be returned within 7 working 
+days. 
+
+
+1a Fen i Sate of psy ian 
+—— asa see 
+
+
+1S. TOTAL en 
+1. DATA (TEM NO,| 2. TITLE OF DATA ITEM 3. SUBTITLE : 17. PRICE GROUP 
+A003 Final Technical Report a 
+4. AUTHORITY (Data Acquisition Document No.) 5. CONTRACT REFERENCE 7U.W 6 REQUIRING OFFICE 18. ESTIMATED 
+DI-MISC-80508 C.6.1, C.6.2, C.6.3, C.6.4 | DIA/ODT-S nae TRC 
+
+
+14. DISTRIBUTION 
+
+
+DIST STATEMENT 
+REQUIRED 
+
+
+7. DD 250 REQ $0, FREQUENCY 12. DATE OF FIRST SUBMISSION 
+ONE/R SEE BLOCK 16 
+
+
+8. APP CODE 13. DATE OF SUBSEQUENT 
+A SUBMISSION 
+
+
+16. REMARKS Re ontents of this report w 
+encompass A002 plus any remaining contract period. 
+
+Contractor will provide draft report 5 DARP. Draft 
+report will be returned within 7 working days. 
+
+
+is aa 2. TITLE OF DATA ITEM 
+Ls 
+aceon oer sy 
+7. OD 258 REQ =| 9%. DIST STATEMENT 12. DATE OF FIRST SUBMISSION [14 STRIBUTION SY 
+REQUIRED To eones J 
+be sve 
+
+
+18. ESTIMATED 
+TOTAL PRICE 
+
+
+ae eR 
+
+
+ee ee ae ee ee eae ee a ee a ee ee ee ae ee a ee ae a a aan ae ee OC tee ean enna ane cse womb nn hs Db doen emeaaa 
+
+
+H. DATE 
+10 FEB 92 
+DD Form 1443 ps0rO¥ed For Kelease ZQQU/0.c Airs are coronene POPS Gere BON” Pag 
+
+
+1461/183 
+
+
+“ 
+
+
+Approved For Release : - P96-00789R0030004600 Ofradn approved 
+DATA ITEM DESCRIPTION OME No, 0704-0588 
+
+
+Exp. Date: Jun 30, 1986 on 
+2. IOENTIFICATION NUMBER 
+
+
+1. TITLE 
+Contractor's Progress, Status and Management Report 
+
+
+DI-MGMT-80227 
+
+
+3. OESCRIPTIONPURPOSE 
+
+
+3.1 The Contractor's Progress, Status and Management Report indicates the progress of 
+work and the status of the program and of the assigned tasks, reports costs, and 
+
+
+informs of existing or potential problem areas. 
+4 APPROVAL DATE S. OFFICE OF PRIMARY RESPONSIBILITY (OPR) Ga. DTIC REQUIRED | 60. GIDE? REQUIRED 
+(VVHAMOO) 
+860905 ac N/SEANAR 
+7.1 This Data Item Description (DID) contains the format and content preparation 
+
+
+7. APPLICATION JINTERRELATIONSHIP 
+
+instructions for the data product generated by the specific and discrete task 
+requirement for this data included in the contract. ; : 
+
+7.2 This DID may be applied in any-contract and during any program phase. 
+
+7.3 This DID supersedes DI-A-2090A, DI-A-3025A, UDI-A-22050B, UDI-A-22052A, UDI-A-23960, 
+
+
+. DI-A-30024, and DI-A-30606. (cont. on page 2) 
+
+
+8. APPROVAL UMITATION Ja. APPLICABLE FORMS 9b. AMSC NUMBER 
+. ; N3947 
+
+
+é am 10, PREPARATION INSTRUCTIONS 
+{ 
+
+
+= % 
+: ( vy 
+- ie 
+
+
+: . { 
+10.1 Contract - This data item is generated by the contract which contains @ specific and | 
+‘" diserete work task to develop this data product. 7 
+10.2 Format - This report shall be typewritten on standard size (e.g. 8 1/2" by 11") white 
+‘  ° Paper, and securely stapled. Pages shall be sequentially numbered. All attachments 
+shall be identified and referenced in the text of the report. The report shall be 
+prepared in the contractor's format and shall be legible and suitable for 
+reproduction. ; i 
+10.3 Content ~ The report shall include: 
+a. A front cover sheet Which includes the contractor's name and address, the 
+. contract number, the nomenclature of the system or program, the date of the 
+report, the period covered by the report, the title of the report, either the 
+serial number of the report or the Contract Data Requirements List (CDRL) 
+- sequence number, the security classification, and the name of the issuing 
+Government activity; : 
+b. Description of the progress made against milestones during the reporting period; 
+ce. Results, positive or negative, obtained related to previously-identified problem 
+areas, with conclusions and recommendations;" — a: ~ 
+“da. Any significant changes to the contractor's organization or method of operation, _ 
+to the project management network, or to the milestone chart; 
+e.- Problem areas affecting technical or scheduling elements, with ‘background and any 
+recommendations for solutions beyond the scope of the contract; . ; 
+£, Problem areas affecting cost elements, with background and any recommendations for 
+" golutions beyond the scope of the contract; : ey wees 
+g- Cost curves showing actual and projected conditions throughout the contract; 
+h. Any cost incurred for the reporting period and total contractual expenditures as 
+; of reporting date; : ear ‘ 
+i. Person-hours expended for the reporting period and cumulatively for the contract; 
+j- Any trips end significant results; (cont..on page 2). 
+
+
+Soe D0 Form 1664, FEB 85 4 Previous eciaon a obsolete. AGE OF ___2__ Oaces 
+s 
+
+
+Coes 
+
+
+Page 2 of 2 Pages 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+DI-HGMT- 80227 
+
+
+7. APPLICATION/INTERRELATIONSHIP (Cont ‘d) 
+
+
+7.4 Paragraphs 10.3.f, 10.3.g, and 10.3.h herein should be tailored on DD Form 1423 
+- when such cost data is already submitted through a sophisticated cost reporting 
+system under the contract. - 
+
+
+10. PREPARATION INSTRUCTIONS (Cont‘d) 
+
+
+k. Record of all significant telephone calls and any commitments made by 
+telephone; 
+
+1. Summary of Engineering Change Proposal (ECP) status, including identification 
+of proposed ECPs, approved ECPs, and implemented ECPs; 
+
+m. Contract schedule status; os . 
+
+n. Plans for activities during the following reporting period; 
+
+o. Name and telephone number of preparer of the report; 
+
+p. Appendixes for any necessary tables, references, photographs, illustrations, 
+and charts. : 
+
+
+YS. GOVERNMENT PRINTING OFFICE: 1986~704-037/50176 
+
+
+wie a: 
+‘ ms 
+
+
+_ Approved For Release 2000/08/08 -{CIA-RDP96-00789R00 
+
+
+fee 
+
+
+3000460007-2 
+
+
+“AGBAVEF For Raléasd 2000708168 “CHERD PSE BU789R003dK 
+
+
+2. TITLE 1. IDENTIFICATION NUMBER 
+Technical Report -— Study/Services DI-MISC—80508 
+3. DESCRIPTION/FURFOSE 
+
+
+3.1 A technical report provides fully documented results of studies or 
+analyses performed. , 
+
+
+- APPROVAL DATE 3S. OFFICE OF PRIMARY éa.DTIC . 
+CYYMMDD) RESPONSIBILITY (OPR) APPLICABLE | APPLICABLE 
+
+
+880115 G/T2137. ¥ 
+
+
+7. APPLICATION/INTERRELATIONSHIP 
+
+7.1 This data item description contains the format and content preparation instructions 
+for the data product generated by the specific and discrete task requirement as 
+delineated in the contract. 
+
+
+7.2 This DID supersedes DI-A-5029. 
+
+
+7.3 Defense Technical Information Center (DTIC), Cameron Station, Alexandria, VA 22314. 
+
+
+8. APFROVAL LIMITATION Ga. APPLICABLE FORMS/9b. AMSC NUMBER 
+G4291 
+
+
+10. PREPARATION INSTRUCTIONS 
+
+
+10.1 Format. 
+
+
+(a) The report and all attachments shall be typewritten, or 
+otherwise clearly lettered, and shall be duplicated using non-fading 
+ink. ’ 
+
+(b) Text shall be prepared on standard letter size paper 
+(8 1/2" X 11"). 
+
+(c) When attachments are included, they shall be fully 
+identified, referenced in the text, and folded to conform to the size 
+paper used in the report. 
+
+(d) Security classification and distribution markings shall 
+conform to the requirements of the contract, purchase description and 
+security requirements checklist, as applicable. 
+
+
+10.2 Content. ; - 
+
+
+(a) Title Page - Identifies the report by providing contract 
+mumber, project name or purchase deseripbion title, task number, and 
+reporting period. 
+
+
+«continued on page 2) 
+
+
+121. DISTRIBUTION STATEMENT 
+
+
+DISTRIBUTION STATEMENT Az Approved for public release; distribution 
+is unlimited. 
+
+
+Fora 1664, JUN 8S (FACSIMILE) Previous editions are obsolete. 
+Page 1 of 2 Pages 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+DI-MGMT— 80508 
+
+
+Block 10. Preparation Instructions (Continued) 
+
+
+(b) Table of Contents 
+(c} Section I - Includes the followings 
+(1) Introduction . 
+(2) Summary ~ A brief statement of results obtained 
+from the analytic effort. 
+(3) Conclusions and their condensed technical 
+substantiations. . 
+(d) Section II - A complete and detailed description of the 
+analytic results which led to the conclusions stated in Section I above. 
+
+
+Page 2 of 2 Pages 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+td 
+
+
+= BL FU—4 OL Aba wer ern 
+
+
+AppraverdionReledse 2000/08/08 : CIA-RDP96- 
+
+
+DEPARTMENT OF DEFENSE 
+CONTRACT SECURITY CLASSIFICATION SPECICATION 
+
+
+(he eequixemenns of the DoD indurtrial Security Menwal apply 
+to aff security especes of this effort) 
+
+
+2. THIS SPECIFICATION 8S FOR: Ox ont emetic of enelcndte) 3. THIS SPEQEKATION tS: ox ow oryirn eeoticslete) 
+
+
+iB THIS A FOLLOW-ON CONTRACT? [| 
+
+
+ate aes 
+
+
+oreviet pec 
+
+
+00. Of Yer, covetere We toltewing: “e 
+a 
+
+
+aa 06D. Cf Van, energies the tottewing: 
+
+
+S. 6 THES A FINAL OO FORM 254? 
+
+
+6. CONTRACTOR Gohunke Commercial ond Corerroneert Convey CAGE) Cosed 
+Ca MASAL, ADOALSS, AMD TW COE : 
+
+
+SAIC 
+10260 CAMPUS POINT DRIVE 
+SAN DIEGO, CA 92121 
+
+
+DCASR LOS ANGELES 
+
+
+11099 LA CIENGA BLVD 
+LOS ANGELES, CA 90045 
+
+
+J. SUBCONTRACTOR 
+
+
+@. ACTUAL PERFORMANCE 
+
+
+9. GENERAL IDENTIFICATION OF THIS PROCUREMENT 
+
+
+R&D Contract: Research and Analysis 
+
+
+50-5 apply 
+
+
+vious editions are obsolete. 
+
+
+2 
+
+
+DD Form 254, DEC 90 
+
+
+Enclosure 8 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+S CHIAE CONTRACT OUNAEER ew (rveseoa) 
+WBn06-F=C-B004 ee CE 
+
+
+/ 
+| 
+
+
+LT DUCATI O46 OTUs ondeta Owe Onve (VV ssstOG) 
+SUE [heer oz | [emer | 
+
+
+ber Qrrecading Contest Chamba  tronafecred 00 tl thcrwon eonmedt. 
+
+
+fn cenporat te Te erences’ evqvent doted « eeteneion of tht ibentad carat’ matartal 6 othanteed tor tut peed Of 
+
+
+« GOCHUANT HACUNITY OFFKE (ome, Aderees, ond Zip Cost) 
+
+
+ATTN: DIRECTORATE OF INDUSTRIAL SECU 
+
+
+rociaad CONTRACT woud REQUIRE AccESS TOs TS] 
+
+Se a 
+
+oes EE 
+
+Se 
+
+a a 
+
+eens a a CSC es 
+es a CL 
+eee Le eres non me 
+ee LL mre rt er epee 
++ ran vr earerowaron TX om ree 
+
+
+DoD 5200.17(M-2); DIAM 50-3; DIAM 
+
+
+§3.303-DD-254 
+
+
+L 
+
+
+: = al JU—/ SEP EMBEK 235 vi © 
+
+
+s3seygprased For Release 2000/08/08 : CIAFHDERAD ORASRRIIRNA 442967 Z10Nn (FAR) 
+
+
+42, PUBLIC RELEASE. Ary tnterwarion (vated ar areiaawtivd] pertsining tha asrmrect Gua ot bt fvicecad Sor GutAK Gharminon GaauR wn preded By Oa PCE 
+Sormatl of Sie tat tron eporoved Ser gute eviewnt by empropriote ULL. Camernment esthortty. Prapoued public rulrsnat hell be sulmitued Ser acerere! pris’ te welmsse 
+
+
+Oren C_] Through Cpe 
+No public exhibition of SCI authorized. 
+
+
+Of tre Asmictore tocretary of Orteree Publik Aftein}* ter veview, 
+be sutenitied te thet agency. 
+
+
+Ttrect: eeferenced heceta. Abd additional poges as eroded te provide completa guitonn.) 
+; . 
+
+
+a. This contract requires access to SCI. The Director, Defense Intelligence 
+Agency has exclusive security responsibility for such information released to 
+the contractor or developed under this contract. DIAM 50-5, Volumes I and II 
+provide the necessary guidance for physical, personnel and information security 
+measures and is a part of the security specifications for this contract. DCASR 
+is relieved of all responsibility for all SCI material for information released 
+to the contractor under this contract. Access to SCI limited to US_govt 
+SCIF. Contractor facility limited to SECRET NOFORN collateral material: 
+b. All contractor personnel to be granted access to all classified information 
+released or generated under this contract must be U.S. citizens granted a final 
+security clearance by-the Government prior to being given access... Immigrant 
+aliens, interim cleared personnel or personnel holding a contractor granted 
+CONFIDENTIAL clearance are not eligible for access to classified information 
+released or generated under this contract without the express permission of the 
+Director, DIA. 
+
+
+c. Classified material released or generated under this contract is not 
+Ne a de to Foreign National without the express permission of the Director, 
+
+
+(continued) 
+
+
+$4, ADDITIONAL SECURITY REQUIREMENTS. Requirement, in accion 86 (Sit reqvirements, ert extsbtahed for tha Vet. dently the 
+M Contractual Ceuset J tha contract ocreren feel, or provide £8 eppropriete sia temem ehich identifies the ackéttione! requreeuene. Provide 
+0 Cpy Of the requirments te the cognizent seartty office. Use Kem 13 of eddroonsl pact & aceded) 
+
+
+DIA document ODT-S-1040-S; “Contractor Security Procedures Guide," 
+
+
+- 
+
+
+15. INSPECTIONS. Clemers of tha contract ore evEise tit iniceCliON eeiporalblitty @f She cognizant srourity @tlice. @Y Yer expla ond itentity spectec 
+9 eftat oF etcenent Cored et and tht activity reiponsible for inaprctiont, (ne Rem 13 i addttiensl qpece bs aveded.) 
+
+
+: DIA has exclusive security responsibility for any SCI 
+classified information developed or related to this contract. 
+
+
+the cassified 
+be referred to the official named below. 
+
+
+96. CERTIFICATION AND SIGNATURE. ceo requirements stated herein are complete and adequste for safeguard: 
+information to be released or generated under thir dassified effort. AE questions shall iy at 
+a iis 
+
+
+“CHIEF, ODT-S 
+
+
+Defense Intelligence Agency 
+Washington, D.C. 20340-0001 
+
+
+DD Form 254 Reverse, DEC 90 
+
+
+53-212 , ad 
+
+
+2 
+
+
+SG1J 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+ae , 
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+Item 13: Additional Security Guidance, ctd. 
+
+
+da. Unclassified information released or generated under this contract shall 
+be restricted to its dissemination to contractor and personnel 
+involved in the contract. Release in open source literature or exhibition 
+of such information is strictly prohibited without the permission of the 
+Director, DIA. 
+
+
+e. This contract requires the use of the DEFOOS system. 
+
+
+f. Recipients of information under this contract may not release 
+information to subcontractors without the permission of the DIA. 
+
+
+g. Final classification of the information generated under this contract is 
+the responsibility of DIA (ODI-S). Information generated under this 
+contract is subject to the guidelines contained in DoD Regulation 5200.1R, 
+dated 2 Nov 1978. Technical reports classified as high as TOP SECRET SI/SAO 
+will be provided to the contractor by DIA and other DoD activities, and. 
+other DoD contractors for use in connection with this contract. These 
+ee ee ee 
+needed. Upon termination of this contract the reports shall be returned to 
+the sender (if required) or destroyed IAW current security regulations. if 
+these documents are to be retained beyond the ending date of this contract, 
+written justification must be forwarded to and authorization given by the 
+contracting officer. 
+h. DIA will provide the contractor with a SIU-III to be used in conjunction 
+with this contract. See enclosed security procedures guide for additional 
+information concerning this item. 
+
+
+i. Due to the unique nature of certain aspects of this contract, the 
+contractor is required to provide a suitably controlled and restricted 
+immediate working environment to permit sensitive project activities to be 
+properly conducted. 
+
+
+j. All copies of final documents generated by the contractor under this 
+
+
+contract will be transmitted to DIA (ODI-S) for dissemination to authorized 
+recipients. No other distribution is authorized. 
+
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R003000460007-2 
+
+
+bi A dh tad ee AE do SOL ee 
+
+
+JHIS DOCUMENT BECOMES UNCLASSIFIED “Sasa 
+
+
+Annroved or melease DO OO SB/OB_: . RPDPO6.00 SO DO BODO ABRDOD 
+1. THIS CONTRACT IS A RATED ORDE7 RATING PAGE OF PAGES 
+AWARD / CONTRACT UNDER DPAS (16CFR 360) 1 40. 
+
+
+* 2. CONTRACT (Proc, inst. ident.) NO. 3. EFFECTIVE DATE 
+: \ MOA9OB9SC0004 30 DEC 92 
+
+
+Virginia Contracting Activity 
+SG1J P.O. Box 46563 
+Washington, D.C. 20050-6563 
+
+
+pd 
+
+
+4. REQUISITION/PURCHASE REQUEST/PROJECT NO. 
+
+
+- 330/026/92 
+6. ADMINISTERED BY (If other than Item 5) CODE 
+
+
+/ OTS 
+
+
+SO514A 
+
+
+DCMAO San Diego 
+7675 Dagget Street, Suite 200 — 300 
+San Diego, CA 92111-2241 
+
+
+ist2 
+(202) 373-8388 
+7. NAME AND ADDRESS OF CONTRACTOR (No., street, city, county, State and ZIP Code) 
+
+
+SCIENCE APPLICATIONS INTERNATIONAL CORP 
+10260 CAMPUS POINT DRIVE 
+SAN DIEGO, CA 92121 
+
+
+c/o DEFENSE TECHNOLOGY GROUP 
+1710 GOODRIDGE DRIVE, MS 2-6-2 10. SUBMIT INVOICES 
+MCLEAN, VA 22102 : + sere ceasTO THE » 
+
+
+ADDRESS SHOWN IN: 
+CODE 52302 FACILITY CODE 
+11. SHIP TO/MARK FOR 00000 12, PAYMENT WILL BE MADE BY 
+
+
+DFC/San Francisco (Paymt Off) 
+See Schedule P.0. Box 182380 
+Cotumbus, OH 43218-2380 
+
+
+8, DELIVERY 
+
+
+(Jrosoniawn — R] oTHER (See below) 
+9. DISCOUNT FOR PROMPT PAYMENT 
+
+
+00.000% O00 Net 000 
+
+
+(TEM 
+12 
+
+
+$c1008 
+
+
+13. AUTHORITY FOR USING OTHER THAN FULL AND OPEN COMPETITION; 14, ACCOUNTING AND APPROPRIATION DATA 
+
+
+B720400.44 7M2 6F0301 1222 503744 — $1,425,613.00 (C) 
+
+
+1OU.S.C, 2304(0)(6§ ) []41U.8.c.2830)¢ ) 
+
+
+15A. ITEM NO. 188. SUPPLIES/SERVICES 15C, QUANTITY 48D. UNIT [15£. UNITPRICE | 15F, AMOUNT 
+
+
+See attached Schedule(s) 
+Section K and L as submitted with youy offer in response tp : 
+solicitation MDA908-92—R-0164 are incdrporated by reference 
+and retained in the official contract |file. 
+
+
+COST-PLUS-FIXED-FEE (COMPLETION 15G. TOTAL AMOUNT OF CONTRACT 
+16. TABLE OF CONTENTS 
+
+
+fo [see] DESCRIPTION DESCRIPTION [ees | 
+PART il- CONTRACT CLAUSES 
+| 1 [CONTRACT CLAUSES EF 
+
+
+PART Ii! - LIST OF DOCUMENTS, EXHIBITS AND OTHER ATTACH. 
+
+
+LIST OF ATTACHMENTS Pa eae 
+
+
+PART IV- REPRESENTATIONS AND INSTRUCTIONS 
+CONTRACT ADMINISTRATION DATA 
+
+
+REPRESENTATIONS, CERTIFICATIONS AND 
+OTHER STATEMENTS OF OFFERORS 
+SPECIAL CONTRACT REQUIREMENTS 
+
+
+CONTRACTING OFFICER WILL COMPLETE ITEM 17 OR 18 AS APPLICABLE 
+
+
+17. [44 CONTRACTOR'S NEGOTIATED AGREEMENT (Contractor is re- 18. a] AWARD § (Contractor Is not required to sign this document.) Your 
+uired to sign this document and return copies to issuing office. ) offer on Solicitation Number ; 
+‘ontractor agrees to furnish and deliver allitems or perform allthe services set including the additions or changes made by you which additions or changes 
+
+forth or otherwise identified above and on babs Sorel lemme sheets forthe are set forth in full above, is hereby accepted as to the items listed above and 
+consideration stated herein. The rights and obligations of the parties to this on any continuation sheets. This award consummates the contract which con- 
+
+
+PACKAGING AND MARKING 2 
+INSPECTION AND ACCEPTANCE 
+DELIVERIES OR PERFORMANCE 
+
+
+contract shall be subject to and governed by the following documents: (a) this sists of the follawing documents: (a) the Government's solicitation and your 
+award / contract, (b) the solicitation, if any, and (c) such provisions, representa- offer, and (b) this award / contract. No further contractual document is neces- 
+tions, certifications, and specifications, as are attached or incorporated by sary. 
+
+seterence herein. (Attachments are listed herein.) 
+
+
+f7 
+19C. DATE 
+
+
+25-106 
+
+
+PREVIOUS EDITHAN " OVER Por Release:200G/08/08 : M 26 (REV. 4-85 
+
+
+Legh Cag 254007 89R 003 0084 ESU HE hase , 
+SGIJ SG1J PHS DOCUMENT BECOMES UNCLASSIRS 
+
+
